@@ -1,0 +1,94 @@
+---
+title: "Title"
+output: html_document
+---
+
+```{r options,echo=FALSE}
+knitr::opts_chunk$set(comment=NA, echo=FALSE, warning=FALSE, message=FALSE)
+```
+
+Abstract: Blah, blah, blah. 
+
+Introduction
+-------------------------------------------------------
+Blah, blah, blah.
+
+The Data
+-------------------------------------------------------
+Blah, blah, blah.
+
+```{r packages}
+library(plyr, quietly = TRUE)
+library(ggplot2, quietly = TRUE)
+library(rgdal, quietly = TRUE)
+library(rgeos, quietly = TRUE)
+```
+
+```{r import}
+zip_map <- readOGR("shape", "stl-zcta-map", verbose = FALSE)
+load("data/cbp.RData")
+```
+
+County Business Patterns
+-------------------------------------------------------
+Blah, blah, blah.
+
+```{r}
+p_dat <- fortify(zip_map, region = "zcta")
+p_dat <- merge(
+  p_dat, 
+  cbp[cbp$year == 2000 | cbp$year == 2012, ], 
+  by.x = "id", by.y = "zip"
+  )
+p_dat <- p_dat[order(p_dat$order), ]
+p_dat <- p_dat[!is.na(p_dat$emp), ]
+```
+
+```{r}
+ggplot(p_dat, aes(long, lat, group = group, fill = emp)) + 
+  geom_polygon() + 
+  geom_path(colour = "grey", lwd = 0.1) + 
+  coord_equal() + 
+  facet_wrap(~ year)
+```
+
+```{r}
+# Employment: Missing Data
+zip_full <- ddply(
+  cbp[cbp$year == 2000 | cbp$year == 2012, ], 
+  c("zip"), 
+  summarize, 
+  obs = sum(as.integer(emp > 0))
+  )
+zip_full <- zip_full[zip_full$obs == 2, 1]
+
+# Employment Change 
+cbp_chg <- ddply(
+  cbp[cbp$zip %in% zip_full & (cbp$year == 2000 | cbp$year == 2012), ], 
+  c("zip"), 
+  summarize,
+  total_change = emp[2] - emp[1], 
+  percent_change = (emp[2] / emp[1]) - 1
+  )
+
+cbp_chg <- transform(cbp_chg, zip = as.character(zip))
+```
+
+```{r}
+p_dat <- fortify(zip_map, region = "zcta")
+p_dat <- merge(p_dat, cbp_chg, by.x = "id", by.y = "zip")
+p_dat <- p_dat[order(p_dat$order), ]
+p_dat <- p_dat[!is.na(p_dat$total_change), ]
+
+ggplot(p_dat, aes(long, lat, group = group, fill = total_change)) + 
+  geom_polygon() + 
+  geom_path(colour = "grey", lwd = 0.1) + 
+  coord_equal() + 
+  scale_fill_gradient2()
+
+ggplot(p_dat, aes(long, lat, group = group, fill = percent_change)) + 
+  geom_polygon() + 
+  geom_path(colour = "grey", lwd = 0.1) + 
+  coord_equal()
+```
+

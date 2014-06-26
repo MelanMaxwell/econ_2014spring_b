@@ -1,0 +1,2972 @@
+"zcta5","cbsa","cbsaname","zipname","pop2k","afact"
+"ZIP Census Tabulation Area","cbsa","CBSA Name","zipname","Total Pop, 2000 census","zcta5 to cbsa alloc factor"
+"51630"," "," ","BLANCHARD",28,1 
+"51640"," "," ","HAMBURG",24,1 
+"52626","22800","Fort Madison-Keokuk, IA-IL-MO","FARMINGTON",32,1 
+"52761","19340","Davenport-Moline-Rock Island, IA-IL","MUSCATINE",231,1 
+"60002","16980","Chicago-Naperville-Elgin, IL-IN-WI","ANTIOCH",19442,1 
+"60004","16980","Chicago-Naperville-Elgin, IL-IN-WI","ARLINGTON HEIGHT",52735,1 
+"60005","16980","Chicago-Naperville-Elgin, IL-IN-WI","ARLINGTON HEIGHT",29183,1 
+"60007","16980","Chicago-Naperville-Elgin, IL-IN-WI","ELK GROVE VILLAG",35162,1 
+"60008","16980","Chicago-Naperville-Elgin, IL-IN-WI","ROLLING MEADOWS",23318,1 
+"60010","16980","Chicago-Naperville-Elgin, IL-IN-WI","BARRINGTON",39819,1 
+"60012","16980","Chicago-Naperville-Elgin, IL-IN-WI","CRYSTAL LAKE",9919,1 
+"60013","16980","Chicago-Naperville-Elgin, IL-IN-WI","CARY",24226,1 
+"60014","16980","Chicago-Naperville-Elgin, IL-IN-WI","CRYSTAL LAKE",44468,1 
+"60015","16980","Chicago-Naperville-Elgin, IL-IN-WI","DEERFIELD",27224,1 
+"60016","16980","Chicago-Naperville-Elgin, IL-IN-WI","DES PLAINES",58611,1 
+"60018","16980","Chicago-Naperville-Elgin, IL-IN-WI","ROSEMONT",29950,1 
+"60020","16980","Chicago-Naperville-Elgin, IL-IN-WI","FOX LAKE",6457,1 
+"60021","16980","Chicago-Naperville-Elgin, IL-IN-WI","FOX RIVER GROVE",5877,1 
+"60022","16980","Chicago-Naperville-Elgin, IL-IN-WI","GLENCOE",8490,1 
+"60025","16980","Chicago-Naperville-Elgin, IL-IN-WI","GLENVIEW",49574,1 
+"60029","16980","Chicago-Naperville-Elgin, IL-IN-WI","GOLF",354,1 
+"60030","16980","Chicago-Naperville-Elgin, IL-IN-WI","GAGES LAKE",32340,1 
+"60031","16980","Chicago-Naperville-Elgin, IL-IN-WI","GURNEE",37461,1 
+"60033","16980","Chicago-Naperville-Elgin, IL-IN-WI","HARVARD",13164,0.992 
+"60033","40420","Rockford, IL","HARVARD",105,0.008 
+"60034","16980","Chicago-Naperville-Elgin, IL-IN-WI","HEBRON",1896,1 
+"60035","16980","Chicago-Naperville-Elgin, IL-IN-WI","HIGHLAND PARK",29772,1 
+"60037","16980","Chicago-Naperville-Elgin, IL-IN-WI","FORT SHERIDAN",901,1 
+"60040","16980","Chicago-Naperville-Elgin, IL-IN-WI","HIGHWOOD",5645,1 
+"60041","16980","Chicago-Naperville-Elgin, IL-IN-WI","INGLESIDE",9286,1 
+"60042","16980","Chicago-Naperville-Elgin, IL-IN-WI","ISLAND LAKE",8877,1 
+"60043","16980","Chicago-Naperville-Elgin, IL-IN-WI","KENILWORTH",2617,1 
+"60044","16980","Chicago-Naperville-Elgin, IL-IN-WI","LAKE BLUFF",15516,1 
+"60045","16980","Chicago-Naperville-Elgin, IL-IN-WI","LAKE FOREST",22248,1 
+"60046","16980","Chicago-Naperville-Elgin, IL-IN-WI","LINDENHURST",30225,1 
+"60047","16980","Chicago-Naperville-Elgin, IL-IN-WI","LONG GROVE",38168,1 
+"60048","16980","Chicago-Naperville-Elgin, IL-IN-WI","LIBERTYVILLE",28562,1 
+"60050","16980","Chicago-Naperville-Elgin, IL-IN-WI","MC HENRY",47813,1 
+"60053","16980","Chicago-Naperville-Elgin, IL-IN-WI","MORTON GROVE",21668,1 
+"60056","16980","Chicago-Naperville-Elgin, IL-IN-WI","MOUNT PROSPECT",56625,1 
+"60060","16980","Chicago-Naperville-Elgin, IL-IN-WI","MUNDELEIN",37027,1 
+"60061","16980","Chicago-Naperville-Elgin, IL-IN-WI","VERNON HILLS",20328,1 
+"60062","16980","Chicago-Naperville-Elgin, IL-IN-WI","NORTHBROOK",40392,1 
+"60064","16980","Chicago-Naperville-Elgin, IL-IN-WI","ABBOTT PARK",16121,1 
+"60067","16980","Chicago-Naperville-Elgin, IL-IN-WI","PALATINE",50825,1 
+"60068","16980","Chicago-Naperville-Elgin, IL-IN-WI","PARK RIDGE",37732,1 
+"60069","16980","Chicago-Naperville-Elgin, IL-IN-WI","PRAIRIE VIEW",7204,1 
+"60070","16980","Chicago-Naperville-Elgin, IL-IN-WI","PROSPECT HEIGHTS",16126,1 
+"60071","16980","Chicago-Naperville-Elgin, IL-IN-WI","RICHMOND",2905,1 
+"60072","16980","Chicago-Naperville-Elgin, IL-IN-WI","RINGWOOD",348,1 
+"60073","16980","Chicago-Naperville-Elgin, IL-IN-WI","ROUND LAKE",39115,1 
+"60074","16980","Chicago-Naperville-Elgin, IL-IN-WI","PALATINE",23963,1 
+"60076","16980","Chicago-Naperville-Elgin, IL-IN-WI","SKOKIE",34263,1 
+"60077","16980","Chicago-Naperville-Elgin, IL-IN-WI","SKOKIE",25040,1 
+"60081","16980","Chicago-Naperville-Elgin, IL-IN-WI","SPRING GROVE",8321,1 
+"60083","16980","Chicago-Naperville-Elgin, IL-IN-WI","WADSWORTH",5387,1 
+"60084","16980","Chicago-Naperville-Elgin, IL-IN-WI","WAUCONDA",13061,1 
+"60085","16980","Chicago-Naperville-Elgin, IL-IN-WI","MC GAW PARK",72937,1 
+"60087","16980","Chicago-Naperville-Elgin, IL-IN-WI","WAUKEGAN",23530,1 
+"60088","16980","Chicago-Naperville-Elgin, IL-IN-WI","GREAT LAKES",13319,1 
+"60089","16980","Chicago-Naperville-Elgin, IL-IN-WI","BUFFALO GROVE",42115,1 
+"60090","16980","Chicago-Naperville-Elgin, IL-IN-WI","WHEELING",36736,1 
+"60091","16980","Chicago-Naperville-Elgin, IL-IN-WI","WILMETTE",27386,1 
+"60093","16980","Chicago-Naperville-Elgin, IL-IN-WI","NORTHFIELD",19528,1 
+"60096","16980","Chicago-Naperville-Elgin, IL-IN-WI","WINTHROP HARBOR",6853,1 
+"60097","16980","Chicago-Naperville-Elgin, IL-IN-WI","WONDER LAKE",10434,1 
+"60098","16980","Chicago-Naperville-Elgin, IL-IN-WI","WOODSTOCK",27526,1 
+"60099","16980","Chicago-Naperville-Elgin, IL-IN-WI","ZION",29882,1 
+"60101","16980","Chicago-Naperville-Elgin, IL-IN-WI","ADDISON",38141,1 
+"60102","16980","Chicago-Naperville-Elgin, IL-IN-WI","LAKE IN THE HILL",47985,1 
+"60103","16980","Chicago-Naperville-Elgin, IL-IN-WI","HANOVER PARK",75585,1 
+"60104","16980","Chicago-Naperville-Elgin, IL-IN-WI","BELLWOOD",20571,1 
+"60106","16980","Chicago-Naperville-Elgin, IL-IN-WI","BENSENVILLE",22404,1 
+"60107","16980","Chicago-Naperville-Elgin, IL-IN-WI","STREAMWOOD",35638,1 
+"60108","16980","Chicago-Naperville-Elgin, IL-IN-WI","BLOOMINGDALE",21960,1 
+"60109","16980","Chicago-Naperville-Elgin, IL-IN-WI","BURLINGTON",158,1 
+"60110","16980","Chicago-Naperville-Elgin, IL-IN-WI","CARPENTERSVILLE",32145,1 
+"60111","16980","Chicago-Naperville-Elgin, IL-IN-WI","CLARE",305,1 
+"60112","16980","Chicago-Naperville-Elgin, IL-IN-WI","CORTLAND",1294,1 
+"60113","40300","Rochelle, IL","CRESTON",304,1 
+"60115","16980","Chicago-Naperville-Elgin, IL-IN-WI","DE KALB",42372,1 
+"60118","16980","Chicago-Naperville-Elgin, IL-IN-WI","DUNDEE",14739,1 
+"60119","16980","Chicago-Naperville-Elgin, IL-IN-WI","ELBURN",7705,1 
+"60120","16980","Chicago-Naperville-Elgin, IL-IN-WI","ELGIN",48581,1 
+"60123","16980","Chicago-Naperville-Elgin, IL-IN-WI","ELGIN",55201,1 
+"60126","16980","Chicago-Naperville-Elgin, IL-IN-WI","ELMHURST",45355,1 
+"60129","16980","Chicago-Naperville-Elgin, IL-IN-WI","ESMOND",148,0.509 
+"60129","40300","Rochelle, IL","ESMOND",143,0.491 
+"60130","16980","Chicago-Naperville-Elgin, IL-IN-WI","FOREST PARK",15688,1 
+"60131","16980","Chicago-Naperville-Elgin, IL-IN-WI","FRANKLIN PARK",19342,1 
+"60134","16980","Chicago-Naperville-Elgin, IL-IN-WI","GENEVA",21497,1 
+"60135","16980","Chicago-Naperville-Elgin, IL-IN-WI","GENOA",5971,0.994 
+"60135","40420","Rockford, IL","GENOA",36,0.006 
+"60136","16980","Chicago-Naperville-Elgin, IL-IN-WI","GILBERTS",1459,1 
+"60137","16980","Chicago-Naperville-Elgin, IL-IN-WI","GLEN ELLYN",38026,1 
+"60139","16980","Chicago-Naperville-Elgin, IL-IN-WI","GLENDALE HEIGHTS",32303,1 
+"60140","16980","Chicago-Naperville-Elgin, IL-IN-WI","HAMPSHIRE",7315,1 
+"60141","16980","Chicago-Naperville-Elgin, IL-IN-WI","HINES",247,1 
+"60142","16980","Chicago-Naperville-Elgin, IL-IN-WI","HUNTLEY",7891,1 
+"60143","16980","Chicago-Naperville-Elgin, IL-IN-WI","ITASCA",10021,1 
+"60145","16980","Chicago-Naperville-Elgin, IL-IN-WI","KINGSTON",2489,0.961 
+"60145","40420","Rockford, IL","KINGSTON",102,0.039 
+"60146","16980","Chicago-Naperville-Elgin, IL-IN-WI","KIRKLAND",2146,0.959 
+"60146","40300","Rochelle, IL","KIRKLAND",16,0.007 
+"60146","40420","Rockford, IL","KIRKLAND",76,0.034 
+"60148","16980","Chicago-Naperville-Elgin, IL-IN-WI","LOMBARD",50460,1 
+"60150","16980","Chicago-Naperville-Elgin, IL-IN-WI","MALTA",1677,1 
+"60151","16980","Chicago-Naperville-Elgin, IL-IN-WI","MAPLE PARK",3554,1 
+"60152","16980","Chicago-Naperville-Elgin, IL-IN-WI","MARENGO",10971,1 
+"60152","40420","Rockford, IL","MARENGO",3,0 
+"60153","16980","Chicago-Naperville-Elgin, IL-IN-WI","BROADVIEW",26863,1 
+"60154","16980","Chicago-Naperville-Elgin, IL-IN-WI","WESTCHESTER",16714,1 
+"60155","16980","Chicago-Naperville-Elgin, IL-IN-WI","MELLON FINANCIAL",8254,1 
+"60157","16980","Chicago-Naperville-Elgin, IL-IN-WI","MEDINAH",2111,1 
+"60160","16980","Chicago-Naperville-Elgin, IL-IN-WI","MELROSE PARK",23034,1 
+"60162","16980","Chicago-Naperville-Elgin, IL-IN-WI","HILLSIDE",8513,1 
+"60163","16980","Chicago-Naperville-Elgin, IL-IN-WI","HILLSIDE",5212,1 
+"60164","16980","Chicago-Naperville-Elgin, IL-IN-WI","NORTHLAKE",21682,1 
+"60165","16980","Chicago-Naperville-Elgin, IL-IN-WI","STONE PARK",5171,1 
+"60171","16980","Chicago-Naperville-Elgin, IL-IN-WI","RIVER GROVE",10681,1 
+"60172","16980","Chicago-Naperville-Elgin, IL-IN-WI","ROSELLE",25349,1 
+"60173","16980","Chicago-Naperville-Elgin, IL-IN-WI","SCHAUMBURG",12046,1 
+"60174","16980","Chicago-Naperville-Elgin, IL-IN-WI","SAINT CHARLES",31513,1 
+"60175","16980","Chicago-Naperville-Elgin, IL-IN-WI","SAINT CHARLES",17953,1 
+"60176","16980","Chicago-Naperville-Elgin, IL-IN-WI","SCHILLER PARK",11636,1 
+"60177","16980","Chicago-Naperville-Elgin, IL-IN-WI","SOUTH ELGIN",16941,1 
+"60178","16980","Chicago-Naperville-Elgin, IL-IN-WI","SYCAMORE",16477,1 
+"60180","16980","Chicago-Naperville-Elgin, IL-IN-WI","UNION",1743,1 
+"60181","16980","Chicago-Naperville-Elgin, IL-IN-WI","VILLA PARK",30161,1 
+"60184","16980","Chicago-Naperville-Elgin, IL-IN-WI","WAYNE",698,1 
+"60185","16980","Chicago-Naperville-Elgin, IL-IN-WI","WEST CHICAGO",32936,1 
+"60187","16980","Chicago-Naperville-Elgin, IL-IN-WI","WHEATON",61481,1 
+"60188","16980","Chicago-Naperville-Elgin, IL-IN-WI","CAROL STREAM",43730,1 
+"60190","16980","Chicago-Naperville-Elgin, IL-IN-WI","WINFIELD",12065,1 
+"60191","16980","Chicago-Naperville-Elgin, IL-IN-WI","WOOD DALE",14360,1 
+"60192","16980","Chicago-Naperville-Elgin, IL-IN-WI","HOFFMAN ESTATES",1775,1 
+"60193","16980","Chicago-Naperville-Elgin, IL-IN-WI","SCHAUMBURG",41099,1 
+"60194","16980","Chicago-Naperville-Elgin, IL-IN-WI","HOFFMAN ESTATES",41366,1 
+"60195","16980","Chicago-Naperville-Elgin, IL-IN-WI","HOFFMAN ESTATES",29924,1 
+"60201","16980","Chicago-Naperville-Elgin, IL-IN-WI","EVANSTON",41977,1 
+"60202","16980","Chicago-Naperville-Elgin, IL-IN-WI","EVANSTON",32208,1 
+"60203","16980","Chicago-Naperville-Elgin, IL-IN-WI","EVANSTON",4691,1 
+"60301","16980","Chicago-Naperville-Elgin, IL-IN-WI","OAK PARK",2158,1 
+"60302","16980","Chicago-Naperville-Elgin, IL-IN-WI","OAK PARK",32527,1 
+"60304","16980","Chicago-Naperville-Elgin, IL-IN-WI","OAK PARK",17839,1 
+"60305","16980","Chicago-Naperville-Elgin, IL-IN-WI","RIVER FOREST",11635,1 
+"60401","16980","Chicago-Naperville-Elgin, IL-IN-WI","BEECHER",5440,0.982 
+"60401","28100","Kankakee, IL","BEECHER",97,0.018 
+"60402","16980","Chicago-Naperville-Elgin, IL-IN-WI","STICKNEY",60373,1 
+"60406","16980","Chicago-Naperville-Elgin, IL-IN-WI","BLUE ISLAND",25370,1 
+"60407","16980","Chicago-Naperville-Elgin, IL-IN-WI","BRACEVILLE",1604,1 
+"60408","16980","Chicago-Naperville-Elgin, IL-IN-WI","BRAIDWOOD",5077,1 
+"60409","16980","Chicago-Naperville-Elgin, IL-IN-WI","CALUMET CITY",39065,1 
+"60410","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHANNAHON",7585,1 
+"60411","16980","Chicago-Naperville-Elgin, IL-IN-WI","SAUK VILLAGE",60461,1 
+"60415","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO RIDGE",14039,1 
+"60416","16980","Chicago-Naperville-Elgin, IL-IN-WI","COAL CITY",7288,1 
+"60417","16980","Chicago-Naperville-Elgin, IL-IN-WI","CRETE",15780,1 
+"60419","16980","Chicago-Naperville-Elgin, IL-IN-WI","DOLTON",25567,1 
+"60420","16980","Chicago-Naperville-Elgin, IL-IN-WI","DWIGHT",233,0.038 
+"60420","38700","Pontiac, IL","DWIGHT",5890,0.962 
+"60421","16980","Chicago-Naperville-Elgin, IL-IN-WI","ELWOOD",3516,1 
+"60422","16980","Chicago-Naperville-Elgin, IL-IN-WI","FLOSSMOOR",9224,1 
+"60423","16980","Chicago-Naperville-Elgin, IL-IN-WI","FRANKFORT",22853,1 
+"60424","16980","Chicago-Naperville-Elgin, IL-IN-WI","GARDNER",2304,0.997 
+"60424","28100","Kankakee, IL","GARDNER",7,0.003 
+"60425","16980","Chicago-Naperville-Elgin, IL-IN-WI","GLENWOOD",9011,1 
+"60426","16980","Chicago-Naperville-Elgin, IL-IN-WI","MARKHAM",47649,1 
+"60429","16980","Chicago-Naperville-Elgin, IL-IN-WI","HAZEL CREST",16070,1 
+"60430","16980","Chicago-Naperville-Elgin, IL-IN-WI","HOMEWOOD",21152,1 
+"60431","16980","Chicago-Naperville-Elgin, IL-IN-WI","JOLIET",23392,1 
+"60432","16980","Chicago-Naperville-Elgin, IL-IN-WI","JOLIET",21431,1 
+"60433","16980","Chicago-Naperville-Elgin, IL-IN-WI","JOLIET",17658,1 
+"60435","16980","Chicago-Naperville-Elgin, IL-IN-WI","SHOREWOOD",52542,1 
+"60436","16980","Chicago-Naperville-Elgin, IL-IN-WI","ROCKDALE",16184,1 
+"60437","16980","Chicago-Naperville-Elgin, IL-IN-WI","KINSMAN",230,0.987 
+"60437","36860","Ottawa-Peru, IL","KINSMAN",3,0.013 
+"60438","16980","Chicago-Naperville-Elgin, IL-IN-WI","LANSING",28950,1 
+"60439","16980","Chicago-Naperville-Elgin, IL-IN-WI","ARGONNE",20004,1 
+"60440","16980","Chicago-Naperville-Elgin, IL-IN-WI","BOLINGBROOK",46546,1 
+"60441","16980","Chicago-Naperville-Elgin, IL-IN-WI","ROMEOVILLE",49103,1 
+"60442","16980","Chicago-Naperville-Elgin, IL-IN-WI","MANHATTAN",6285,1 
+"60443","16980","Chicago-Naperville-Elgin, IL-IN-WI","MATTESON",15125,1 
+"60444","16980","Chicago-Naperville-Elgin, IL-IN-WI","MAZON",1545,1 
+"60445","16980","Chicago-Naperville-Elgin, IL-IN-WI","CRESTWOOD",25979,1 
+"60446","16980","Chicago-Naperville-Elgin, IL-IN-WI","ROMEOVILLE",20141,1 
+"60447","16980","Chicago-Naperville-Elgin, IL-IN-WI","MINOOKA",7295,1 
+"60448","16980","Chicago-Naperville-Elgin, IL-IN-WI","MOKENA",19476,1 
+"60449","16980","Chicago-Naperville-Elgin, IL-IN-WI","MONEE",5705,1 
+"60450","16980","Chicago-Naperville-Elgin, IL-IN-WI","MORRIS",19021,0.995 
+"60450","36860","Ottawa-Peru, IL","MORRIS",93,0.005 
+"60451","16980","Chicago-Naperville-Elgin, IL-IN-WI","NEW LENOX",27338,1 
+"60452","16980","Chicago-Naperville-Elgin, IL-IN-WI","OAK FOREST",27899,1 
+"60453","16980","Chicago-Naperville-Elgin, IL-IN-WI","OAK LAWN",54499,1 
+"60455","16980","Chicago-Naperville-Elgin, IL-IN-WI","BRIDGEVIEW",16138,1 
+"60456","16980","Chicago-Naperville-Elgin, IL-IN-WI","HOMETOWN",4452,1 
+"60457","16980","Chicago-Naperville-Elgin, IL-IN-WI","HICKORY HILLS",14110,1 
+"60458","16980","Chicago-Naperville-Elgin, IL-IN-WI","JUSTICE",14226,1 
+"60459","16980","Chicago-Naperville-Elgin, IL-IN-WI","BURBANK",27978,1 
+"60460","38700","Pontiac, IL","ODELL",1517,1 
+"60461","16980","Chicago-Naperville-Elgin, IL-IN-WI","OLYMPIA FIELDS",4637,1 
+"60462","16980","Chicago-Naperville-Elgin, IL-IN-WI","ORLAND PARK",38431,1 
+"60463","16980","Chicago-Naperville-Elgin, IL-IN-WI","PALOS HEIGHTS",13286,1 
+"60464","16980","Chicago-Naperville-Elgin, IL-IN-WI","PALOS PARK",9520,1 
+"60465","16980","Chicago-Naperville-Elgin, IL-IN-WI","PALOS HILLS",17198,1 
+"60466","16980","Chicago-Naperville-Elgin, IL-IN-WI","UNIVERSITY PARK",30302,1 
+"60467","16980","Chicago-Naperville-Elgin, IL-IN-WI","60467",20904,1 
+"60468","16980","Chicago-Naperville-Elgin, IL-IN-WI","PEOTONE",5239,0.985 
+"60468","28100","Kankakee, IL","PEOTONE",78,0.015 
+"60469","16980","Chicago-Naperville-Elgin, IL-IN-WI","POSEN",4703,1 
+"60470","16980","Chicago-Naperville-Elgin, IL-IN-WI","RANSOM",10,0.015 
+"60470","36860","Ottawa-Peru, IL","RANSOM",677,0.985 
+"60471","16980","Chicago-Naperville-Elgin, IL-IN-WI","RICHTON PARK",12855,1 
+"60472","16980","Chicago-Naperville-Elgin, IL-IN-WI","ROBBINS",6672,1 
+"60473","16980","Chicago-Naperville-Elgin, IL-IN-WI","SOUTH HOLLAND",22218,1 
+"60474","16980","Chicago-Naperville-Elgin, IL-IN-WI","SOUTH WILMINGTON",733,1 
+"60475","16980","Chicago-Naperville-Elgin, IL-IN-WI","STEGER",9180,1 
+"60476","16980","Chicago-Naperville-Elgin, IL-IN-WI","THORNTON",2601,1 
+"60477","16980","Chicago-Naperville-Elgin, IL-IN-WI","TINLEY PARK",56840,1 
+"60478","16980","Chicago-Naperville-Elgin, IL-IN-WI","COUNTRY CLUB HIL",16168,1 
+"60479","16980","Chicago-Naperville-Elgin, IL-IN-WI","VERONA",717,1 
+"60480","16980","Chicago-Naperville-Elgin, IL-IN-WI","WILLOW SPRINGS",4758,1 
+"60481","16980","Chicago-Naperville-Elgin, IL-IN-WI","CUSTER PARK",11292,0.995 
+"60481","28100","Kankakee, IL","CUSTER PARK",54,0.005 
+"60482","16980","Chicago-Naperville-Elgin, IL-IN-WI","WORTH",11262,1 
+"60490","16980","Chicago-Naperville-Elgin, IL-IN-WI","60490",9263,1 
+"60501","16980","Chicago-Naperville-Elgin, IL-IN-WI","ARGO",11175,1 
+"60504","16980","Chicago-Naperville-Elgin, IL-IN-WI","AURORA",44412,1 
+"60505","16980","Chicago-Naperville-Elgin, IL-IN-WI","AURORA",56971,1 
+"60506","16980","Chicago-Naperville-Elgin, IL-IN-WI","AURORA",51184,1 
+"60510","16980","Chicago-Naperville-Elgin, IL-IN-WI","BATAVIA",26565,1 
+"60511","16980","Chicago-Naperville-Elgin, IL-IN-WI","BIG ROCK",1862,1 
+"60512","16980","Chicago-Naperville-Elgin, IL-IN-WI","BRISTOL",892,1 
+"60513","16980","Chicago-Naperville-Elgin, IL-IN-WI","BROOKFIELD",19146,1 
+"60514","16980","Chicago-Naperville-Elgin, IL-IN-WI","CLARENDON HILLS",17313,1 
+"60515","16980","Chicago-Naperville-Elgin, IL-IN-WI","DOWNERS GROVE",27514,1 
+"60516","16980","Chicago-Naperville-Elgin, IL-IN-WI","DOWNERS GROVE",30593,1 
+"60517","16980","Chicago-Naperville-Elgin, IL-IN-WI","WOODRIDGE",31344,1 
+"60518","16980","Chicago-Naperville-Elgin, IL-IN-WI","EARLVILLE",270,0.074 
+"60518","19940","Dixon, IL","EARLVILLE",92,0.025 
+"60518","36860","Ottawa-Peru, IL","EARLVILLE",3279,0.901 
+"60519","16980","Chicago-Naperville-Elgin, IL-IN-WI","EOLA",74,1 
+"60520","16980","Chicago-Naperville-Elgin, IL-IN-WI","HINCKLEY",2770,1 
+"60521","16980","Chicago-Naperville-Elgin, IL-IN-WI","OAK BROOK",37496,1 
+"60523","16980","Chicago-Naperville-Elgin, IL-IN-WI","60523",10231,1 
+"60525","16980","Chicago-Naperville-Elgin, IL-IN-WI","HODGKINS",32475,1 
+"60526","16980","Chicago-Naperville-Elgin, IL-IN-WI","WORLD OF BEAUTY",13301,1 
+"60530","16980","Chicago-Naperville-Elgin, IL-IN-WI","LEE",182,0.297 
+"60530","19940","Dixon, IL","LEE",431,0.703 
+"60531","16980","Chicago-Naperville-Elgin, IL-IN-WI","LELAND",227,0.115 
+"60531","36860","Ottawa-Peru, IL","LELAND",1748,0.885 
+"60532","16980","Chicago-Naperville-Elgin, IL-IN-WI","LISLE",27341,1 
+"60534","16980","Chicago-Naperville-Elgin, IL-IN-WI","LYONS",10212,1 
+"60536","16980","Chicago-Naperville-Elgin, IL-IN-WI","MILLBROOK",96,1 
+"60537","16980","Chicago-Naperville-Elgin, IL-IN-WI","MILLINGTON",263,0.699 
+"60537","36860","Ottawa-Peru, IL","MILLINGTON",113,0.301 
+"60538","16980","Chicago-Naperville-Elgin, IL-IN-WI","MONTGOMERY",13702,1 
+"60540","16980","Chicago-Naperville-Elgin, IL-IN-WI","NAPERVILLE",42065,1 
+"60541","16980","Chicago-Naperville-Elgin, IL-IN-WI","NEWARK",2579,0.981 
+"60541","36860","Ottawa-Peru, IL","NEWARK",49,0.019 
+"60542","16980","Chicago-Naperville-Elgin, IL-IN-WI","NORTH AURORA",11007,1 
+"60543","16980","Chicago-Naperville-Elgin, IL-IN-WI","OSWEGO",18769,1 
+"60544","16980","Chicago-Naperville-Elgin, IL-IN-WI","PLAINFIELD",44284,1 
+"60545","16980","Chicago-Naperville-Elgin, IL-IN-WI","PLANO",7638,1 
+"60546","16980","Chicago-Naperville-Elgin, IL-IN-WI","NORTH RIVERSIDE",15700,1 
+"60548","16980","Chicago-Naperville-Elgin, IL-IN-WI","SANDWICH",7302,0.661 
+"60548","36860","Ottawa-Peru, IL","SANDWICH",3752,0.339 
+"60549","36860","Ottawa-Peru, IL","SERENA",594,1 
+"60550","16980","Chicago-Naperville-Elgin, IL-IN-WI","SHABBONA",1445,1 
+"60551","36860","Ottawa-Peru, IL","SHERIDAN",5168,1 
+"60552","16980","Chicago-Naperville-Elgin, IL-IN-WI","SOMONAUK",1774,0.464 
+"60552","36860","Ottawa-Peru, IL","SOMONAUK",2050,0.536 
+"60553","19940","Dixon, IL","STEWARD",700,1 
+"60554","16980","Chicago-Naperville-Elgin, IL-IN-WI","SUGAR GROVE",4812,1 
+"60555","16980","Chicago-Naperville-Elgin, IL-IN-WI","WARRENVILLE",13852,1 
+"60556","16980","Chicago-Naperville-Elgin, IL-IN-WI","WATERMAN",1797,1 
+"60557","36860","Ottawa-Peru, IL","WEDRON",101,1 
+"60558","16980","Chicago-Naperville-Elgin, IL-IN-WI","WESTERN SPRINGS",12539,1 
+"60559","16980","Chicago-Naperville-Elgin, IL-IN-WI","WESTMONT",25954,1 
+"60560","16980","Chicago-Naperville-Elgin, IL-IN-WI","YORKVILLE",11502,1 
+"60561","16980","Chicago-Naperville-Elgin, IL-IN-WI","DARIEN",23570,1 
+"60563","16980","Chicago-Naperville-Elgin, IL-IN-WI","NAPERVILLE",31405,1 
+"60564","16980","Chicago-Naperville-Elgin, IL-IN-WI","NAPERVILLE",32206,1 
+"60565","16980","Chicago-Naperville-Elgin, IL-IN-WI","NAPERVILLE",40640,1 
+"60601","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",5591,1 
+"60602","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",70,1 
+"60603","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",378,1 
+"60604","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",78,1 
+"60605","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",12423,1 
+"60606","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",1682,1 
+"60607","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",15552,1 
+"60608","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",92472,1 
+"60609","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",79469,1 
+"60610","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",47513,1 
+"60611","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",26522,1 
+"60612","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",37990,1 
+"60613","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",50548,1 
+"60614","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",65474,1 
+"60615","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",45096,1 
+"60616","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",47073,1 
+"60617","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",96288,1 
+"60618","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",98147,1 
+"60619","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",74963,1 
+"60620","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",85771,1 
+"60621","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",47514,1 
+"60622","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",76015,1 
+"60623","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",108144,1 
+"60624","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",45647,1 
+"60625","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",91351,1 
+"60626","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",59251,1 
+"60628","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",87827,1 
+"60629","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",113984,1 
+"60630","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",54781,1 
+"60631","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",28832,1 
+"60632","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",87577,1 
+"60633","16980","Chicago-Naperville-Elgin, IL-IN-WI","BURNHAM",13262,1 
+"60634","16980","Chicago-Naperville-Elgin, IL-IN-WI","NORRIDGE",74164,1 
+"60636","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",51451,1 
+"60637","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",57090,1 
+"60638","16980","Chicago-Naperville-Elgin, IL-IN-WI","BEDFORD PARK",55788,1 
+"60639","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",92951,1 
+"60640","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",74030,1 
+"60641","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",73824,1 
+"60643","16980","Chicago-Naperville-Elgin, IL-IN-WI","CALUMET PARK",52568,1 
+"60644","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",59059,1 
+"60645","16980","Chicago-Naperville-Elgin, IL-IN-WI","LINCOLNWOOD",44197,1 
+"60646","16980","Chicago-Naperville-Elgin, IL-IN-WI","LINCOLNWOOD",27016,1 
+"60647","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",98769,1 
+"60649","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",54823,1 
+"60651","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",77583,1 
+"60652","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",39126,1 
+"60653","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",34502,1 
+"60654","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",7,1 
+"60655","16980","Chicago-Naperville-Elgin, IL-IN-WI","MERRIONETTE PARK",29138,1 
+"60656","16980","Chicago-Naperville-Elgin, IL-IN-WI","HARWOOD HEIGHTS",27129,1 
+"60657","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",66789,1 
+"60659","16980","Chicago-Naperville-Elgin, IL-IN-WI","LINCOLNWOOD",39155,1 
+"60660","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",47726,1 
+"60661","16980","Chicago-Naperville-Elgin, IL-IN-WI","CHICAGO",4382,1 
+"60706","16980","Chicago-Naperville-Elgin, IL-IN-WI","60706",22809,1 
+"60707","16980","Chicago-Naperville-Elgin, IL-IN-WI","60707",42621,1 
+"60712","16980","Chicago-Naperville-Elgin, IL-IN-WI","60712",12371,1 
+"60714","16980","Chicago-Naperville-Elgin, IL-IN-WI","NILES",31051,1 
+"60803","16980","Chicago-Naperville-Elgin, IL-IN-WI","60803",22757,1 
+"60804","16980","Chicago-Naperville-Elgin, IL-IN-WI","60804",86133,1 
+"60805","16980","Chicago-Naperville-Elgin, IL-IN-WI","60805",20821,1 
+"60827","16980","Chicago-Naperville-Elgin, IL-IN-WI","60827",33209,1 
+"60901","28100","Kankakee, IL","KANKAKEE",37224,1 
+"60910","28100","Kankakee, IL","AROMA PARK",537,1 
+"60911"," "," ","ASHKUM",1415,1 
+"60912"," "," ","BEAVERVILLE",643,1 
+"60913","28100","Kankakee, IL","BONFIELD",1498,1 
+"60914","28100","Kankakee, IL","BOURBONNAIS",22499,1 
+"60915","28100","Kankakee, IL","BRADLEY",10439,1 
+"60917","16580","Champaign-Urbana, IL","BUCKINGHAM",14,0.025 
+"60917","28100","Kankakee, IL","BUCKINGHAM",512,0.913 
+"60917","38700","Pontiac, IL","BUCKINGHAM",35,0.062 
+"60918"," "," ","BUCKLEY",913,1 
+"60919","16580","Champaign-Urbana, IL","CABERY",330,0.629 
+"60919","28100","Kankakee, IL","CABERY",123,0.234 
+"60919","38700","Pontiac, IL","CABERY",72,0.137 
+"60920","38700","Pontiac, IL","CAMPUS",162,1 
+"60921","38700","Pontiac, IL","CHATSWORTH",1669,1 
+"60922"," "," ","CHEBANSE",1143,0.427 
+"60922","28100","Kankakee, IL","CHEBANSE",1534,0.573 
+"60924"," "," ","CISSNA PARK",1739,1 
+"60926"," "," ","CLAYTONVILLE",76,1 
+"60927"," "," ","CLIFTON",2288,1 
+"60928"," "," ","CRESCENT CITY",732,1 
+"60929","16580","Champaign-Urbana, IL","CULLOM",39,0.051 
+"60929","38700","Pontiac, IL","CULLOM",729,0.949 
+"60930"," "," ","DANFORTH",890,1 
+"60931"," "," ","DONOVAN",689,1 
+"60932","19180","Danville, IL","EAST LYNN",135,1 
+"60933","16580","Champaign-Urbana, IL","ELLIOTT",349,1 
+"60934","38700","Pontiac, IL","EMINGTON",310,1 
+"60935","28100","Kankakee, IL","ESSEX",846,1 
+"60936","14060","Bloomington-Normal, IL Metropolitan Stat","GIBSON CITY",42,0.01 
+"60936","16580","Champaign-Urbana, IL","GIBSON CITY",4176,0.99 
+"60938"," "," ","GILMAN",2222,1 
+"60940","16980","Chicago-Naperville-Elgin, IL-IN-WI","GRANT PARK",32,0.01 
+"60940","28100","Kankakee, IL","GRANT PARK",3140,0.99 
+"60941"," "," ","HERSCHER",27,0.014 
+"60941","16580","Champaign-Urbana, IL","HERSCHER",6,0.003 
+"60941","28100","Kankakee, IL","HERSCHER",1953,0.983 
+"60942"," "," ","HOOPESTON",240,0.035 
+"60942","19180","Danville, IL","HOOPESTON",6649,0.965 
+"60945"," "," ","IROQUOIS",202,1 
+"60946","16580","Champaign-Urbana, IL","KEMPTON",412,0.922 
+"60946","38700","Pontiac, IL","KEMPTON",35,0.078 
+"60948"," "," ","LODA",1369,0.915 
+"60948","16580","Champaign-Urbana, IL","LODA",127,0.085 
+"60949","16580","Champaign-Urbana, IL","LUDLOW",739,1 
+"60950","16980","Chicago-Naperville-Elgin, IL-IN-WI","MANTENO",259,0.029 
+"60950","28100","Kankakee, IL","MANTENO",8687,0.971 
+"60951"," "," ","MARTINTON",1174,1 
+"60952","16580","Champaign-Urbana, IL","MELVIN",691,0.99 
+"60952","38700","Pontiac, IL","MELVIN",7,0.01 
+"60953"," "," ","MILFORD",2537,1 
+"60954","28100","Kankakee, IL","MOMENCE",7113,1 
+"60955"," "," ","ONARGA",2045,1 
+"60957"," "," ","PAXTON",3,0.001 
+"60957","16580","Champaign-Urbana, IL","PAXTON",5677,0.999 
+"60959"," "," ","PIPER CITY",8,0.007 
+"60959","16580","Champaign-Urbana, IL","PIPER CITY",1061,0.993 
+"60960"," "," ","RANKIN",27,0.024 
+"60960","16580","Champaign-Urbana, IL","RANKIN",176,0.159 
+"60960","19180","Danville, IL","RANKIN",905,0.817 
+"60961","16980","Chicago-Naperville-Elgin, IL-IN-WI","REDDICK",14,0.017 
+"60961","28100","Kankakee, IL","REDDICK",717,0.874 
+"60961","38700","Pontiac, IL","REDDICK",89,0.109 
+"60962","16580","Champaign-Urbana, IL","ROBERTS",587,0.997 
+"60962","38700","Pontiac, IL","ROBERTS",2,0.003 
+"60963","19180","Danville, IL","ROSSVILLE",1686,1 
+"60964"," "," ","SAINT ANNE",397,0.056 
+"60964","28100","Kankakee, IL","SAINT ANNE",6680,0.944 
+"60966"," "," ","SHELDON",1735,1 
+"60967"," "," ","STOCKLAND",86,1 
+"60968"," "," ","THAWVILLE",370,0.819 
+"60968","16580","Champaign-Urbana, IL","THAWVILLE",77,0.17 
+"60968","38700","Pontiac, IL","THAWVILLE",5,0.011 
+"60969","28100","Kankakee, IL","UNION HILL",95,1 
+"60970"," "," ","WATSEKA",7582,1 
+"60973"," "," ","WELLINGTON",442,1 
+"60974"," "," ","WOODLAND",340,1 
+"61001"," "," ","APPLE RIVER",1072,1 
+"61006","19940","Dixon, IL","ASHTON",1664,0.871 
+"61006","40300","Rochelle, IL","ASHTON",246,0.129 
+"61007","23300","Freeport, IL","BAILEYVILLE",194,0.354 
+"61007","40300","Rochelle, IL","BAILEYVILLE",354,0.646 
+"61008","40420","Rockford, IL","BELVIDERE",28361,1 
+"61010","40300","Rochelle, IL","BYRON",7139,1 
+"61011","40420","Rockford, IL","CALEDONIA",1976,1 
+"61012","40420","Rockford, IL","CAPRON",1933,1 
+"61013","23300","Freeport, IL","CEDARVILLE",460,1 
+"61014"," "," ","CHADWICK",1079,0.889 
+"61014","44580","Sterling, IL","CHADWICK",135,0.111 
+"61015","40300","Rochelle, IL","CHANA",993,1 
+"61016","40420","Rockford, IL","CHERRY VALLEY",3933,1 
+"61018","23300","Freeport, IL","DAKOTA",1133,1 
+"61019","23300","Freeport, IL","DAVIS",2101,0.603 
+"61019","40420","Rockford, IL","DAVIS",1381,0.397 
+"61020","40300","Rochelle, IL","DAVIS JUNCTION",1587,0.952 
+"61020","40420","Rockford, IL","DAVIS JUNCTION",80,0.048 
+"61021","19940","Dixon, IL","DIXON",21861,0.936 
+"61021","40300","Rochelle, IL","DIXON",1499,0.064 
+"61024","40420","Rockford, IL","DURAND",2579,1 
+"61025"," "," ","EAST DUBUQUE",4886,1 
+"61028"," "," ","ELIZABETH",1978,1 
+"61030","40300","Rochelle, IL","FORRESTON",2250,1 
+"61031","19940","Dixon, IL","FRANKLIN GROVE",1722,0.984 
+"61031","40300","Rochelle, IL","FRANKLIN GROVE",28,0.016 
+"61032","23300","Freeport, IL","FREEPORT",32632,1 
+"61036"," "," ","GALENA",6185,1 
+"61037","44580","Sterling, IL","GALT",138,1 
+"61038","16980","Chicago-Naperville-Elgin, IL-IN-WI","GARDEN PRAIRIE",50,0.036 
+"61038","40420","Rockford, IL","GARDEN PRAIRIE",1321,0.964 
+"61039","23300","Freeport, IL","GERMAN VALLEY",725,0.831 
+"61039","40300","Rochelle, IL","GERMAN VALLEY",147,0.169 
+"61041"," "," ","HANOVER",1326,1 
+"61042","19940","Dixon, IL","HARMON",574,0.993 
+"61042","44580","Sterling, IL","HARMON",4,0.007 
+"61044"," "," ","KENT",90,0.385 
+"61044","23300","Freeport, IL","KENT",144,0.615 
+"61046"," "," ","LANARK",2920,1 
+"61047","23300","Freeport, IL","EGAN",26,0.013 
+"61047","40300","Rochelle, IL","EGAN",1961,0.967 
+"61047","40420","Rockford, IL","EGAN",41,0.02 
+"61048"," "," ","LENA",106,0.023 
+"61048","23300","Freeport, IL","LENA",4410,0.977 
+"61049","40300","Rochelle, IL","LINDENWOOD",505,1 
+"61050","23300","Freeport, IL","MC CONNELL",447,1 
+"61051"," "," ","MILLEDGEVILLE",1612,0.984 
+"61051","40300","Rochelle, IL","MILLEDGEVILLE",26,0.016 
+"61052","40300","Rochelle, IL","MONROE CENTER",1238,1 
+"61053"," "," ","MOUNT CARROLL",3228,1 
+"61054","40300","Rochelle, IL","MOUNT MORRIS",3991,1 
+"61057","19940","Dixon, IL","NACHUSA",63,1 
+"61059"," "," ","NORA",135,1 
+"61060","23300","Freeport, IL","ORANGEVILLE",1469,1 
+"61061","40300","Rochelle, IL","OREGON",7358,1 
+"61062"," "," ","PEARL CITY",43,0.022 
+"61062","23300","Freeport, IL","PEARL CITY",1929,0.978 
+"61063","23300","Freeport, IL","PECATONICA",251,0.062 
+"61063","40420","Rockford, IL","PECATONICA",3785,0.938 
+"61064"," "," ","POLO",64,0.016 
+"61064","40300","Rochelle, IL","POLO",3954,0.98 
+"61064","44580","Sterling, IL","POLO",17,0.004 
+"61065","40420","Rockford, IL","POPLAR GROVE",7161,1 
+"61067","23300","Freeport, IL","RIDOTT",922,1 
+"61068","16980","Chicago-Naperville-Elgin, IL-IN-WI","ROCHELLE",7,0 
+"61068","19940","Dixon, IL","ROCHELLE",179,0.012 
+"61068","40300","Rochelle, IL","ROCHELLE",14373,0.987 
+"61070","23300","Freeport, IL","ROCK CITY",1117,1 
+"61071","19940","Dixon, IL","ROCK FALLS",95,0.006 
+"61071","44580","Sterling, IL","ROCK FALLS",14767,0.994 
+"61072","40420","Rockford, IL","ROCKTON",8612,1 
+"61073","40420","Rockford, IL","ROSCOE",15981,1 
+"61074"," "," ","SAVANNA",4972,1 
+"61075"," "," ","SCALES MOUND",1039,1 
+"61077","40420","Rockford, IL","SEWARD",42,1 
+"61078"," "," ","SHANNON",1245,0.871 
+"61078","23300","Freeport, IL","SHANNON",72,0.05 
+"61078","40300","Rochelle, IL","SHANNON",113,0.079 
+"61080","40420","Rockford, IL","SOUTH BELOIT",8848,1 
+"61081","19940","Dixon, IL","STERLING",507,0.022 
+"61081","44580","Sterling, IL","STERLING",22337,0.978 
+"61084","40300","Rochelle, IL","STILLMAN VALLEY",2670,0.955 
+"61084","40420","Rockford, IL","STILLMAN VALLEY",126,0.045 
+"61085"," "," ","STOCKTON",3587,1 
+"61087"," "," ","WARREN",1721,0.995 
+"61087","23300","Freeport, IL","WARREN",8,0.005 
+"61088","40300","Rochelle, IL","WINNEBAGO",3,0.001 
+"61088","40420","Rockford, IL","WINNEBAGO",4787,0.999 
+"61089"," "," ","WINSLOW",5,0.005 
+"61089","23300","Freeport, IL","WINSLOW",939,0.995 
+"61091","40300","Rochelle, IL","WOOSUNG",10,1 
+"61101","40420","Rockford, IL","ROCKFORD",23347,1 
+"61102","40300","Rochelle, IL","ROCKFORD",97,0.005 
+"61102","40420","Rockford, IL","ROCKFORD",20286,0.995 
+"61103","40420","Rockford, IL","ROCKFORD",24368,1 
+"61104","40420","Rockford, IL","ROCKFORD",20421,1 
+"61107","40420","Rockford, IL","ROCKFORD",30040,1 
+"61108","40420","Rockford, IL","ROCKFORD",27370,1 
+"61109","40300","Rochelle, IL","ROCKFORD",27,0.001 
+"61109","40420","Rockford, IL","ROCKFORD",26557,0.999 
+"61111","40420","Rockford, IL","LOVES PARK",20555,1 
+"61112","40420","Rockford, IL","ROCKFORD",3,1 
+"61114","40420","Rockford, IL","ROCKFORD",15557,1 
+"61115","40420","Rockford, IL","MACHESNEY PARK",20431,1 
+"61201","19340","Davenport-Moline-Rock Island, IA-IL","ROCK ISLAND",39151,1 
+"61230","44580","Sterling, IL","ALBANY",1183,1 
+"61231","19340","Davenport-Moline-Rock Island, IA-IL","ALEDO",6021,1 
+"61232","19340","Davenport-Moline-Rock Island, IA-IL","ANDALUSIA",358,1 
+"61233","19340","Davenport-Moline-Rock Island, IA-IL","ANDOVER",524,1 
+"61234","19340","Davenport-Moline-Rock Island, IA-IL","ANNAWAN",1302,1 
+"61235","19340","Davenport-Moline-Rock Island, IA-IL","ATKINSON",1442,1 
+"61236","19340","Davenport-Moline-Rock Island, IA-IL","BARSTOW",58,1 
+"61238","19340","Davenport-Moline-Rock Island, IA-IL","CAMBRIDGE",3388,1 
+"61239","19340","Davenport-Moline-Rock Island, IA-IL","CARBON CLIFF",301,1 
+"61240","19340","Davenport-Moline-Rock Island, IA-IL","COAL VALLEY",6033,1 
+"61241","19340","Davenport-Moline-Rock Island, IA-IL","GREEN ROCK",6944,1 
+"61242","19340","Davenport-Moline-Rock Island, IA-IL","CORDOVA",1158,1 
+"61243","19940","Dixon, IL","DEER GROVE",9,0.037 
+"61243","36860","Ottawa-Peru, IL","DEER GROVE",6,0.025 
+"61243","44580","Sterling, IL","DEER GROVE",229,0.939 
+"61244","19340","Davenport-Moline-Rock Island, IA-IL","EAST MOLINE",22300,1 
+"61250","19340","Davenport-Moline-Rock Island, IA-IL","ERIE",117,0.042 
+"61250","44580","Sterling, IL","ERIE",2690,0.958 
+"61251","44580","Sterling, IL","FENTON",317,1 
+"61252"," "," ","FULTON",11,0.002 
+"61252","44580","Sterling, IL","FULTON",5812,0.998 
+"61254","19340","Davenport-Moline-Rock Island, IA-IL","GENESEO",11399,1 
+"61256","19340","Davenport-Moline-Rock Island, IA-IL","HAMPTON",1506,1 
+"61257","19340","Davenport-Moline-Rock Island, IA-IL","HILLSDALE",1402,1 
+"61259","19340","Davenport-Moline-Rock Island, IA-IL","ILLINOIS CITY",1209,1 
+"61260","19340","Davenport-Moline-Rock Island, IA-IL","JOY",812,1 
+"61261","44580","Sterling, IL","LYNDON",963,1 
+"61262","19340","Davenport-Moline-Rock Island, IA-IL","LYNN CENTER",878,1 
+"61263","19340","Davenport-Moline-Rock Island, IA-IL","MATHERVILLE",307,1 
+"61264","19340","Davenport-Moline-Rock Island, IA-IL","MILAN",12316,1 
+"61265","19340","Davenport-Moline-Rock Island, IA-IL","MOLINE",46646,1 
+"61270","44580","Sterling, IL","MORRISON",7781,1 
+"61272","19340","Davenport-Moline-Rock Island, IA-IL","NEW BOSTON",1464,1 
+"61273","19340","Davenport-Moline-Rock Island, IA-IL","ORION",3163,1 
+"61274","19340","Davenport-Moline-Rock Island, IA-IL","OSCO",404,1 
+"61275","19340","Davenport-Moline-Rock Island, IA-IL","PORT BYRON",4606,1 
+"61276","19340","Davenport-Moline-Rock Island, IA-IL","PREEMPTION",71,1 
+"61277","19340","Davenport-Moline-Rock Island, IA-IL","PROPHETSTOWN",495,0.141 
+"61277","44580","Sterling, IL","PROPHETSTOWN",3023,0.859 
+"61279","19340","Davenport-Moline-Rock Island, IA-IL","REYNOLDS",1023,1 
+"61281","19340","Davenport-Moline-Rock Island, IA-IL","SHERRARD",2615,1 
+"61282","19340","Davenport-Moline-Rock Island, IA-IL","SILVIS",8962,1 
+"61283","19340","Davenport-Moline-Rock Island, IA-IL","TAMPICO",22,0.013 
+"61283","36860","Ottawa-Peru, IL","TAMPICO",396,0.236 
+"61283","44580","Sterling, IL","TAMPICO",1257,0.75 
+"61284","19340","Davenport-Moline-Rock Island, IA-IL","TAYLOR RIDGE",3439,1 
+"61285"," "," ","THOMSON",1659,1 
+"61301","36860","Ottawa-Peru, IL","LA SALLE",10433,1 
+"61310","19940","Dixon, IL","AMBOY",4163,1 
+"61311","38700","Pontiac, IL","ANCONA",353,1 
+"61312","36860","Ottawa-Peru, IL","ARLINGTON",736,1 
+"61313","38700","Pontiac, IL","BLACKSTONE",316,1 
+"61314","36860","Ottawa-Peru, IL","BUDA",991,1 
+"61315","36860","Ottawa-Peru, IL","BUREAU",253,1 
+"61316","36860","Ottawa-Peru, IL","CEDAR POINT",250,1 
+"61317","36860","Ottawa-Peru, IL","CHERRY",324,1 
+"61318","19940","Dixon, IL","COMPTON",722,1 
+"61319","38700","Pontiac, IL","MANVILLE",1157,1 
+"61320","36860","Ottawa-Peru, IL","DALZELL",738,1 
+"61321","36860","Ottawa-Peru, IL","DANA",333,0.974 
+"61321","37900","Peoria, IL","DANA",9,0.026 
+"61322","36860","Ottawa-Peru, IL","DEPUE",1677,1 
+"61323","36860","Ottawa-Peru, IL","DOVER",102,1 
+"61324","19940","Dixon, IL","ELDENA",107,1 
+"61325","36860","Ottawa-Peru, IL","GRAND RIDGE",1010,1 
+"61326","36860","Ottawa-Peru, IL","GRANVILLE",2444,1 
+"61327","36860","Ottawa-Peru, IL","HENNEPIN",1190,1 
+"61328","36860","Ottawa-Peru, IL","KASBEER",96,1 
+"61329","36860","Ottawa-Peru, IL","LADD",1322,1 
+"61330","19940","Dixon, IL","LA MOILLE",65,0.041 
+"61330","36860","Ottawa-Peru, IL","LA MOILLE",1502,0.959 
+"61331","19940","Dixon, IL","LEE CENTER",51,1 
+"61332","36860","Ottawa-Peru, IL","LEONORE",36,1 
+"61333","38700","Pontiac, IL","LONG POINT",436,1 
+"61334","36860","Ottawa-Peru, IL","LOSTANT",757,1 
+"61335","36860","Ottawa-Peru, IL","MC NABB",591,1 
+"61336","36860","Ottawa-Peru, IL","MAGNOLIA",516,0.778 
+"61336","37900","Peoria, IL","MAGNOLIA",147,0.222 
+"61337","36860","Ottawa-Peru, IL","MALDEN",479,1 
+"61338","36860","Ottawa-Peru, IL","MANLIUS",375,1 
+"61340","36860","Ottawa-Peru, IL","MARK",327,1 
+"61341","36860","Ottawa-Peru, IL","MARSEILLES",7509,1 
+"61342","19940","Dixon, IL","MENDOTA",56,0.006 
+"61342","36860","Ottawa-Peru, IL","MENDOTA",9165,0.994 
+"61344","19340","Davenport-Moline-Rock Island, IA-IL","MINERAL",23,0.054 
+"61344","36860","Ottawa-Peru, IL","MINERAL",405,0.946 
+"61345","36860","Ottawa-Peru, IL","NEPONSET",823,0.931 
+"61345","37900","Peoria, IL","NEPONSET",61,0.069 
+"61346","36860","Ottawa-Peru, IL","NEW BEDFORD",94,1 
+"61348","36860","Ottawa-Peru, IL","OGLESBY",4381,1 
+"61349","19940","Dixon, IL","OHIO",151,0.144 
+"61349","36860","Ottawa-Peru, IL","OHIO",900,0.856 
+"61350","36860","Ottawa-Peru, IL","OTTAWA",24207,1 
+"61353","19940","Dixon, IL","PAW PAW",1298,1 
+"61354","36860","Ottawa-Peru, IL","PERU",10647,1 
+"61356","36860","Ottawa-Peru, IL","PRINCETON",11255,1 
+"61358","36860","Ottawa-Peru, IL","RUTLAND",406,0.775 
+"61358","37900","Peoria, IL","RUTLAND",118,0.225 
+"61359","36860","Ottawa-Peru, IL","SEATONVILLE",273,1 
+"61360","16980","Chicago-Naperville-Elgin, IL-IN-WI","SENECA",65,0.022 
+"61360","36860","Ottawa-Peru, IL","SENECA",2930,0.978 
+"61361","36860","Ottawa-Peru, IL","SHEFFIELD",1474,1 
+"61362","36860","Ottawa-Peru, IL","SPRING VALLEY",5785,1 
+"61363","36860","Ottawa-Peru, IL","STANDARD",272,1 
+"61364","36860","Ottawa-Peru, IL","STREATOR",18360,0.894 
+"61364","38700","Pontiac, IL","STREATOR",2180,0.106 
+"61367","19940","Dixon, IL","SUBLETTE",920,1 
+"61368","36860","Ottawa-Peru, IL","TISKILWA",1476,1 
+"61369","37900","Peoria, IL","TOLUCA",1661,1 
+"61370","36860","Ottawa-Peru, IL","TONICA",1323,1 
+"61372","36860","Ottawa-Peru, IL","TROY GROVE",120,1 
+"61373","36860","Ottawa-Peru, IL","UTICA",1998,1 
+"61374","36860","Ottawa-Peru, IL","VAN ORIN",122,1 
+"61375","37900","Peoria, IL","VARNA",1244,1 
+"61376","19940","Dixon, IL","NORMANDY",87,0.039 
+"61376","36860","Ottawa-Peru, IL","NORMANDY",2142,0.961 
+"61377","36860","Ottawa-Peru, IL","WENONA",182,0.131 
+"61377","37900","Peoria, IL","WENONA",1208,0.869 
+"61378","19940","Dixon, IL","WEST BROOKLYN",545,1 
+"61379","36860","Ottawa-Peru, IL","WYANET",1381,1 
+"61401","23660","Galesburg, IL","GALESBURG",36568,1 
+"61410","23660","Galesburg, IL","ABINGDON",4174,1 
+"61411","31380","Macomb, IL","ADAIR",419,1 
+"61412","19340","Davenport-Moline-Rock Island, IA-IL","ALEXIS",679,0.488 
+"61412","23660","Galesburg, IL","ALEXIS",712,0.512 
+"61413","19340","Davenport-Moline-Rock Island, IA-IL","ALPHA",1244,1 
+"61414","19340","Davenport-Moline-Rock Island, IA-IL","ALTONA",121,0.119 
+"61414","23660","Galesburg, IL","ALTONA",892,0.881 
+"61415","15900","Canton, IL","AVON",1396,0.707 
+"61415","23660","Galesburg, IL","AVON",579,0.293 
+"61416","31380","Macomb, IL","BARDOLPH",152,1 
+"61417","23660","Galesburg, IL","BERWICK",324,1 
+"61418","15460","Burlington, IA-IL","BIGGSVILLE",664,1 
+"61419","19340","Davenport-Moline-Rock Island, IA-IL","BISHOP HILL",46,1 
+"61420"," "," ","BLANDINSVILLE",87,0.07 
+"61420","15460","Burlington, IA-IL","BLANDINSVILLE",9,0.007 
+"61420","31380","Macomb, IL","BLANDINSVILLE",1155,0.923 
+"61421","36860","Ottawa-Peru, IL","BRADFORD",232,0.158 
+"61421","37900","Peoria, IL","BRADFORD",1238,0.842 
+"61422","31380","Macomb, IL","BUSHNELL",3639,1 
+"61423","23660","Galesburg, IL","CAMERON",779,1 
+"61424","37900","Peoria, IL","CAMP GROVE",146,1 
+"61425","15460","Burlington, IA-IL","CARMAN",743,1 
+"61426","37900","Peoria, IL","CASTLETON",114,1 
+"61427","15900","Canton, IL","CUBA",2427,1 
+"61428","23660","Galesburg, IL","DAHINDA",954,1 
+"61430","23660","Galesburg, IL","EAST GALESBURG",718,1 
+"61431","15900","Canton, IL","ELLISVILLE",328,1 
+"61432","15900","Canton, IL","FAIRVIEW",691,1 
+"61434","19340","Davenport-Moline-Rock Island, IA-IL","GALVA",3418,0.947 
+"61434","23660","Galesburg, IL","GALVA",186,0.052 
+"61434","37900","Peoria, IL","GALVA",6,0.002 
+"61435","23660","Galesburg, IL","GERLAW",85,1 
+"61436","23660","Galesburg, IL","GILSON",1021,1 
+"61437","15460","Burlington, IA-IL","GLADSTONE",917,1 
+"61438","23660","Galesburg, IL","GOOD HOPE",3,0.004 
+"61438","31380","Macomb, IL","GOOD HOPE",763,0.996 
+"61439","23660","Galesburg, IL","HENDERSON",282,1 
+"61440"," "," ","INDUSTRY",27,0.031 
+"61440","31380","Macomb, IL","INDUSTRY",848,0.969 
+"61441","15900","Canton, IL","IPAVA",1007,1 
+"61442","15460","Burlington, IA-IL","KEITHSBURG",68,0.074 
+"61442","19340","Davenport-Moline-Rock Island, IA-IL","KEITHSBURG",852,0.926 
+"61443","19340","Davenport-Moline-Rock Island, IA-IL","KEWANEE",14337,0.997 
+"61443","37900","Peoria, IL","KEWANEE",44,0.003 
+"61447","15460","Burlington, IA-IL","KIRKWOOD",124,0.111 
+"61447","23660","Galesburg, IL","KIRKWOOD",992,0.889 
+"61448","23660","Galesburg, IL","KNOXVILLE",4176,1 
+"61449","23660","Galesburg, IL","LA FAYETTE",102,0.197 
+"61449","37900","Peoria, IL","LA FAYETTE",416,0.803 
+"61450"," "," ","LA HARPE",1817,0.989 
+"61450","15460","Burlington, IA-IL","LA HARPE",21,0.011 
+"61451","37900","Peoria, IL","LAURA",383,1 
+"61452"," "," ","LITTLETON",333,0.982 
+"61452","31380","Macomb, IL","LITTLETON",6,0.018 
+"61453","15460","Burlington, IA-IL","LITTLE YORK",143,0.199 
+"61453","23660","Galesburg, IL","LITTLE YORK",577,0.801 
+"61454","15460","Burlington, IA-IL","LOMAX",771,1 
+"61455","31380","Macomb, IL","MACOMB",21659,1 
+"61458","23660","Galesburg, IL","MAQUON",958,1 
+"61459","15900","Canton, IL","MARIETTA",393,0.927 
+"61459","31380","Macomb, IL","MARIETTA",31,0.073 
+"61460","15460","Burlington, IA-IL","MEDIA",379,1 
+"61462","15460","Burlington, IA-IL","MONMOUTH",53,0.004 
+"61462","23660","Galesburg, IL","MONMOUTH",12178,0.996 
+"61465","19340","Davenport-Moline-Rock Island, IA-IL","NEW WINDSOR",1144,1 
+"61466","19340","Davenport-Moline-Rock Island, IA-IL","NORTH HENDERSON",357,1 
+"61467","23660","Galesburg, IL","ONEIDA",1241,1 
+"61468","19340","Davenport-Moline-Rock Island, IA-IL","OPHEIM",143,1 
+"61469","15460","Burlington, IA-IL","OQUAWKA",2477,1 
+"61470","31380","Macomb, IL","PRAIRIE CITY",617,1 
+"61471","15460","Burlington, IA-IL","RARITAN",142,1 
+"61472","23660","Galesburg, IL","RIO",666,1 
+"61473","23660","Galesburg, IL","ROSEVILLE",1772,1 
+"61474","23660","Galesburg, IL","SAINT AUGUSTINE",355,1 
+"61475","23660","Galesburg, IL","SCIOTA",23,0.096 
+"61475","31380","Macomb, IL","SCIOTA",217,0.904 
+"61476","15460","Burlington, IA-IL","SEATON",34,0.08 
+"61476","19340","Davenport-Moline-Rock Island, IA-IL","SEATON",392,0.92 
+"61477","15900","Canton, IL","SMITHFIELD",775,1 
+"61478","15460","Burlington, IA-IL","SMITHSHIRE",15,0.045 
+"61478","23660","Galesburg, IL","SMITHSHIRE",322,0.955 
+"61479","37900","Peoria, IL","SPEER",169,1 
+"61480","15460","Burlington, IA-IL","STRONGHURST",1385,1 
+"61482","15900","Canton, IL","TABLE GROVE",542,0.902 
+"61482","31380","Macomb, IL","TABLE GROVE",59,0.098 
+"61483","37900","Peoria, IL","TOULON",2102,1 
+"61484"," "," ","VERMONT",21,0.022 
+"61484","15900","Canton, IL","VERMONT",859,0.89 
+"61484","31380","Macomb, IL","VERMONT",85,0.088 
+"61485","23660","Galesburg, IL","VICTORIA",643,1 
+"61486","19340","Davenport-Moline-Rock Island, IA-IL","VIOLA",1587,1 
+"61488","23660","Galesburg, IL","WATAGA",1199,1 
+"61489","23660","Galesburg, IL","WILLIAMSFIELD",961,0.962 
+"61489","37900","Peoria, IL","WILLIAMSFIELD",38,0.038 
+"61490","19340","Davenport-Moline-Rock Island, IA-IL","WOODHULL",941,1 
+"61491","37900","Peoria, IL","WYOMING",2136,1 
+"61501","15900","Canton, IL","ASTORIA",1998,1 
+"61516","37900","Peoria, IL","BENSON",698,1 
+"61517","37900","Peoria, IL","BRIMFIELD",3139,1 
+"61519","15900","Canton, IL","BRYANT",261,1 
+"61520","15900","Canton, IL","CANTON",18659,1 
+"61523","37900","Peoria, IL","CHILLICOTHE",10835,1 
+"61524","15900","Canton, IL","DUNFERMLINE",140,1 
+"61525","37900","Peoria, IL","DUNLAP",5477,1 
+"61526","37900","Peoria, IL","EDELSTEIN",1173,1 
+"61528","37900","Peoria, IL","EDWARDS",1608,1 
+"61529","23660","Galesburg, IL","ELMWOOD",31,0.012 
+"61529","37900","Peoria, IL","ELMWOOD",2634,0.988 
+"61530","37900","Peoria, IL","EUREKA",6181,1 
+"61531","15900","Canton, IL","MIDDLEGROVE",3268,0.976 
+"61531","23660","Galesburg, IL","MIDDLEGROVE",24,0.007 
+"61531","37900","Peoria, IL","MIDDLEGROVE",55,0.016 
+"61532"," "," ","FOREST CITY",640,1 
+"61533","15900","Canton, IL","GLASFORD",40,0.018 
+"61533","37900","Peoria, IL","GLASFORD",2207,0.982 
+"61534"," "," ","GREEN VALLEY",4,0.002 
+"61534","37900","Peoria, IL","GREEN VALLEY",1901,0.998 
+"61535","37900","Peoria, IL","GROVELAND",1398,1 
+"61536","37900","Peoria, IL","HANNA CITY",2892,1 
+"61537","36860","Ottawa-Peru, IL","HENRY",20,0.006 
+"61537","37900","Peoria, IL","HENRY",3173,0.994 
+"61539","37900","Peoria, IL","KINGSTON MINES",224,1 
+"61540","37900","Peoria, IL","LACON",2915,1 
+"61541","37900","Peoria, IL","LA ROSE",149,1 
+"61542","15900","Canton, IL","LEWISTOWN",4049,1 
+"61543","15900","Canton, IL","LIVERPOOL",55,1 
+"61544","15900","Canton, IL","LONDON MILLS",701,0.993 
+"61544","23660","Galesburg, IL","LONDON MILLS",5,0.007 
+"61545","37900","Peoria, IL","CAZENOVIA",651,1 
+"61546"," "," ","MANITO",2401,0.545 
+"61546","37900","Peoria, IL","MANITO",2001,0.455 
+"61547","37900","Peoria, IL","MAPLETON",3412,1 
+"61548","37900","Peoria, IL","METAMORA",10206,1 
+"61550","37900","Peoria, IL","MORTON",17088,1 
+"61552","37900","Peoria, IL","MOSSVILLE",135,1 
+"61554","37900","Peoria, IL","PEKIN",43500,1 
+"61559","37900","Peoria, IL","PRINCEVILLE",3067,1 
+"61560","36860","Ottawa-Peru, IL","PUTNAM",705,1 
+"61561","37900","Peoria, IL","ROANOKE",2863,1 
+"61563","15900","Canton, IL","SAINT DAVID",511,1 
+"61564","37900","Peoria, IL","SOUTH PEKIN",994,1 
+"61565","37900","Peoria, IL","SPARLAND",1676,1 
+"61567"," "," ","TOPEKA",1053,1 
+"61568","37900","Peoria, IL","TREMONT",4162,1 
+"61569","37900","Peoria, IL","TRIVOLI",1215,1 
+"61570","37900","Peoria, IL","WASHBURN",1783,1 
+"61571","37900","Peoria, IL","SUNNYLAND",20338,1 
+"61572","23660","Galesburg, IL","YATES CITY",1069,1 
+"61602","37900","Peoria, IL","PEORIA",774,1 
+"61603","37900","Peoria, IL","PEORIA HEIGHTS",19433,1 
+"61604","37900","Peoria, IL","PEORIA",33587,1 
+"61605","37900","Peoria, IL","PEORIA",18529,1 
+"61606","37900","Peoria, IL","PEORIA",9674,1 
+"61607","37900","Peoria, IL","BARTONVILLE",10473,1 
+"61610","37900","Peoria, IL","61610",5041,1 
+"61611","37900","Peoria, IL","EAST PEORIA",23663,1 
+"61614","37900","Peoria, IL","PEORIA HEIGHTS",34386,1 
+"61615","37900","Peoria, IL","PEORIA",18411,1 
+"61701","14060","Bloomington-Normal, IL Metropolitan Stat","BLOOMINGTON",37240,1 
+"61704","14060","Bloomington-Normal, IL Metropolitan Stat","BLOOMINGTON",35851,1 
+"61720","14060","Bloomington-Normal, IL Metropolitan Stat","ANCHOR",347,0.948 
+"61720","16580","Champaign-Urbana, IL","ANCHOR",19,0.052 
+"61721","14060","Bloomington-Normal, IL Metropolitan Stat","ARMINGTON",3,0.004 
+"61721","30660","Lincoln, IL","ARMINGTON",63,0.089 
+"61721","37900","Peoria, IL","ARMINGTON",641,0.907 
+"61722","14060","Bloomington-Normal, IL Metropolitan Stat","ARROWSMITH",631,1 
+"61723","14060","Bloomington-Normal, IL Metropolitan Stat","ATLANTA",77,0.032 
+"61723","30660","Lincoln, IL","ATLANTA",2359,0.968 
+"61724","14060","Bloomington-Normal, IL Metropolitan Stat","BELLFLOWER",622,1 
+"61725","14060","Bloomington-Normal, IL Metropolitan Stat","CARLOCK",856,0.675 
+"61725","37900","Peoria, IL","CARLOCK",412,0.325 
+"61726","14060","Bloomington-Normal, IL Metropolitan Stat","CHENOA",2599,0.932 
+"61726","38700","Pontiac, IL","CHENOA",190,0.068 
+"61727"," "," ","CLINTON",10260,1 
+"61728","14060","Bloomington-Normal, IL Metropolitan Stat","COLFAX",1431,1 
+"61729","14060","Bloomington-Normal, IL Metropolitan Stat","CONGERVILLE",18,0.016 
+"61729","37900","Peoria, IL","CONGERVILLE",1086,0.984 
+"61730","14060","Bloomington-Normal, IL Metropolitan Stat","COOKSVILLE",381,1 
+"61731","14060","Bloomington-Normal, IL Metropolitan Stat","CROPSEY",219,0.862 
+"61731","16580","Champaign-Urbana, IL","CROPSEY",27,0.106 
+"61731","38700","Pontiac, IL","CROPSEY",8,0.031 
+"61732","14060","Bloomington-Normal, IL Metropolitan Stat","DANVERS",2074,0.996 
+"61732","37900","Peoria, IL","DANVERS",8,0.004 
+"61733","37900","Peoria, IL","DEER CREEK",980,1 
+"61734","37900","Peoria, IL","DELAVAN",3054,1 
+"61735"," "," ","DEWITT",408,1 
+"61736","14060","Bloomington-Normal, IL Metropolitan Stat","HOLDER",1335,1 
+"61737","14060","Bloomington-Normal, IL Metropolitan Stat","ELLSWORTH",577,1 
+"61738","14060","Bloomington-Normal, IL Metropolitan Stat","EL PASO",31,0.007 
+"61738","37900","Peoria, IL","EL PASO",4426,0.993 
+"61739","14060","Bloomington-Normal, IL Metropolitan Stat","FAIRBURY",1,0 
+"61739","38700","Pontiac, IL","FAIRBURY",4867,1 
+"61740","38700","Pontiac, IL","FLANAGAN",1746,1 
+"61741","38700","Pontiac, IL","FORREST",1827,1 
+"61742","37900","Peoria, IL","GOODFIELD",918,1 
+"61743","38700","Pontiac, IL","GRAYMONT",270,1 
+"61744","14060","Bloomington-Normal, IL Metropolitan Stat","GRIDLEY",1811,0.91 
+"61744","38700","Pontiac, IL","GRIDLEY",180,0.09 
+"61745"," "," ","HEYWORTH",109,0.027 
+"61745","14060","Bloomington-Normal, IL Metropolitan Stat","HEYWORTH",3917,0.973 
+"61747","37900","Peoria, IL","HOPEDALE",1472,1 
+"61748","14060","Bloomington-Normal, IL Metropolitan Stat","HUDSON",2565,0.991 
+"61748","37900","Peoria, IL","HUDSON",24,0.009 
+"61749"," "," ","KENNEY",602,0.923 
+"61749","19500","Decatur, IL","KENNEY",22,0.034 
+"61749","30660","Lincoln, IL","KENNEY",28,0.043 
+"61750"," "," ","LANE",126,1 
+"61752"," "," ","LE ROY",35,0.008 
+"61752","14060","Bloomington-Normal, IL Metropolitan Stat","LE ROY",4112,0.992 
+"61753","14060","Bloomington-Normal, IL Metropolitan Stat","LEXINGTON",2932,1 
+"61754","14060","Bloomington-Normal, IL Metropolitan Stat","MC LEAN",1228,0.962 
+"61754","30660","Lincoln, IL","MC LEAN",49,0.038 
+"61755","37900","Peoria, IL","MACKINAW",4074,1 
+"61756"," "," ","MAROA",45,0.021 
+"61756","19500","Decatur, IL","MAROA",2061,0.979 
+"61758","14060","Bloomington-Normal, IL Metropolitan Stat","MERNA",87,1 
+"61759","37900","Peoria, IL","MINIER",1555,1 
+"61760","37900","Peoria, IL","MINONK",2691,1 
+"61761","14060","Bloomington-Normal, IL Metropolitan Stat","NORMAL",45337,1 
+"61764","38700","Pontiac, IL","PONTIAC",14677,1 
+"61769","38700","Pontiac, IL","SAUNEMIN",639,1 
+"61770","14060","Bloomington-Normal, IL Metropolitan Stat","SAYBROOK",1143,1 
+"61771","37900","Peoria, IL","SECOR",597,1 
+"61772","14060","Bloomington-Normal, IL Metropolitan Stat","SHIRLEY",388,1 
+"61773","16580","Champaign-Urbana, IL","SIBLEY",548,1 
+"61774","14060","Bloomington-Normal, IL Metropolitan Stat","STANFORD",1080,1 
+"61775","38700","Pontiac, IL","STRAWN",310,1 
+"61776","14060","Bloomington-Normal, IL Metropolitan Stat","TOWANDA",1343,1 
+"61777"," "," ","WAPELLA",1027,1 
+"61778"," "," ","WAYNESVILLE",697,1 
+"61801","16580","Champaign-Urbana, IL","URBANA",29369,1 
+"61802","16580","Champaign-Urbana, IL","61802",16566,1 
+"61810"," "," ","ALLERTON",27,0.069 
+"61810","16580","Champaign-Urbana, IL","ALLERTON",25,0.064 
+"61810","19180","Danville, IL","ALLERTON",337,0.866 
+"61811","19180","Danville, IL","ALVIN",800,1 
+"61812","19180","Danville, IL","ARMSTRONG",420,1 
+"61813","16580","Champaign-Urbana, IL","BEMENT",2147,1 
+"61814","19180","Danville, IL","BISMARCK",1249,1 
+"61815","16580","Champaign-Urbana, IL","BONDVILLE",172,1 
+"61816","16580","Champaign-Urbana, IL","BROADLANDS",487,1 
+"61817","19180","Danville, IL","CATLIN",2838,1 
+"61818","16580","Champaign-Urbana, IL","CERRO GORDO",1668,0.955 
+"61818","19500","Decatur, IL","CERRO GORDO",78,0.045 
+"61820","16580","Champaign-Urbana, IL","CHAMPAIGN",33624,1 
+"61821","16580","Champaign-Urbana, IL","CHAMPAIGN",28583,1 
+"61822","16580","Champaign-Urbana, IL","CHAMPAIGN",15375,1 
+"61830","16580","Champaign-Urbana, IL","CISCO",476,0.845 
+"61830","19500","Decatur, IL","CISCO",87,0.155 
+"61831","19180","Danville, IL","COLLISON",180,1 
+"61832","19180","Danville, IL","DANVILLE",39127,1 
+"61833","19180","Danville, IL","TILTON",2132,1 
+"61834","19180","Danville, IL","DANVILLE",7843,1 
+"61839","16580","Champaign-Urbana, IL","DE LAND",601,1 
+"61840","16580","Champaign-Urbana, IL","DEWEY",709,1 
+"61841","19180","Danville, IL","FAIRMOUNT",1352,1 
+"61842"," "," ","FARMER CITY",2791,0.958 
+"61842","14060","Bloomington-Normal, IL Metropolitan Stat","FARMER CITY",123,0.042 
+"61843","14060","Bloomington-Normal, IL Metropolitan Stat","FISHER",32,0.015 
+"61843","16580","Champaign-Urbana, IL","FISHER",2040,0.985 
+"61844","19180","Danville, IL","FITHIAN",1037,1 
+"61845","16580","Champaign-Urbana, IL","FOOSLAND",1839,1 
+"61846","19180","Danville, IL","GEORGETOWN",5163,1 
+"61847","16580","Champaign-Urbana, IL","GIFFORD",1213,1 
+"61848","19180","Danville, IL","HENNING",221,1 
+"61849","16580","Champaign-Urbana, IL","HOMER",1629,0.929 
+"61849","19180","Danville, IL","HOMER",125,0.071 
+"61850","19180","Danville, IL","INDIANOLA",572,1 
+"61851","16580","Champaign-Urbana, IL","IVESDALE",497,1 
+"61852"," "," ","LONGVIEW",16,0.057 
+"61852","16580","Champaign-Urbana, IL","LONGVIEW",266,0.943 
+"61853","16580","Champaign-Urbana, IL","MAHOMET",10454,1 
+"61854","16580","Champaign-Urbana, IL","MANSFIELD",1573,1 
+"61855","16580","Champaign-Urbana, IL","MILMINE",74,1 
+"61856","16580","Champaign-Urbana, IL","MONTICELLO",6762,1 
+"61857","19180","Danville, IL","MUNCIE",167,1 
+"61858","19180","Danville, IL","OAKWOOD",2833,1 
+"61859","16580","Champaign-Urbana, IL","OGDEN",1263,0.976 
+"61859","19180","Danville, IL","OGDEN",31,0.024 
+"61862","16580","Champaign-Urbana, IL","PENFIELD",465,0.91 
+"61862","19180","Danville, IL","PENFIELD",46,0.09 
+"61863","16580","Champaign-Urbana, IL","PESOTUM",840,1 
+"61864","16580","Champaign-Urbana, IL","PHILO",1553,1 
+"61865","19180","Danville, IL","POTOMAC",1331,1 
+"61866","16580","Champaign-Urbana, IL","RANTOUL",14201,1 
+"61870"," "," ","RIDGE FARM",32,0.024 
+"61870","19180","Danville, IL","RIDGE FARM",1325,0.976 
+"61871","16580","Champaign-Urbana, IL","ROYAL",175,1 
+"61872"," "," ","SADORUS",20,0.028 
+"61872","16580","Champaign-Urbana, IL","SADORUS",692,0.972 
+"61873","16580","Champaign-Urbana, IL","SAINT JOSEPH",5020,1 
+"61874","16580","Champaign-Urbana, IL","SAVOY",4355,1 
+"61875","16580","Champaign-Urbana, IL","SEYMOUR",795,1 
+"61876"," "," ","SIDELL",58,0.068 
+"61876","19180","Danville, IL","SIDELL",793,0.932 
+"61877","16580","Champaign-Urbana, IL","SIDNEY",1516,1 
+"61878","16580","Champaign-Urbana, IL","THOMASBORO",1577,1 
+"61880","16580","Champaign-Urbana, IL","TOLONO",3461,1 
+"61882"," "," ","WELDON",684,1 
+"61883","19180","Danville, IL","WESTVILLE",4622,1 
+"61884","16580","Champaign-Urbana, IL","WHITE HEATH",1172,1 
+"61910"," "," ","ARCOLA",4125,0.944 
+"61910","16660","Charleston-Mattoon, IL","ARCOLA",245,0.056 
+"61911"," "," ","ARTHUR",4023,0.985 
+"61911","16660","Charleston-Mattoon, IL","ARTHUR",62,0.015 
+"61912","16660","Charleston-Mattoon, IL","ASHMORE",1410,1 
+"61913"," "," ","ATWOOD",1046,0.556 
+"61913","16580","Champaign-Urbana, IL","ATWOOD",836,0.444 
+"61914"," "," ","BETHANY",1842,1 
+"61917"," "," ","BROCTON",646,1 
+"61919"," "," ","CAMARGO",803,1 
+"61920","16660","Charleston-Mattoon, IL","CHARLESTON",24572,1 
+"61924"," "," ","CHRISMAN",2602,1 
+"61925"," "," ","DALTON CITY",625,0.676 
+"61925","19500","Decatur, IL","DALTON CITY",299,0.324 
+"61928"," "," ","GAYS",677,0.79 
+"61928","16660","Charleston-Mattoon, IL","GAYS",180,0.21 
+"61929","16580","Champaign-Urbana, IL","HAMMOND",766,1 
+"61930"," "," ","HINDSBORO",579,0.954 
+"61930","16660","Charleston-Mattoon, IL","HINDSBORO",28,0.046 
+"61931","16660","Charleston-Mattoon, IL","HUMBOLDT",1231,1 
+"61932"," "," ","HUME",461,1 
+"61933"," "," ","KANSAS",1330,0.997 
+"61933","16660","Charleston-Mattoon, IL","KANSAS",4,0.003 
+"61936","16580","Champaign-Urbana, IL","LA PLACE",310,1 
+"61937"," "," ","LOVINGTON",2722,0.991 
+"61937","19500","Decatur, IL","LOVINGTON",24,0.009 
+"61938","16660","Charleston-Mattoon, IL","MATTOON",22264,1 
+"61940"," "," ","METCALF",301,1 
+"61941"," "," ","MURDOCK",117,1 
+"61942"," "," ","NEWMAN",1334,1 
+"61943"," "," ","OAKLAND",170,0.089 
+"61943","16660","Charleston-Mattoon, IL","OAKLAND",1730,0.911 
+"61944"," "," ","PARIS",13791,1 
+"61949"," "," ","REDMON",110,1 
+"61951"," "," ","SULLIVAN",7199,0.996 
+"61951","16660","Charleston-Mattoon, IL","SULLIVAN",27,0.004 
+"61953"," "," ","TUSCOLA",6285,1 
+"61956"," "," ","VILLA GROVE",2835,0.975 
+"61956","16580","Champaign-Urbana, IL","VILLA GROVE",74,0.025 
+"61957"," "," ","WINDSOR",1870,1 
+"62001","41180","St. Louis, MO-IL","ALHAMBRA",1596,1 
+"62002","41180","St. Louis, MO-IL","ALTON",34062,1 
+"62006","41180","St. Louis, MO-IL","BATCHTOWN",476,1 
+"62009","41180","St. Louis, MO-IL","BENLD",2171,1 
+"62010","41180","St. Louis, MO-IL","BETHALTO",10648,1 
+"62011"," "," ","BINGHAM",391,1 
+"62012","41180","St. Louis, MO-IL","BRIGHTON",6563,1 
+"62013","41180","St. Louis, MO-IL","MEPPEN",731,1 
+"62014","41180","St. Louis, MO-IL","BUNKER HILL",4073,1 
+"62015"," "," ","BUTLER",569,1 
+"62016"," "," ","CARROLLTON",4001,1 
+"62017"," "," ","COFFEEN",1284,0.998 
+"62017","41180","St. Louis, MO-IL","COFFEEN",3,0.002 
+"62018","41180","St. Louis, MO-IL","COTTAGE HILLS",4387,1 
+"62019"," "," ","DONNELLSON",353,0.573 
+"62019","41180","St. Louis, MO-IL","DONNELLSON",263,0.427 
+"62021","41180","St. Louis, MO-IL","DORSEY",965,1 
+"62022","41180","St. Louis, MO-IL","DOW",962,1 
+"62023","41180","St. Louis, MO-IL","EAGARVILLE",114,1 
+"62024","41180","St. Louis, MO-IL","EAST ALTON",12439,1 
+"62025","41180","St. Louis, MO-IL","EDWARDSVILLE",29749,1 
+"62027"," "," ","ELDRED",591,1 
+"62028","41180","St. Louis, MO-IL","ELSAH",1208,1 
+"62030","41180","St. Louis, MO-IL","FIDELITY",128,1 
+"62031","41180","St. Louis, MO-IL","FIELDON",1128,1 
+"62032"," "," ","FILLMORE",764,1 
+"62033","41180","St. Louis, MO-IL","DORCHESTER",5055,1 
+"62034","41180","St. Louis, MO-IL","GLEN CARBON",12015,1 
+"62035","41180","St. Louis, MO-IL","GODFREY",15808,1 
+"62036","41180","St. Louis, MO-IL","GOLDEN EAGLE",601,1 
+"62037","41180","St. Louis, MO-IL","GRAFTON",1842,1 
+"62040","41180","St. Louis, MO-IL","MITCHELL",46104,1 
+"62044"," "," ","GREENFIELD",2085,0.999 
+"62044","41180","St. Louis, MO-IL","GREENFIELD",3,0.001 
+"62045","41180","St. Louis, MO-IL","HAMBURG",587,1 
+"62046","41180","St. Louis, MO-IL","HAMEL",388,1 
+"62047","41180","St. Louis, MO-IL","HARDIN",1559,1 
+"62048","41180","St. Louis, MO-IL","HARTFORD",1508,1 
+"62049"," "," ","HILLSBORO",6839,1 
+"62050"," "," ","HILLVIEW",509,1 
+"62051"," "," ","IRVING",2952,1 
+"62052"," "," ","JERSEYVILLE",7,0.001 
+"62052","41180","St. Louis, MO-IL","JERSEYVILLE",12185,0.999 
+"62053","41180","St. Louis, MO-IL","KAMPSVILLE",780,1 
+"62054"," "," ","KANE",791,0.88 
+"62054","41180","St. Louis, MO-IL","KANE",108,0.12 
+"62056"," "," ","LITCHFIELD",8622,0.967 
+"62056","41180","St. Louis, MO-IL","LITCHFIELD",292,0.033 
+"62058","41180","St. Louis, MO-IL","LIVINGSTON",760,1 
+"62059","41180","St. Louis, MO-IL","LOVEJOY",668,1 
+"62060","41180","St. Louis, MO-IL","MADISON",5816,1 
+"62061","41180","St. Louis, MO-IL","MARINE",1455,1 
+"62062","41180","St. Louis, MO-IL","MARYVILLE",4431,1 
+"62063","41180","St. Louis, MO-IL","MEDORA",1291,1 
+"62065","41180","St. Louis, MO-IL","MICHAEL",114,1 
+"62067","41180","St. Louis, MO-IL","MORO",2089,1 
+"62069"," "," ","MOUNT OLIVE",16,0.005 
+"62069","41180","St. Louis, MO-IL","MOUNT OLIVE",3431,0.995 
+"62070","41180","St. Louis, MO-IL","MOZIER",63,1 
+"62074"," "," ","NEW DOUGLAS",20,0.017 
+"62074","41180","St. Louis, MO-IL","NEW DOUGLAS",1144,0.983 
+"62075"," "," ","NOKOMIS",3539,0.958 
+"62075","45380","Taylorville, IL","NOKOMIS",154,0.042 
+"62077"," "," ","PANAMA",116,1 
+"62078"," "," ","PATTERSON",121,1 
+"62079","41180","St. Louis, MO-IL","PIASA",180,1 
+"62080"," "," ","RAMSEY",2463,1 
+"62081"," "," ","ROCKBRIDGE",366,1 
+"62082"," "," ","ROODHOUSE",3128,0.953 
+"62082","27300","Jacksonville, IL","ROODHOUSE",154,0.047 
+"62083"," "," ","ROSAMOND",68,0.215 
+"62083","45380","Taylorville, IL","ROSAMOND",249,0.785 
+"62084","41180","St. Louis, MO-IL","ROXANA",1433,1 
+"62085","41180","St. Louis, MO-IL","SAWYERVILLE",24,1 
+"62086"," "," ","SORENTO",108,0.063 
+"62086","41180","St. Louis, MO-IL","SORENTO",1594,0.937 
+"62087","41180","St. Louis, MO-IL","SOUTH ROXANA",1889,1 
+"62088","41180","St. Louis, MO-IL","STAUNTON",6816,1 
+"62089"," "," ","TAYLOR SPRINGS",281,1 
+"62090","41180","St. Louis, MO-IL","VENICE",1589,1 
+"62091"," "," ","WALSHVILLE",352,1 
+"62092"," "," ","WHITE HALL",3155,1 
+"62093","41180","St. Louis, MO-IL","WILSONVILLE",343,1 
+"62094"," "," ","WITT",1251,1 
+"62095","41180","St. Louis, MO-IL","WOOD RIVER",10482,1 
+"62097","41180","St. Louis, MO-IL","WORDEN",2530,1 
+"62201","41180","St. Louis, MO-IL","SAUGET",8452,1 
+"62203","41180","St. Louis, MO-IL","EAST SAINT LOUIS",10275,1 
+"62204","41180","St. Louis, MO-IL","WASHINGTON PARK",10725,1 
+"62205","41180","St. Louis, MO-IL","EAST SAINT LOUIS",10343,1 
+"62206","41180","St. Louis, MO-IL","CAHOKIA",18315,1 
+"62207","41180","St. Louis, MO-IL","ALORTON",9841,1 
+"62208","41180","St. Louis, MO-IL","FAIRVIEW HEIGHTS",14752,1 
+"62214"," "," ","VENEDY",1291,1 
+"62215","41180","St. Louis, MO-IL","ALBERS",1208,1 
+"62216","41180","St. Louis, MO-IL","AVISTON",934,1 
+"62217"," "," ","BALDWIN",4114,1 
+"62218","41180","St. Louis, MO-IL","BARTELSO",1455,1 
+"62219","41180","St. Louis, MO-IL","BECKEMEYER",949,1 
+"62220","41180","St. Louis, MO-IL","BELLEVILLE",19902,1 
+"62221","41180","St. Louis, MO-IL","BELLEVILLE",22252,1 
+"62223","41180","St. Louis, MO-IL","BELLEVILLE",17207,1 
+"62225","41180","St. Louis, MO-IL","SCOTT A F B",5348,1 
+"62226","41180","St. Louis, MO-IL","62226",27065,1 
+"62230","41180","St. Louis, MO-IL","BREESE",5733,1 
+"62231","41180","St. Louis, MO-IL","CARLYLE",6980,1 
+"62232","41180","St. Louis, MO-IL","CASEYVILLE",7101,1 
+"62233"," "," ","CHESTER",6558,1 
+"62234","41180","St. Louis, MO-IL","COLLINSVILLE",31986,1 
+"62236","41180","St. Louis, MO-IL","COLUMBIA",10517,1 
+"62237"," "," ","SWANWICK",3161,1 
+"62238"," "," ","CUTLER",830,1 
+"62239","41180","St. Louis, MO-IL","DUPO",4766,1 
+"62240","41180","St. Louis, MO-IL","EAST CARONDELET",1968,1 
+"62241"," "," ","ELLIS GROVE",1158,1 
+"62242"," "," ","EVANSVILLE",1425,1 
+"62243","41180","St. Louis, MO-IL","FREEBURG",5433,1 
+"62244","41180","St. Louis, MO-IL","FULTS",1192,1 
+"62245","41180","St. Louis, MO-IL","GERMANTOWN",2490,1 
+"62246","41180","St. Louis, MO-IL","GREENVILLE",10003,1 
+"62249","41180","St. Louis, MO-IL","HIGHLAND",13449,1 
+"62250","41180","St. Louis, MO-IL","HOFFMAN",462,1 
+"62253"," "," ","KEYESPORT",39,0.047 
+"62253","41180","St. Louis, MO-IL","KEYESPORT",789,0.953 
+"62254","41180","St. Louis, MO-IL","LEBANON",5253,1 
+"62255","41180","St. Louis, MO-IL","LENZBURG",1139,1 
+"62257"," "," ","MARISSA",469,0.122 
+"62257","41180","St. Louis, MO-IL","MARISSA",3363,0.878 
+"62258","41180","St. Louis, MO-IL","MASCOUTAH",7381,1 
+"62260","41180","St. Louis, MO-IL","MILLSTADT",5997,1 
+"62261"," "," ","MODOC",221,1 
+"62262"," "," ","MULBERRY GROVE",353,0.189 
+"62262","41180","St. Louis, MO-IL","MULBERRY GROVE",1515,0.811 
+"62263"," "," ","NASHVILLE",5270,1 
+"62264","41180","St. Louis, MO-IL","NEW ATHENS",3222,1 
+"62265","41180","St. Louis, MO-IL","NEW BADEN",4108,1 
+"62266","41180","St. Louis, MO-IL","NEW MEMPHIS",109,1 
+"62268"," "," ","OAKDALE",781,1 
+"62269","41180","St. Louis, MO-IL","SHILOH",26249,1 
+"62271"," "," ","OKAWVILLE",2026,1 
+"62272"," "," ","PERCY",1636,1 
+"62273","41180","St. Louis, MO-IL","PIERRON",46,1 
+"62274"," "," ","PINCKNEYVILLE",8532,1 
+"62275","41180","St. Louis, MO-IL","POCAHONTAS",3681,1 
+"62277"," "," ","PRAIRIE DU ROCHE",1121,0.752 
+"62277","41180","St. Louis, MO-IL","PRAIRIE DU ROCHE",370,0.248 
+"62278"," "," ","RED BUD",5140,0.755 
+"62278","41180","St. Louis, MO-IL","RED BUD",1672,0.245 
+"62279","41180","St. Louis, MO-IL","RENAULT",26,1 
+"62280"," "," ","ROCKWOOD",242,0.546 
+"62280","16060","Carbondale-Marion, IL","ROCKWOOD",201,0.454 
+"62281","41180","St. Louis, MO-IL","SAINT JACOB",1719,1 
+"62283","41180","St. Louis, MO-IL","SHATTUC",721,1 
+"62284","41180","St. Louis, MO-IL","SMITHBORO",622,1 
+"62285","41180","St. Louis, MO-IL","SMITHTON",3121,1 
+"62286"," "," ","SPARTA",6408,1 
+"62288"," "," ","STEELEVILLE",2977,1 
+"62289","41180","St. Louis, MO-IL","SUMMERFIELD",312,1 
+"62292"," "," ","TILDEN",643,1 
+"62293","41180","St. Louis, MO-IL","TRENTON",4576,1 
+"62294","41180","St. Louis, MO-IL","TROY",12479,1 
+"62295","41180","St. Louis, MO-IL","VALMEYER",923,1 
+"62297"," "," ","WALSH",411,1 
+"62298","41180","St. Louis, MO-IL","WATERLOO",14024,1 
+"62301","39500","Quincy, IL-MO","QUINCY",52461,1 
+"62311"," "," ","AUGUSTA",933,0.958 
+"62311","39500","Quincy, IL-MO","AUGUSTA",41,0.042 
+"62312"," "," ","BARRY",2037,0.923 
+"62312","39500","Quincy, IL-MO","BARRY",169,0.077 
+"62313"," "," ","BASCO",395,1 
+"62314"," "," ","BAYLIS",622,0.891 
+"62314","39500","Quincy, IL-MO","BAYLIS",76,0.109 
+"62316"," "," ","BOWEN",733,0.991 
+"62316","39500","Quincy, IL-MO","BOWEN",7,0.009 
+"62318"," "," ","BURNSIDE",358,1 
+"62319"," "," ","CAMDEN",266,1 
+"62320","39500","Quincy, IL-MO","CAMP POINT",2257,1 
+"62321"," "," ","CARTHAGE",4328,1 
+"62323"," "," ","CHAMBERSBURG",294,1 
+"62324"," "," ","CLAYTON",39,0.026 
+"62324","39500","Quincy, IL-MO","CLAYTON",1480,0.974 
+"62325","39500","Quincy, IL-MO","COATSBURG",474,1 
+"62326"," "," ","COLCHESTER",35,0.013 
+"62326","31380","Macomb, IL","COLCHESTER",2662,0.987 
+"62330"," "," ","PONTOOSUC",1462,0.845 
+"62330","15460","Burlington, IA-IL","PONTOOSUC",268,0.155 
+"62334"," "," ","ELVASTON",151,1 
+"62336"," "," ","FERRIS",65,1 
+"62338","39500","Quincy, IL-MO","FOWLER",1364,1 
+"62339","39500","Quincy, IL-MO","GOLDEN",930,1 
+"62340"," "," ","GRIGGSVILLE",1800,1 
+"62341"," "," ","HAMILTON",3731,1 
+"62343"," "," ","HULL",740,0.937 
+"62343","39500","Quincy, IL-MO","HULL",50,0.063 
+"62344"," "," ","HUNTSVILLE",185,1 
+"62345"," "," ","KINDERHOOK",415,1 
+"62346"," "," ","LA PRAIRIE",30,0.118 
+"62346","39500","Quincy, IL-MO","LA PRAIRIE",224,0.882 
+"62347","39500","Quincy, IL-MO","LIBERTY",2177,1 
+"62348","39500","Quincy, IL-MO","LIMA",255,1 
+"62349"," "," ","LORAINE",3,0.004 
+"62349","39500","Quincy, IL-MO","LORAINE",667,0.996 
+"62351","39500","Quincy, IL-MO","MENDON",1806,1 
+"62352"," "," ","MILTON",353,1 
+"62353"," "," ","MOUNT STERLING",5526,1 
+"62354"," "," ","NAUVOO",1559,1 
+"62355"," "," ","NEBO",728,0.813 
+"62355","41180","St. Louis, MO-IL","NEBO",167,0.187 
+"62356"," "," ","NEW CANTON",725,1 
+"62357"," "," ","NEW SALEM",272,1 
+"62358"," "," ","NIOTA",646,1 
+"62359","39500","Quincy, IL-MO","PALOMA",192,1 
+"62360","39500","Quincy, IL-MO","PAYSON",1753,1 
+"62361"," "," ","PEARL",555,1 
+"62362"," "," ","PERRY",468,1 
+"62363"," "," ","PITTSFIELD",6332,1 
+"62365","39500","Quincy, IL-MO","PLAINVILLE",691,1 
+"62366"," "," ","PLEASANT HILL",1441,0.996 
+"62366","41180","St. Louis, MO-IL","PLEASANT HILL",6,0.004 
+"62367"," "," ","COLMAR",978,0.731 
+"62367","31380","Macomb, IL","COLMAR",359,0.269 
+"62370"," "," ","ROCKPORT",641,1 
+"62373"," "," ","SUTTER",391,0.942 
+"62373","39500","Quincy, IL-MO","SUTTER",24,0.058 
+"62374"," "," ","TENNESSEE",61,0.201 
+"62374","31380","Macomb, IL","TENNESSEE",242,0.799 
+"62375"," "," ","TIMEWELL",381,1 
+"62376","39500","Quincy, IL-MO","URSA",1143,1 
+"62378"," "," ","VERSAILLES",967,1 
+"62379"," "," ","WARSAW",2221,0.984 
+"62379","39500","Quincy, IL-MO","WARSAW",36,0.016 
+"62380"," "," ","WEST POINT",438,1 
+"62401"," "," ","EFFINGHAM",39,0.002 
+"62401","20820","Effingham, IL","EFFINGHAM",19031,0.998 
+"62410"," "," ","ALLENDALE",1094,1 
+"62411"," "," ","ALTAMONT",25,0.006 
+"62411","20820","Effingham, IL","ALTAMONT",4160,0.994 
+"62413"," "," ","ANNAPOLIS",441,1 
+"62414"," "," ","BEECHER CITY",792,0.483 
+"62414","20820","Effingham, IL","BEECHER CITY",847,0.517 
+"62417"," "," ","BRIDGEPORT",3390,1 
+"62418"," "," ","BROWNSTOWN",2024,1 
+"62419"," "," ","CALHOUN",417,1 
+"62420"," "," ","CASEY",4454,0.894 
+"62420","16660","Charleston-Mattoon, IL","CASEY",529,0.106 
+"62421"," "," ","CLAREMONT",861,1 
+"62422"," "," ","COWDEN",1173,1 
+"62423"," "," ","DENNISON",738,1 
+"62424"," "," ","DIETERICH",55,0.027 
+"62424","20820","Effingham, IL","DIETERICH",2014,0.973 
+"62425"," "," ","DUNDAS",716,1 
+"62426"," "," ","LACLEDE",461,0.388 
+"62426","20820","Effingham, IL","LACLEDE",726,0.612 
+"62427"," "," ","FLAT ROCK",1904,1 
+"62428"," "," ","HAZEL DELL",2,0.001 
+"62428","16660","Charleston-Mattoon, IL","HAZEL DELL",3185,0.999 
+"62431"," "," ","HERRICK",1287,1 
+"62432"," "," ","HIDALGO",575,1 
+"62433"," "," ","HUTSONVILLE",1057,1 
+"62434"," "," ","INGRAHAM",540,1 
+"62436"," "," ","JEWETT",147,0.257 
+"62436","16660","Charleston-Mattoon, IL","JEWETT",425,0.743 
+"62438"," "," ","LAKEWOOD",404,1 
+"62439"," "," ","LAWRENCEVILLE",8019,1 
+"62440","16660","Charleston-Mattoon, IL","LERNA",1445,1 
+"62441"," "," ","MARSHALL",7435,1 
+"62442"," "," ","MARTINSVILLE",2574,1 
+"62443"," "," ","MASON",112,0.077 
+"62443","20820","Effingham, IL","MASON",1346,0.923 
+"62444"," "," ","MODE",339,1 
+"62445"," "," ","MONTROSE",228,0.202 
+"62445","16660","Charleston-Mattoon, IL","MONTROSE",571,0.507 
+"62445","20820","Effingham, IL","MONTROSE",328,0.291 
+"62446"," "," ","MOUNT ERIE",450,1 
+"62447"," "," ","NEOGA",568,0.154 
+"62447","16660","Charleston-Mattoon, IL","NEOGA",3116,0.846 
+"62448"," "," ","NEWTON",6063,1 
+"62449"," "," ","OBLONG",3212,1 
+"62450"," "," ","OLNEY",11900,1 
+"62451"," "," ","PALESTINE",2234,1 
+"62452"," "," ","PARKERSBURG",405,1 
+"62454"," "," ","ROBINSON",11732,1 
+"62458"," "," ","SAINT ELMO",2154,0.964 
+"62458","20820","Effingham, IL","SAINT ELMO",81,0.036 
+"62459"," "," ","SAINTE MARIE",261,1 
+"62460"," "," ","SAINT FRANCISVIL",1188,1 
+"62461"," "," ","SHUMWAY",51,0.064 
+"62461","20820","Effingham, IL","SHUMWAY",742,0.936 
+"62462"," "," ","SIGEL",767,0.634 
+"62462","16660","Charleston-Mattoon, IL","SIGEL",443,0.366 
+"62463"," "," ","STEWARDSON",1420,1 
+"62465"," "," ","STRASBURG",970,1 
+"62466"," "," ","SUMNER",2577,1 
+"62467"," "," ","TEUTOPOLIS",104,0.028 
+"62467","16660","Charleston-Mattoon, IL","TEUTOPOLIS",93,0.025 
+"62467","20820","Effingham, IL","TEUTOPOLIS",3467,0.946 
+"62468","16660","Charleston-Mattoon, IL","TOLEDO",2468,1 
+"62469","16660","Charleston-Mattoon, IL","TRILLA",322,1 
+"62471"," "," ","VANDALIA",10206,1 
+"62473","20820","Effingham, IL","WATSON",1481,1 
+"62474"," "," ","WESTFIELD",825,0.893 
+"62474","16660","Charleston-Mattoon, IL","WESTFIELD",99,0.107 
+"62475"," "," ","WEST LIBERTY",416,1 
+"62476"," "," ","WEST SALEM",1937,1 
+"62477"," "," ","WEST UNION",1131,1 
+"62478"," "," ","WEST YORK",414,1 
+"62479"," "," ","WHEELER",781,0.989 
+"62479","20820","Effingham, IL","WHEELER",9,0.011 
+"62480"," "," ","WILLOW HILL",880,1 
+"62481"," "," ","YALE",439,1 
+"62501","19500","Decatur, IL","NEWBURG",1566,1 
+"62510"," "," ","ASSUMPTION",271,0.149 
+"62510","45380","Taylorville, IL","ASSUMPTION",1548,0.851 
+"62511","41180","St. Louis, MO-IL","ATWATER",176,1 
+"62512"," "," ","BEASON",14,0.025 
+"62512","30660","Lincoln, IL","BEASON",538,0.975 
+"62513","19500","Decatur, IL","BLUE MOUND",1536,0.861 
+"62513","45380","Taylorville, IL","BLUE MOUND",249,0.139 
+"62514","19500","Decatur, IL","BOODY",340,1 
+"62515","44100","Springfield, IL","BUFFALO HART",1010,1 
+"62517","45380","Taylorville, IL","BULPITT",225,1 
+"62518","30660","Lincoln, IL","CHESTNUT",468,1 
+"62519","30660","Lincoln, IL","CORNLAND",85,1 
+"62520","44100","Springfield, IL","DAWSON",1451,1 
+"62521","19500","Decatur, IL","DECATUR",37281,1 
+"62522","19500","Decatur, IL","DECATUR",18458,1 
+"62523","19500","Decatur, IL","DECATUR",879,1 
+"62526","19500","Decatur, IL","BEARSDALE",36440,1 
+"62530","44100","Springfield, IL","CIMIC",1561,1 
+"62531","45380","Taylorville, IL","EDINBURG",1955,1 
+"62532","19500","Decatur, IL","ELWIN",53,1 
+"62533"," "," ","THOMASVILLE",1105,1 
+"62534"," "," ","BRUNSWICK",1213,1 
+"62535","19500","Decatur, IL","FORSYTH",2572,1 
+"62536","44100","Springfield, IL","GLENARM",942,1 
+"62537","19500","Decatur, IL","HARRISTOWN",144,1 
+"62538"," "," ","HARVEL",311,0.744 
+"62538","45380","Taylorville, IL","HARVEL",107,0.256 
+"62539","19500","Decatur, IL","ILLIOPOLIS",72,0.053 
+"62539","44100","Springfield, IL","ILLIOPOLIS",1295,0.947 
+"62540","45380","Taylorville, IL","KINCAID",1392,1 
+"62541","30660","Lincoln, IL","LAKE FORK",33,1 
+"62543","19500","Decatur, IL","LATHAM",55,0.101 
+"62543","30660","Lincoln, IL","LATHAM",490,0.899 
+"62544","19500","Decatur, IL","MACON",1714,1 
+"62545","44100","Springfield, IL","BOLIVIA",712,0.751 
+"62545","45380","Taylorville, IL","BOLIVIA",236,0.249 
+"62546"," "," ","MORRISONVILLE",64,0.036 
+"62546","45380","Taylorville, IL","MORRISONVILLE",1691,0.964 
+"62547","19500","Decatur, IL","MOUNT AUBURN",31,0.04 
+"62547","45380","Taylorville, IL","MOUNT AUBURN",753,0.96 
+"62548","30660","Lincoln, IL","MOUNT PULASKI",2395,0.999 
+"62548","44100","Springfield, IL","MOUNT PULASKI",2,0.001 
+"62549","19500","Decatur, IL","HERVEY CITY",5740,1 
+"62550"," "," ","RADFORD",2545,0.862 
+"62550","45380","Taylorville, IL","RADFORD",406,0.138 
+"62551","19500","Decatur, IL","NIANTIC",867,1 
+"62552","19500","Decatur, IL","CASNER",1063,1 
+"62553"," "," ","OCONEE",501,1 
+"62554","19500","Decatur, IL","OREANA",1710,1 
+"62555","45380","Taylorville, IL","OWANECO",613,1 
+"62556","45380","Taylorville, IL","CLARKSDALE",418,1 
+"62557"," "," ","DUNKEL",615,0.08 
+"62557","45380","Taylorville, IL","DUNKEL",7086,0.92 
+"62558"," "," ","SICILY",37,0.01 
+"62558","44100","Springfield, IL","SICILY",3357,0.942 
+"62558","45380","Taylorville, IL","SICILY",170,0.048 
+"62560"," "," ","RAYMOND",1405,1 
+"62561","44100","Springfield, IL","SPAULDING",4750,1 
+"62563","44100","Springfield, IL","BERRY",4819,0.99 
+"62563","45380","Taylorville, IL","BERRY",49,0.01 
+"62565"," "," ","CLARKSBURG",7659,1 
+"62567","45380","Taylorville, IL","STONINGTON",1227,1 
+"62568","45380","Taylorville, IL","HEWITTSVILLE",16328,1 
+"62570","45380","Taylorville, IL","TOVEY",516,1 
+"62571"," "," ","DOLLVILLE",1481,1 
+"62572"," "," ","WAGGONER",393,0.86 
+"62572","41180","St. Louis, MO-IL","WAGGONER",64,0.14 
+"62573","19500","Decatur, IL","HEMAN",1614,1 
+"62601","27300","Jacksonville, IL","ORLEANS",512,1 
+"62610","27300","Jacksonville, IL","ALSEY",224,1 
+"62611"," "," ","ARENZVILLE",928,0.79 
+"62611","27300","Jacksonville, IL","ARENZVILLE",247,0.21 
+"62612"," "," ","NEWMANSVILLE",1598,0.805 
+"62612","27300","Jacksonville, IL","NEWMANSVILLE",385,0.194 
+"62612","44100","Springfield, IL","NEWMANSVILLE",3,0.002 
+"62613","30660","Lincoln, IL","FANCY PRAIRIE",38,0.011 
+"62613","44100","Springfield, IL","FANCY PRAIRIE",3390,0.989 
+"62615","44100","Springfield, IL","AUBURN",5424,1 
+"62617"," "," ","LYNCHBURG",792,1 
+"62618"," "," ","BEARDSTOWN",7578,1 
+"62621","27300","Jacksonville, IL","EXETER",1219,1 
+"62624"," "," ","BADER",624,1 
+"62625","44100","Springfield, IL","CANTRALL",853,1 
+"62626","41180","St. Louis, MO-IL","COMER",8566,1 
+"62627"," "," ","PANTHER CREEK",1157,1 
+"62628","27300","Jacksonville, IL","CHAPIN",1033,1 
+"62629","44100","Springfield, IL","CHATHAM",9543,1 
+"62630"," "," ","HAGAMAN",7,0.011 
+"62630","41180","St. Louis, MO-IL","HAGAMAN",603,0.989 
+"62631","27300","Jacksonville, IL","CONCORD",269,1 
+"62633"," "," ","BIGGS",722,1 
+"62634","30660","Lincoln, IL","BROADWELL",964,1 
+"62635","30660","Lincoln, IL","EMDEN",651,1 
+"62638","27300","Jacksonville, IL","CLEMENTS",1374,0.983 
+"62638","41180","St. Louis, MO-IL","CLEMENTS",24,0.017 
+"62639"," "," ","FREDERICK",341,1 
+"62640"," "," ","MCVEY",7,0.002 
+"62640","41180","St. Louis, MO-IL","MCVEY",3692,0.998 
+"62642","44100","Springfield, IL","HUBLY",1607,1 
+"62643","30660","Lincoln, IL","HARTSBURG",442,1 
+"62644"," "," ","ECKARD",5623,0.974 
+"62644","15900","Canton, IL","ECKARD",150,0.026 
+"62649","41180","St. Louis, MO-IL","HETTICK",554,1 
+"62650","27300","Jacksonville, IL","ARCADIA",27581,1 
+"62655"," "," ","KILBOURNE",622,1 
+"62656","30660","Lincoln, IL","LINCOLN",20703,1 
+"62661","44100","Springfield, IL","LOAMI",1294,1 
+"62663","27300","Jacksonville, IL","MANCHESTER",340,1 
+"62664"," "," ","LUTHER",3338,1 
+"62665","27300","Jacksonville, IL","NAPLES",1675,1 
+"62666","30660","Lincoln, IL","MIDDLETOWN",643,0.924 
+"62666","44100","Springfield, IL","MIDDLETOWN",53,0.076 
+"62667","27300","Jacksonville, IL","MODESTO",35,0.059 
+"62667","41180","St. Louis, MO-IL","MODESTO",563,0.941 
+"62668","27300","Jacksonville, IL","NORTONVILLE",1584,1 
+"62670","27300","Jacksonville, IL","BATES",14,0.005 
+"62670","44100","Springfield, IL","BATES",2711,0.995 
+"62671"," "," ","NEW HOLLAND",18,0.024 
+"62671","30660","Lincoln, IL","NEW HOLLAND",743,0.976 
+"62672","41180","St. Louis, MO-IL","NILWOOD",296,1 
+"62673"," "," ","OAKFORD",87,0.14 
+"62673","44100","Springfield, IL","OAKFORD",533,0.86 
+"62674","41180","St. Louis, MO-IL","BARR",1541,1 
+"62675","44100","Springfield, IL","ATTERBURY",5949,1 
+"62677","44100","Springfield, IL","FARMINGDALE",2501,1 
+"62681"," "," ","LAYTON",5089,1 
+"62682"," "," ","ALLEN",622,0.603 
+"62682","30660","Lincoln, IL","ALLEN",409,0.397 
+"62684","44100","Springfield, IL","BARCLAY",3739,1 
+"62685","41180","St. Louis, MO-IL","ROYAL LAKES",2213,1 
+"62686","41180","St. Louis, MO-IL","SOUTH STANDARD",158,1 
+"62688","44100","Springfield, IL","TALLULA",944,1 
+"62689","44100","Springfield, IL","THAYER",538,1 
+"62690"," "," ","VIRDEN",47,0.011 
+"62690","41180","St. Louis, MO-IL","VIRDEN",3829,0.921 
+"62690","44100","Springfield, IL","VIRDEN",281,0.068 
+"62691"," "," ","LITTLE INDIAN",2550,1 
+"62692","27300","Jacksonville, IL","WAVERLY",1793,0.851 
+"62692","44100","Springfield, IL","WAVERLY",314,0.149 
+"62693","30660","Lincoln, IL","WILLIAMSVILLE",82,0.048 
+"62693","44100","Springfield, IL","WILLIAMSVILLE",1630,0.952 
+"62694","27300","Jacksonville, IL","GLASGOW",3281,1 
+"62695","27300","Jacksonville, IL","WOODSON",433,1 
+"62701","44100","Springfield, IL","SPRINGFIELD",1122,1 
+"62702","44100","Springfield, IL","GRANDVIEW",39437,1 
+"62703","44100","Springfield, IL","SOUTHERN VIEW",31211,1 
+"62704","44100","Springfield, IL","JEROME",41264,1 
+"62707","44100","Springfield, IL","ANDREW",27197,1 
+"62801"," "," ","CENTRALIA",551,0.023 
+"62801","16460","Centralia, IL","CENTRALIA",17139,0.71 
+"62801","34500","Mount Vernon, IL","CENTRALIA",520,0.022 
+"62801","41180","St. Louis, MO-IL","CENTRALIA",5931,0.246 
+"62803"," "," ","HOYLETON",956,1 
+"62806"," "," ","ALBION",3433,1 
+"62807","16460","Centralia, IL","ALMA",904,1 
+"62808"," "," ","ASHLEY",1242,0.83 
+"62808","34500","Mount Vernon, IL","ASHLEY",254,0.17 
+"62809"," "," ","BARNHILL",239,1 
+"62810"," "," ","BELLE RIVE",5,0.005 
+"62810","34500","Mount Vernon, IL","BELLE RIVE",1000,0.995 
+"62811"," "," ","BELLMONT",377,1 
+"62812"," "," ","BENTON",11349,1 
+"62814"," "," ","BLUFORD",229,0.107 
+"62814","34500","Mount Vernon, IL","BLUFORD",1905,0.893 
+"62815"," "," ","BONE GAP",440,1 
+"62816","34500","Mount Vernon, IL","BONNIE",1320,1 
+"62817","34500","Mount Vernon, IL","BROUGHTON",610,1 
+"62818"," "," ","BROWNS",345,1 
+"62819"," "," ","BUCKNER",470,1 
+"62820"," "," ","BURNT PRAIRIE",207,1 
+"62821"," "," ","CARMI",8049,1 
+"62822"," "," ","CHRISTOPHER",2972,1 
+"62823"," "," ","CISNE",1677,1 
+"62824"," "," ","CLAY CITY",1920,1 
+"62825"," "," ","COELLO",216,1 
+"62827"," "," ","CROSSVILLE",1171,1 
+"62828"," "," ","DAHLGREN",19,0.012 
+"62828","34500","Mount Vernon, IL","DAHLGREN",1519,0.988 
+"62829","34500","Mount Vernon, IL","DALE",157,1 
+"62830","34500","Mount Vernon, IL","DIX",1460,1 
+"62831"," "," ","DU BOIS",695,1 
+"62832"," "," ","DU QUOIN",9591,0.991 
+"62832","16060","Carbondale-Marion, IL","DU QUOIN",86,0.009 
+"62833"," "," ","ELLERY",376,1 
+"62835"," "," ","ENFIELD",1284,0.957 
+"62835","34500","Mount Vernon, IL","ENFIELD",58,0.043 
+"62836"," "," ","EWING",763,0.947 
+"62836","34500","Mount Vernon, IL","EWING",43,0.053 
+"62837"," "," ","FAIRFIELD",9072,1 
+"62838"," "," ","FARINA",1473,0.977 
+"62838","16460","Centralia, IL","FARINA",26,0.017 
+"62838","20820","Effingham, IL","FARINA",8,0.005 
+"62839"," "," ","FLORA",6834,1 
+"62842"," "," ","GEFF",840,1 
+"62843"," "," ","GOLDEN GATE",116,1 
+"62844"," "," ","GRAYVILLE",2238,1 
+"62846","34500","Mount Vernon, IL","INA",2724,1 
+"62848"," "," ","IRVINGTON",753,1 
+"62849","16460","Centralia, IL","IUKA",2195,1 
+"62850"," "," ","JOHNSONVILLE",579,1 
+"62851"," "," ","KEENES",351,0.891 
+"62851","34500","Mount Vernon, IL","KEENES",43,0.109 
+"62852"," "," ","KEENSBURG",240,1 
+"62853","16460","Centralia, IL","KELL",945,1 
+"62854","16460","Centralia, IL","KINMUNDY",1858,1 
+"62857"," "," ","LOOGOOTEE",68,1 
+"62858"," "," ","BIBLE GROVE",3211,0.993 
+"62858","20820","Effingham, IL","BIBLE GROVE",24,0.007 
+"62859","34500","Mount Vernon, IL","MC LEANSBORO",5630,1 
+"62860"," "," ","MACEDONIA",390,0.646 
+"62860","34500","Mount Vernon, IL","MACEDONIA",214,0.354 
+"62861"," "," ","MAUNIE",182,1 
+"62862"," "," ","MILL SHOALS",432,1 
+"62863"," "," ","MOUNT CARMEL",10933,1 
+"62864","34500","Mount Vernon, IL","MOUNT VERNON",24929,1 
+"62865"," "," ","MULKEYTOWN",1879,1 
+"62867"," "," ","NEW HAVEN",621,1 
+"62868"," "," ","NOBLE",1941,1 
+"62869"," "," ","NORRIS CITY",2530,0.995 
+"62869","25380","Harrisburg, IL Micropolitan Statistical","NORRIS CITY",12,0.005 
+"62870","16460","Centralia, IL","ODIN",2132,1 
+"62871"," "," ","OMAHA",734,1 
+"62872","34500","Mount Vernon, IL","OPDYKE",1327,1 
+"62874"," "," ","ORIENT",74,1 
+"62875"," "," ","PATOKA",206,0.168 
+"62875","16460","Centralia, IL","PATOKA",1022,0.832 
+"62876"," "," ","RADOM",330,1 
+"62877"," "," ","RICHVIEW",561,0.915 
+"62877","34500","Mount Vernon, IL","RICHVIEW",52,0.085 
+"62878"," "," ","RINARD",463,1 
+"62879"," "," ","SAILOR SPRINGS",120,1 
+"62880"," "," ","SAINT PETER",723,1 
+"62881","16460","Centralia, IL","SALEM",11767,1 
+"62882","16460","Centralia, IL","SANDOVAL",2606,0.987 
+"62882","41180","St. Louis, MO-IL","SANDOVAL",35,0.013 
+"62883"," "," ","SCHELLER",157,0.259 
+"62883","34500","Mount Vernon, IL","SCHELLER",450,0.741 
+"62884"," "," ","SESSER",3083,1 
+"62885"," "," ","SHOBONIER",837,1 
+"62886"," "," ","SIMS",437,1 
+"62887"," "," ","SPRINGERTON",231,0.675 
+"62887","34500","Mount Vernon, IL","SPRINGERTON",111,0.325 
+"62888"," "," ","TAMAROA",2163,1 
+"62889","16460","Centralia, IL","TEXICO",161,0.171 
+"62889","34500","Mount Vernon, IL","TEXICO",782,0.829 
+"62890"," "," ","THOMPSONVILLE",1661,0.661 
+"62890","25380","Harrisburg, IL Micropolitan Statistical","THOMPSONVILLE",118,0.047 
+"62890","32060","Marion-Herrin, IL Micropolitan Statistic","THOMPSONVILLE",569,0.227 
+"62890","34500","Mount Vernon, IL","THOMPSONVILLE",163,0.065 
+"62891"," "," ","VALIER",565,1 
+"62892"," "," ","VERNON",34,0.089 
+"62892","16460","Centralia, IL","VERNON",347,0.911 
+"62893","16460","Centralia, IL","WALNUT HILL",574,0.573 
+"62893","34500","Mount Vernon, IL","WALNUT HILL",427,0.427 
+"62894","34500","Mount Vernon, IL","WALTONVILLE",911,1 
+"62895"," "," ","WAYNE CITY",2018,0.941 
+"62895","34500","Mount Vernon, IL","WAYNE CITY",126,0.059 
+"62896"," "," ","WEST FRANKFORT",11991,0.926 
+"62896","32060","Marion-Herrin, IL Micropolitan Statistic","WEST FRANKFORT",958,0.074 
+"62897"," "," ","WHITTINGTON",335,1 
+"62898","34500","Mount Vernon, IL","WOODLAWN",1898,1 
+"62899"," "," ","XENIA",1370,0.989 
+"62899","16460","Centralia, IL","XENIA",15,0.011 
+"628XX"," "," ","628XX",25,1 
+"62901"," "," ","CARBONDALE",11,0 
+"62901","16060","Carbondale-Marion, IL","CARBONDALE",28011,0.932 
+"62901","32060","Marion-Herrin, IL Micropolitan Statistic","CARBONDALE",2047,0.068 
+"62905"," "," ","ALTO PASS",563,0.869 
+"62905","16060","Carbondale-Marion, IL","ALTO PASS",85,0.131 
+"62906"," "," ","ANNA",7802,1 
+"62907"," "," ","AVA",21,0.01 
+"62907","16060","Carbondale-Marion, IL","AVA",2101,0.99 
+"62908"," "," ","BELKNAP",299,0.584 
+"62908","37140","Paducah, KY-IL","BELKNAP",213,0.416 
+"62910"," "," ","NEW LIBERTY",244,0.09 
+"62910","37140","Paducah, KY-IL","NEW LIBERTY",2481,0.91 
+"62912"," "," ","BUNCOMBE",1056,1 
+"62914","16020","Cape Girardeau, MO-IL","CAIRO",4044,1 
+"62915","32060","Marion-Herrin, IL Micropolitan Statistic","CAMBRIA",189,1 
+"62916"," "," ","CAMPBELL HILL",146,0.192 
+"62916","16060","Carbondale-Marion, IL","CAMPBELL HILL",613,0.808 
+"62917","25380","Harrisburg, IL Micropolitan Statistical","CARRIER MILLS",2550,0.966 
+"62917","32060","Marion-Herrin, IL Micropolitan Statistic","CARRIER MILLS",89,0.034 
+"62918","32060","Marion-Herrin, IL Micropolitan Statistic","CARTERVILLE",8632,1 
+"62919"," "," ","CAVE IN ROCK",1140,1 
+"62920"," "," ","COBDEN",3168,0.997 
+"62920","16060","Carbondale-Marion, IL","COBDEN",9,0.003 
+"62921","32060","Marion-Herrin, IL Micropolitan Statistic","COLP",353,1 
+"62922"," "," ","CREAL SPRINGS",728,0.24 
+"62922","32060","Marion-Herrin, IL Micropolitan Statistic","CREAL SPRINGS",2306,0.76 
+"62923"," "," ","CYPRESS",517,1 
+"62924","16060","Carbondale-Marion, IL","DE SOTO",2268,0.834 
+"62924","32060","Marion-Herrin, IL Micropolitan Statistic","DE SOTO",453,0.166 
+"62926"," "," ","DONGOLA",2356,1 
+"62927","16060","Carbondale-Marion, IL","DOWELL",312,1 
+"62928"," "," ","EDDYVILLE",258,1 
+"62930"," "," ","ELDORADO",25,0.004 
+"62930","25380","Harrisburg, IL Micropolitan Statistical","ELDORADO",6729,0.996 
+"62931"," "," ","ELIZABETHTOWN",1630,1 
+"62932","16060","Carbondale-Marion, IL","ELKVILLE",1715,1 
+"62933","32060","Marion-Herrin, IL Micropolitan Statistic","ENERGY",1005,1 
+"62934"," "," ","EQUALITY",941,0.787 
+"62934","25380","Harrisburg, IL Micropolitan Statistical","EQUALITY",254,0.213 
+"62935","25380","Harrisburg, IL Micropolitan Statistical","GALATIA",2008,0.977 
+"62935","32060","Marion-Herrin, IL Micropolitan Statistic","GALATIA",14,0.007 
+"62935","34500","Mount Vernon, IL","GALATIA",33,0.016 
+"62938"," "," ","BROWNFIELD",3052,0.992 
+"62938","37140","Paducah, KY-IL","BROWNFIELD",25,0.008 
+"62939"," "," ","GOREVILLE",2786,0.962 
+"62939","32060","Marion-Herrin, IL Micropolitan Statistic","GOREVILLE",110,0.038 
+"62940","16060","Carbondale-Marion, IL","GORHAM",432,1 
+"62941"," "," ","GRAND CHAIN",582,0.654 
+"62941","37140","Paducah, KY-IL","GRAND CHAIN",308,0.346 
+"62942","16060","Carbondale-Marion, IL","GRAND TOWER",742,1 
+"62943"," "," ","GRANTSBURG",423,0.773 
+"62943","37140","Paducah, KY-IL","GRANTSBURG",124,0.227 
+"62946"," "," ","HARRISBURG",121,0.009 
+"62946","25380","Harrisburg, IL Micropolitan Statistical","HARRISBURG",13983,0.991 
+"62947"," "," ","HEROD",585,0.98 
+"62947","25380","Harrisburg, IL Micropolitan Statistical","HEROD",12,0.02 
+"62948","32060","Marion-Herrin, IL Micropolitan Statistic","HERRIN",11834,1 
+"62949","32060","Marion-Herrin, IL Micropolitan Statistic","HURST",612,1 
+"62950","16060","Carbondale-Marion, IL","JACOB",232,1 
+"62951","32060","Marion-Herrin, IL Micropolitan Statistic","JOHNSTON CITY",5330,1 
+"62952"," "," ","JONESBORO",3389,0.99 
+"62952","16020","Cape Girardeau, MO-IL","JONESBORO",33,0.01 
+"62953","37140","Paducah, KY-IL","JOPPA",427,1 
+"62954"," "," ","JUNCTION",615,1 
+"62956"," "," ","KARNAK",846,0.855 
+"62956","37140","Paducah, KY-IL","KARNAK",143,0.145 
+"62957"," "," ","MC CLURE",28,0.024 
+"62957","16020","Cape Girardeau, MO-IL","MC CLURE",1146,0.976 
+"62958"," "," ","MAKANDA",152,0.08 
+"62958","16060","Carbondale-Marion, IL","MAKANDA",1527,0.8 
+"62958","32060","Marion-Herrin, IL Micropolitan Statistic","MAKANDA",229,0.12 
+"62959","32060","Marion-Herrin, IL Micropolitan Statistic","MARION",24807,1 
+"62960"," "," ","METROPOLIS",13,0.001 
+"62960","37140","Paducah, KY-IL","METROPOLIS",11440,0.999 
+"62962","16020","Cape Girardeau, MO-IL","MILLER CITY",93,1 
+"62963"," "," ","MOUND CITY",730,1 
+"62964"," "," ","MOUNDS",1740,1 
+"62966","16060","Carbondale-Marion, IL","MURPHYSBORO",20166,1 
+"62967"," "," ","NEW BURNSIDE",353,1 
+"62969","16020","Cape Girardeau, MO-IL","OLIVE BRANCH",879,1 
+"62970"," "," ","OLMSTED",675,1 
+"62972"," "," ","OZARK",408,1 
+"62974","32060","Marion-Herrin, IL Micropolitan Statistic","PITTSBURG",1401,1 
+"62975","16060","Carbondale-Marion, IL","POMONA",240,1 
+"62976"," "," ","PULASKI",564,1 
+"62977","25380","Harrisburg, IL Micropolitan Statistical","RALEIGH",595,1 
+"62979"," "," ","RIDGWAY",1408,1 
+"62982"," "," ","ROSICLARE",1423,1 
+"62983"," "," ","ROYALTON",1453,1 
+"62984"," "," ","SHAWNEETOWN",2147,1 
+"62985"," "," ","ROBBS",953,1 
+"62987"," "," ","STONEFORT",167,0.168 
+"62987","25380","Harrisburg, IL Micropolitan Statistical","STONEFORT",472,0.473 
+"62987","32060","Marion-Herrin, IL Micropolitan Statistic","STONEFORT",358,0.359 
+"62988","16020","Cape Girardeau, MO-IL","TAMMS",2138,1 
+"62990","16020","Cape Girardeau, MO-IL","GALE",1098,1 
+"62991"," "," ","TUNNEL HILL",685,1 
+"62992"," "," ","ULLIN",1121,0.986 
+"62992","16020","Cape Girardeau, MO-IL","ULLIN",16,0.014 
+"62993","16020","Cape Girardeau, MO-IL","UNITY",143,1 
+"62994","16060","Carbondale-Marion, IL","VERGENNES",872,1 
+"62995"," "," ","VIENNA",5953,1 
+"62996"," "," ","VILLA RIDGE",759,1 
+"62997"," "," ","WILLISVILLE",663,1 
+"62998"," "," ","WOLF LAKE",491,1 
+"62999"," "," ","ZEIGLER",1709,1 
+"63005","41180","St. Louis, MO-IL","CHESTERFIELD",16674,1 
+"63010","41180","St. Louis, MO-IL","ARNOLD",36885,1 
+"63011","41180","St. Louis, MO-IL","MANCHESTER",38100,1 
+"63012","41180","St. Louis, MO-IL","BARNHART",9367,1 
+"63013","41180","St. Louis, MO-IL","BEAUFORT",1636,1 
+"63014"," "," ","BERGER",64,0.076 
+"63014","41180","St. Louis, MO-IL","BERGER",776,0.924 
+"63015","41180","St. Louis, MO-IL","CATAWISSA",2201,1 
+"63016","41180","St. Louis, MO-IL","CEDAR HILL",7829,1 
+"63017","41180","St. Louis, MO-IL","TOWN AND COUNTRY",42716,1 
+"63019","41180","St. Louis, MO-IL","CRYSTAL CITY",4095,1 
+"63020","41180","St. Louis, MO-IL","DE SOTO",20238,1 
+"63021","41180","St. Louis, MO-IL","BALLWIN",54560,1 
+"63023","41180","St. Louis, MO-IL","DITTMER",5253,1 
+"63025","41180","St. Louis, MO-IL","CRESCENT",11046,1 
+"63026","41180","St. Louis, MO-IL","FENTON",41383,1 
+"63028"," "," ","FESTUS",553,0.024 
+"63028","41180","St. Louis, MO-IL","FESTUS",22668,0.976 
+"63030","41180","St. Louis, MO-IL","FLETCHER",346,1 
+"63031","41180","St. Louis, MO-IL","FLORISSANT",50013,1 
+"63033","41180","St. Louis, MO-IL","FLORISSANT",45574,1 
+"63034","41180","St. Louis, MO-IL","FLORISSANT",16803,1 
+"63036"," "," ","FRENCH VILLAGE",184,0.191 
+"63036","22100","Farmington, MO","FRENCH VILLAGE",777,0.809 
+"63037","41180","St. Louis, MO-IL","GERALD",3184,1 
+"63038","41180","St. Louis, MO-IL","GLENCOE",5066,1 
+"63039","41180","St. Louis, MO-IL","GRAY SUMMIT",832,1 
+"63040","41180","St. Louis, MO-IL","GROVER",8300,1 
+"63041","41180","St. Louis, MO-IL","GRUBVILLE",310,1 
+"63042","41180","St. Louis, MO-IL","HAZELWOOD",19162,1 
+"63043","41180","St. Louis, MO-IL","MARYLAND HEIGHTS",22401,1 
+"63044","41180","St. Louis, MO-IL","BRIDGETON",14623,1 
+"63048","41180","St. Louis, MO-IL","HERCULANEUM",2407,1 
+"63049","41180","St. Louis, MO-IL","HIGH RIDGE",13931,1 
+"63050","41180","St. Louis, MO-IL","HILLSBORO",13206,1 
+"63051","41180","St. Louis, MO-IL","HOUSE SPRINGS",13230,1 
+"63052","41180","St. Louis, MO-IL","ANTONIA",19374,1 
+"63055","41180","St. Louis, MO-IL","LABADIE",1767,1 
+"63056","41180","St. Louis, MO-IL","LESLIE",2031,1 
+"63060","41180","St. Louis, MO-IL","LONEDELL",2467,1 
+"63061","41180","St. Louis, MO-IL","LUEBBERING",259,1 
+"63068"," "," ","NEW HAVEN",131,0.029 
+"63068","41180","St. Louis, MO-IL","NEW HAVEN",4371,0.971 
+"63069","41180","St. Louis, MO-IL","PACIFIC",15145,1 
+"63070","41180","St. Louis, MO-IL","PEVELY",5807,1 
+"63071","41180","St. Louis, MO-IL","RICHWOODS",1063,1 
+"63072","41180","St. Louis, MO-IL","ROBERTSVILLE",2915,1 
+"63074","41180","St. Louis, MO-IL","SAINT ANN",15399,1 
+"63077","41180","St. Louis, MO-IL","SAINT CLAIR",11071,1 
+"63080"," "," ","SULLIVAN",751,0.059 
+"63080","41180","St. Louis, MO-IL","SULLIVAN",11913,0.941 
+"63084","41180","St. Louis, MO-IL","UNION",13864,1 
+"63087","22100","Farmington, MO","VALLES MINES",845,0.923 
+"63087","41180","St. Louis, MO-IL","VALLES MINES",70,0.077 
+"63088","41180","St. Louis, MO-IL","VALLEY PARK",8366,1 
+"63089","41180","St. Louis, MO-IL","VILLA RIDGE",5690,1 
+"63090","41180","St. Louis, MO-IL","WASHINGTON",20995,1 
+"63091"," "," ","ROSEBUD",1085,0.884 
+"63091","41180","St. Louis, MO-IL","ROSEBUD",143,0.116 
+"63101","41180","St. Louis, MO-IL","SAINT LOUIS",1327,1 
+"63102","41180","St. Louis, MO-IL","SAINT LOUIS",1311,1 
+"63103","41180","St. Louis, MO-IL","SAINT LOUIS",4603,1 
+"63104","41180","St. Louis, MO-IL","SAINT LOUIS",19088,1 
+"63105","41180","St. Louis, MO-IL","CLAYTON",14490,1 
+"63106","41180","St. Louis, MO-IL","SAINT LOUIS",10553,1 
+"63107","41180","St. Louis, MO-IL","SAINT LOUIS",16313,1 
+"63108","41180","St. Louis, MO-IL","SAINT LOUIS",20890,1 
+"63109","41180","St. Louis, MO-IL","SAINT LOUIS",29264,1 
+"63110","41180","St. Louis, MO-IL","SAINT LOUIS",20163,1 
+"63111","41180","St. Louis, MO-IL","SAINT LOUIS",21583,1 
+"63112","41180","St. Louis, MO-IL","SAINT LOUIS",22678,1 
+"63113","41180","St. Louis, MO-IL","SAINT LOUIS",16101,1 
+"63114","41180","St. Louis, MO-IL","OVERLAND",38479,1 
+"63115","41180","St. Louis, MO-IL","SAINT LOUIS",25238,1 
+"63116","41180","St. Louis, MO-IL","SAINT LOUIS",47017,1 
+"63117","41180","St. Louis, MO-IL","RICHMOND HEIGHTS",9771,1 
+"63118","41180","St. Louis, MO-IL","SAINT LOUIS",30222,1 
+"63119","41180","St. Louis, MO-IL","WEBSTER GROVES",34416,1 
+"63120","41180","St. Louis, MO-IL","SAINT LOUIS",13268,1 
+"63121","41180","St. Louis, MO-IL","NORMANDY",29172,1 
+"63122","41180","St. Louis, MO-IL","KIRKWOOD",38653,1 
+"63123","41180","St. Louis, MO-IL","AFFTON",49680,1 
+"63124","41180","St. Louis, MO-IL","LADUE",9819,1 
+"63125","41180","St. Louis, MO-IL","LEMAY",33150,1 
+"63126","41180","St. Louis, MO-IL","SAPPINGTON",15386,1 
+"63127","41180","St. Louis, MO-IL","SAPPINGTON",4852,1 
+"63128","41180","St. Louis, MO-IL","SAPPINGTON",29122,1 
+"63129","41180","St. Louis, MO-IL","SOUTH COUNTY",51191,1 
+"63130","41180","St. Louis, MO-IL","UNIVERSITY CITY",34424,1 
+"63131","41180","St. Louis, MO-IL","DES PERES",16396,1 
+"63132","41180","St. Louis, MO-IL","OLIVETTE",13731,1 
+"63133","41180","St. Louis, MO-IL","SAINT LOUIS",8693,1 
+"63134","41180","St. Louis, MO-IL","BERKELEY",14982,1 
+"63135","41180","St. Louis, MO-IL","FERGUSON",21532,1 
+"63136","41180","St. Louis, MO-IL","JENNINGS",53604,1 
+"63137","41180","St. Louis, MO-IL","NORTH COUNTY",21217,1 
+"63138","41180","St. Louis, MO-IL","NORTH COUNTY",21879,1 
+"63139","41180","St. Louis, MO-IL","SAINT LOUIS",24364,1 
+"63140","41180","St. Louis, MO-IL","BERKELEY",789,1 
+"63141","41180","St. Louis, MO-IL","CREVE COEUR",20025,1 
+"63143","41180","St. Louis, MO-IL","MAPLEWOOD",10978,1 
+"63144","41180","St. Louis, MO-IL","BRENTWOOD",9072,1 
+"63146","41180","St. Louis, MO-IL","WEST COUNTY",29760,1 
+"63147","41180","St. Louis, MO-IL","SAINT LOUIS",13190,1 
+"63301","41180","St. Louis, MO-IL","SAINT CHARLES",46052,1 
+"63303","41180","St. Louis, MO-IL","SAINT CHARLES",41659,1 
+"63304","41180","St. Louis, MO-IL","SAINT CHARLES",38383,1 
+"63330"," "," ","ANNADA",148,1 
+"63332","41180","St. Louis, MO-IL","AUGUSTA",1163,1 
+"63333"," "," ","BELLFLOWER",812,0.972 
+"63333","41180","St. Louis, MO-IL","BELLFLOWER",23,0.028 
+"63334"," "," ","BOWLING GREEN",7956,0.992 
+"63334","41180","St. Louis, MO-IL","BOWLING GREEN",62,0.008 
+"63336"," "," ","CLARKSVILLE",1092,1 
+"63339"," "," ","CURRYVILLE",953,1 
+"63341","41180","St. Louis, MO-IL","DEFIANCE",3154,1 
+"63343"," "," ","ELSBERRY",39,0.009 
+"63343","41180","St. Louis, MO-IL","ELSBERRY",4521,0.991 
+"63344"," "," ","EOLIA",973,0.702 
+"63344","41180","St. Louis, MO-IL","EOLIA",413,0.298 
+"63345","33020","Mexico, MO","FARBER",512,1 
+"63347","41180","St. Louis, MO-IL","FOLEY",2623,1 
+"63348","41180","St. Louis, MO-IL","FORISTELL",4460,1 
+"63349","41180","St. Louis, MO-IL","HAWK POINT",1335,1 
+"63350"," "," ","HIGH HILL",551,1 
+"63351"," "," ","JONESBURG",1177,0.738 
+"63351","41180","St. Louis, MO-IL","JONESBURG",418,0.262 
+"63352","25300","Hannibal, MO","LADDONIA",62,0.049 
+"63352","33020","Mexico, MO","LADDONIA",1208,0.951 
+"63353"," "," ","LOUISIANA",5244,1 
+"63357","41180","St. Louis, MO-IL","LAKE SHERWOOD",4861,1 
+"63359"," "," ","MIDDLETOWN",1358,0.948 
+"63359","33020","Mexico, MO","MIDDLETOWN",40,0.028 
+"63359","41180","St. Louis, MO-IL","MIDDLETOWN",35,0.024 
+"63361"," "," ","MONTGOMERY CITY",3982,0.932 
+"63361","27620","Jefferson City, MO","MONTGOMERY CITY",289,0.068 
+"63362","41180","St. Louis, MO-IL","MOSCOW MILLS",4380,1 
+"63363"," "," ","NEW FLORENCE",1575,0.956 
+"63363","41180","St. Louis, MO-IL","NEW FLORENCE",73,0.044 
+"63366","41180","St. Louis, MO-IL","SAINT PAUL",57519,1 
+"63367","41180","St. Louis, MO-IL","LAKE SAINT LOUIS",8197,1 
+"63369","41180","St. Louis, MO-IL","OLD MONROE",1978,1 
+"63370","41180","St. Louis, MO-IL","OLNEY",41,1 
+"63373","41180","St. Louis, MO-IL","PORTAGE DES SIOU",685,1 
+"63376","41180","St. Louis, MO-IL","SAINT PETERS",68970,1 
+"63377","41180","St. Louis, MO-IL","SILEX",2164,1 
+"63379","41180","St. Louis, MO-IL","TROY",15290,1 
+"63381"," "," ","TRUXTON",105,0.213 
+"63381","41180","St. Louis, MO-IL","TRUXTON",389,0.787 
+"63382"," "," ","VANDALIA",102,0.021 
+"63382","25300","Hannibal, MO","VANDALIA",298,0.06 
+"63382","33020","Mexico, MO","VANDALIA",4555,0.919 
+"63383","41180","St. Louis, MO-IL","WARRENTON",12188,1 
+"63384"," "," ","WELLSVILLE",1962,0.927 
+"63384","27620","Jefferson City, MO","WELLSVILLE",21,0.01 
+"63384","33020","Mexico, MO","WELLSVILLE",134,0.063 
+"63385","41180","St. Louis, MO-IL","WENTZVILLE",13931,1 
+"63386","41180","St. Louis, MO-IL","WEST ALTON",598,1 
+"63387","41180","St. Louis, MO-IL","WHITESIDE",95,1 
+"63388","27620","Jefferson City, MO","WILLIAMSBURG",636,1 
+"63389","41180","St. Louis, MO-IL","WINFIELD",4580,1 
+"63390","41180","St. Louis, MO-IL","WRIGHT CITY",6960,1 
+"63401","25300","Hannibal, MO","HANNIBAL",21891,1 
+"63430","22800","Fort Madison-Keokuk, IA-IL-MO","ALEXANDRIA",662,1 
+"63431"," "," ","ANABEL",385,1 
+"63432"," "," ","ARBELA",581,0.847 
+"63432","22800","Fort Madison-Keokuk, IA-IL-MO","ARBELA",105,0.153 
+"63433"," "," ","ASHBURN",56,1 
+"63434"," "," ","BETHEL",500,0.994 
+"63434","39500","Quincy, IL-MO","BETHEL",3,0.006 
+"63435","22800","Fort Madison-Keokuk, IA-IL-MO","CANTON",370,0.087 
+"63435","39500","Quincy, IL-MO","CANTON",3891,0.913 
+"63436","25300","Hannibal, MO","CENTER",1309,1 
+"63437"," "," ","CLARENCE",1632,1 
+"63438","25300","Hannibal, MO","DURHAM",107,0.207 
+"63438","39500","Quincy, IL-MO","DURHAM",411,0.793 
+"63439"," "," ","EMDEN",153,0.769 
+"63439","25300","Hannibal, MO","EMDEN",46,0.231 
+"63440"," "," ","EWING",18,0.013 
+"63440","25300","Hannibal, MO","EWING",175,0.122 
+"63440","39500","Quincy, IL-MO","EWING",1241,0.865 
+"63441"," "," ","FRANKFORD",1058,0.948 
+"63441","25300","Hannibal, MO","FRANKFORD",58,0.052 
+"63443"," "," ","HUNNEWELL",396,0.882 
+"63443","25300","Hannibal, MO","HUNNEWELL",53,0.118 
+"63445","22800","Fort Madison-Keokuk, IA-IL-MO","KAHOKA",4067,1 
+"63446"," "," ","KNOX CITY",618,0.995 
+"63446","39500","Quincy, IL-MO","KNOX CITY",3,0.005 
+"63447","39500","Quincy, IL-MO","LA BELLE",1117,1 
+"63448","39500","Quincy, IL-MO","LA GRANGE",1679,1 
+"63450"," "," ","LENTNER",178,1 
+"63451"," "," ","LEONARD",297,1 
+"63452","39500","Quincy, IL-MO","LEWISTOWN",1197,1 
+"63453","22800","Fort Madison-Keokuk, IA-IL-MO","LURAY",496,1 
+"63454","25300","Hannibal, MO","MAYWOOD",497,0.572 
+"63454","39500","Quincy, IL-MO","MAYWOOD",372,0.428 
+"63456"," "," ","MONROE CITY",2537,0.603 
+"63456","25300","Hannibal, MO","MONROE CITY",1671,0.397 
+"63457","39500","Quincy, IL-MO","MONTICELLO",289,1 
+"63458"," "," ","NEWARK",229,1 
+"63459"," "," ","NEW LONDON",79,0.021 
+"63459","25300","Hannibal, MO","NEW LONDON",3723,0.979 
+"63460"," "," ","NOVELTY",344,1 
+"63461","25300","Hannibal, MO","PALMYRA",5571,1 
+"63462"," "," ","PERRY",229,0.159 
+"63462","25300","Hannibal, MO","PERRY",1214,0.841 
+"63463"," "," ","PHILADELPHIA",4,0.006 
+"63463","25300","Hannibal, MO","PHILADELPHIA",639,0.994 
+"63464"," "," ","PLEVNA",43,1 
+"63465","22800","Fort Madison-Keokuk, IA-IL-MO","REVERE",508,1 
+"63468"," "," ","SHELBINA",2949,1 
+"63469"," "," ","SHELBYVILLE",1235,1 
+"63471","25300","Hannibal, MO","TAYLOR",601,0.908 
+"63471","39500","Quincy, IL-MO","TAYLOR",61,0.092 
+"63472","22800","Fort Madison-Keokuk, IA-IL-MO","WAYLAND",511,1 
+"63473","22800","Fort Madison-Keokuk, IA-IL-MO","WILLIAMSTOWN",67,0.238 
+"63473","39500","Quincy, IL-MO","WILLIAMSTOWN",215,0.762 
+"63474"," "," ","WYACONDA",12,0.019 
+"63474","22800","Fort Madison-Keokuk, IA-IL-MO","WYACONDA",598,0.957 
+"63474","39500","Quincy, IL-MO","WYACONDA",15,0.024 
+"63501","28860","Kirksville, MO","KIRKSVILLE",21110,1 
+"63530"," "," ","ATLANTA",987,1 
+"63531"," "," ","BARING",563,1 
+"63532"," "," ","BEVIER",1367,1 
+"63533"," "," ","BRASHEAR",11,0.013 
+"63533","28860","Kirksville, MO","BRASHEAR",819,0.987 
+"63534"," "," ","CALLAO",816,0.971 
+"63534","33620","Moberly, MO","CALLAO",24,0.029 
+"63535"," "," ","COATSVILLE",7,0.073 
+"63535","28860","Kirksville, MO","COATSVILLE",89,0.927 
+"63536"," "," ","DOWNING",150,0.176 
+"63536","28860","Kirksville, MO","DOWNING",701,0.824 
+"63537"," "," ","EDINA",1910,1 
+"63538"," "," ","ELMER",293,1 
+"63539"," "," ","ETHEL",289,1 
+"63540","28860","Kirksville, MO","GIBBS",160,1 
+"63541","28860","Kirksville, MO","GLENWOOD",420,1 
+"63543"," "," ","GORIN",412,1 
+"63544"," "," ","GREEN CASTLE",501,0.575 
+"63544","28860","Kirksville, MO","GREEN CASTLE",371,0.425 
+"63545"," "," ","GREEN CITY",1175,1 
+"63546"," "," ","GREENTOP",7,0.005 
+"63546","28860","Kirksville, MO","GREENTOP",1409,0.995 
+"63547"," "," ","HURDLAND",574,0.946 
+"63547","28860","Kirksville, MO","HURDLAND",33,0.054 
+"63548","28860","Kirksville, MO","LANCASTER",1255,1 
+"63549"," "," ","LA PLATA",2353,0.91 
+"63549","28860","Kirksville, MO","LA PLATA",232,0.09 
+"63551"," "," ","LIVONIA",445,1 
+"63552"," "," ","MACON",7868,1 
+"63555"," "," ","MEMPHIS",3309,1 
+"63556"," "," ","MILAN",3933,1 
+"63557"," "," ","NEW BOSTON",278,1 
+"63558"," "," ","NEW CAMBRIA",811,1 
+"63559"," "," ","NOVINGER",66,0.045 
+"63559","28860","Kirksville, MO","NOVINGER",1386,0.955 
+"63560"," "," ","POLLOCK",278,1 
+"63561","28860","Kirksville, MO","QUEEN CITY",1162,1 
+"63563"," "," ","RUTLEDGE",551,1 
+"63565"," "," ","UNIONVILLE",3948,1 
+"63566"," "," ","WINIGAN",68,1 
+"63567"," "," ","WORTHINGTON",145,1 
+"63601","22100","Farmington, MO","DESLOGE",15604,1 
+"63620"," "," ","ANNAPOLIS",1405,1 
+"63621"," "," ","ARCADIA",1222,1 
+"63622","41180","St. Louis, MO-IL","BELGRADE",904,1 
+"63623"," "," ","BELLEVIEW",823,1 
+"63624"," "," ","DESLOGE",162,0.045 
+"63624","22100","Farmington, MO","DESLOGE",2959,0.826 
+"63624","41180","St. Louis, MO-IL","DESLOGE",462,0.129 
+"63625"," "," ","BLACK",538,1 
+"63626","22100","Farmington, MO","BLACKWELL",89,0.627 
+"63626","41180","St. Louis, MO-IL","BLACKWELL",53,0.373 
+"63627"," "," ","BLOOMSDALE",2549,0.921 
+"63627","41180","St. Louis, MO-IL","BLOOMSDALE",220,0.079 
+"63628"," "," ","BONNE TERRE",137,0.012 
+"63628","22100","Farmington, MO","BONNE TERRE",11349,0.973 
+"63628","41180","St. Louis, MO-IL","BONNE TERRE",181,0.016 
+"63629"," "," ","BUNKER",1416,1 
+"63630","41180","St. Louis, MO-IL","CADET",4224,1 
+"63631"," "," ","CALEDONIA",184,0.193 
+"63631","41180","St. Louis, MO-IL","CALEDONIA",769,0.807 
+"63633"," "," ","CENTERVILLE",712,1 
+"63636"," "," ","DES ARC",684,1 
+"63637","22100","Farmington, MO","DOE RUN",807,1 
+"63638"," "," ","ELLINGTON",2910,1 
+"63640"," "," ","FARMINGTON",1164,0.052 
+"63640","22100","Farmington, MO","FARMINGTON",21420,0.948 
+"63645"," "," ","MILLCREEK",10470,0.977 
+"63645","22100","Farmington, MO","MILLCREEK",243,0.023 
+"63648","22100","Farmington, MO","IRONDALE",102,0.075 
+"63648","41180","St. Louis, MO-IL","IRONDALE",1253,0.925 
+"63650"," "," ","IRON MOUNTAIN",4271,0.914 
+"63650","22100","Farmington, MO","IRON MOUNTAIN",401,0.086 
+"63653","22100","Farmington, MO","LEADWOOD",1045,1 
+"63654"," "," ","LESTERVILLE",542,1 
+"63655"," "," ","MARQUAND",1193,0.748 
+"63655","16020","Cape Girardeau, MO-IL","MARQUAND",401,0.252 
+"63656"," "," ","MIDDLE BROOK",470,1 
+"63660","41180","St. Louis, MO-IL","MINERAL POINT",4155,1 
+"63662","16020","Cape Girardeau, MO-IL","PATTON",1162,1 
+"63663"," "," ","PILOT KNOB",585,1 
+"63664","41180","St. Louis, MO-IL","POTOSI",8525,1 
+"63665"," "," ","REDFORD",306,1 
+"63670"," "," ","LAKE FOREST ESTA",11654,1 
+"63673"," "," ","SAINT MARY",2042,1 
+"63674","41180","St. Louis, MO-IL","TIFF",146,1 
+"63675"," "," ","VULCAN",157,1 
+"63701","16020","Cape Girardeau, MO-IL","CAPE GIRARDEAU",32331,1 
+"63703","16020","Cape Girardeau, MO-IL","63703",9561,1 
+"63730"," "," ","ADVANCE",2522,0.758 
+"63730","16020","Cape Girardeau, MO-IL","ADVANCE",806,0.242 
+"63732"," "," ","NEW WELLS",391,0.617 
+"63732","16020","Cape Girardeau, MO-IL","NEW WELLS",243,0.383 
+"63735"," "," ","BELL CITY",844,0.94 
+"63735","43460","Sikeston, MO","BELL CITY",54,0.06 
+"63736","43460","Sikeston, MO","BENTON",3211,1 
+"63738"," "," ","BROWNWOOD",74,1 
+"63739","16020","Cape Girardeau, MO-IL","BURFORDVILLE",621,1 
+"63740","16020","Cape Girardeau, MO-IL","CHAFFEE",1087,0.199 
+"63740","43460","Sikeston, MO","CHAFFEE",4379,0.801 
+"63742","43460","Sikeston, MO","COMMERCE",110,1 
+"63743","16020","Cape Girardeau, MO-IL","DAISY",46,1 
+"63747","16020","Cape Girardeau, MO-IL","FRIEDHEIM",388,1 
+"63748"," "," ","FROHNA",1127,1 
+"63750","16020","Cape Girardeau, MO-IL","GIPSY",131,1 
+"63751","16020","Cape Girardeau, MO-IL","GLENALLEN",1029,1 
+"63753","16020","Cape Girardeau, MO-IL","GRASSY",259,1 
+"63755","16020","Cape Girardeau, MO-IL","JACKSON",20710,1 
+"63758","43460","Sikeston, MO","KELSO",208,1 
+"63760","16020","Cape Girardeau, MO-IL","LEOPOLD",646,1 
+"63763"," "," ","MC GEE",138,1 
+"63764","16020","Cape Girardeau, MO-IL","SCOPUS",5784,1 
+"63766","16020","Cape Girardeau, MO-IL","MILLERSVILLE",944,1 
+"63767","43460","Sikeston, MO","MORLEY",787,1 
+"63769","16020","Cape Girardeau, MO-IL","OAK RIDGE",1300,1 
+"63770"," "," ","OLD APPLETON",7,0.061 
+"63770","16020","Cape Girardeau, MO-IL","OLD APPLETON",108,0.939 
+"63771"," "," ","ORAN",239,0.084 
+"63771","16020","Cape Girardeau, MO-IL","ORAN",10,0.004 
+"63771","43460","Sikeston, MO","ORAN",2603,0.913 
+"63774","43460","Sikeston, MO","PERKINS",170,1 
+"63775"," "," ","PERRYVILLE",15851,0.991 
+"63775","16020","Cape Girardeau, MO-IL","PERRYVILLE",148,0.009 
+"63780","16020","Cape Girardeau, MO-IL","SCOTT CITY",2,0 
+"63780","43460","Sikeston, MO","SCOTT CITY",6522,1 
+"63781","16020","Cape Girardeau, MO-IL","SEDGEWICKVILLE",1072,1 
+"63782","16020","Cape Girardeau, MO-IL","STURDIVANT",375,1 
+"63783"," "," ","UNIONTOWN",161,1 
+"63784","43460","Sikeston, MO","VANDUSER",272,1 
+"63785","16020","Cape Girardeau, MO-IL","WHITEWATER",871,1 
+"63787"," "," ","ZALMA",61,0.089 
+"63787","16020","Cape Girardeau, MO-IL","ZALMA",623,0.911 
+"63801"," "," ","SIKESTON",2236,0.094 
+"63801","43460","Sikeston, MO","SIKESTON",21543,0.906 
+"63820"," "," ","ANNISTON",301,1 
+"63821","28380","Kennett, MO","ARBYRD",999,1 
+"63822"," "," ","BERNIE",2758,0.984 
+"63822","28380","Kennett, MO","BERNIE",45,0.016 
+"63823"," "," ","BERTRAND",1131,0.978 
+"63823","43460","Sikeston, MO","BERTRAND",25,0.022 
+"63824","43460","Sikeston, MO","BLODGETT",120,1 
+"63825"," "," ","BLOOMFIELD",4429,1 
+"63826"," "," ","BRAGGADOCIO",178,1 
+"63827"," "," ","BRAGG CITY",1151,1 
+"63828"," "," ","CANALOU",352,1 
+"63829","28380","Kennett, MO","CARDWELL",1257,1 
+"63830"," "," ","CARUTHERSVILLE",7680,1 
+"63833"," "," ","CATRON",281,1 
+"63834"," "," ","CHARLESTON",5633,0.931 
+"63834","43460","Sikeston, MO","CHARLESTON",418,0.069 
+"63837"," "," ","CLARKTON",10,0.006 
+"63837","28380","Kennett, MO","CLARKTON",1700,0.994 
+"63839"," "," ","COOTER",526,1 
+"63841"," "," ","DEXTER",12887,1 
+"63845"," "," ","EAST PRAIRIE",5853,1 
+"63846"," "," ","ESSEX",1548,1 
+"63847","28380","Kennett, MO","GIBSON",126,1 
+"63848"," "," ","GIDEON",1533,1 
+"63849"," "," ","GOBLER",83,0.366 
+"63849","28380","Kennett, MO","GOBLER",144,0.634 
+"63850"," "," ","GRAYRIDGE",54,1 
+"63851"," "," ","HAYTI HEIGHTS",4622,1 
+"63852"," "," ","HOLCOMB",29,0.019 
+"63852","28380","Kennett, MO","HOLCOMB",1506,0.981 
+"63853"," "," ","HOLLAND",277,1 
+"63855","28380","Kennett, MO","HORNERSVILLE",1235,1 
+"63857"," "," ","KENNETT",21,0.002 
+"63857","28380","Kennett, MO","KENNETT",13129,0.998 
+"63860"," "," ","KEWANEE",153,1 
+"63862"," "," ","LILBOURN",1771,1 
+"63863"," "," ","MALDEN",167,0.024 
+"63863","28380","Kennett, MO","MALDEN",6788,0.976 
+"63866"," "," ","MARSTON",658,1 
+"63867"," "," ","MATTHEWS",1108,1 
+"63868"," "," ","MOREHOUSE",1041,1 
+"63869"," "," ","NEW MADRID",4175,1 
+"63870"," "," ","PARMA",1347,1 
+"63873"," "," ","PORTAGEVILLE",5175,1 
+"63874"," "," ","RISCO",403,1 
+"63876","28380","Kennett, MO","SENATH",2302,1 
+"63877"," "," ","STEELE",3979,0.973 
+"63877","28380","Kennett, MO","STEELE",109,0.027 
+"63878"," "," ","TALLAPOOSA",229,1 
+"63879"," "," ","HOMESTOWN",910,1 
+"63880","28380","Kennett, MO","WHITEOAK",39,1 
+"63882"," "," ","WYATT",530,1 
+"63901"," "," ","POPLAR BLUFF",19,0.001 
+"63901","38740","Poplar Bluff, MO","POPLAR BLUFF",32579,0.999 
+"63932","38740","Poplar Bluff, MO","BROSELEY",1362,1 
+"63933","28380","Kennett, MO","CAMPBELL",3776,1 
+"63934"," "," ","CLUBB",93,1 
+"63935"," "," ","POYNOR",9661,1 
+"63936"," "," ","DUDLEY",949,1 
+"63937"," "," ","ELLSINORE",2323,0.877 
+"63937","38740","Poplar Bluff, MO","ELLSINORE",327,0.123 
+"63938","38740","Poplar Bluff, MO","FAGUS",31,1 
+"63939"," "," ","FAIRDEALING",1381,1 
+"63940","38740","Poplar Bluff, MO","FISK",1377,1 
+"63941"," "," ","FREMONT",536,1 
+"63942"," "," ","GATEWOOD",672,1 
+"63943"," "," ","GRANDIN",871,1 
+"63944"," "," ","GREENVILLE",1252,1 
+"63945","38740","Poplar Bluff, MO","HARVIELL",1171,1 
+"63947"," "," ","HIRAM",262,1 
+"63951"," "," ","LOWNDES",394,1 
+"63952"," "," ","MILL SPRING",563,1 
+"63953"," "," ","NAYLOR",1544,0.937 
+"63953","38740","Poplar Bluff, MO","NAYLOR",104,0.063 
+"63954"," "," ","NEELYVILLE",80,0.06 
+"63954","38740","Poplar Bluff, MO","NEELYVILLE",1247,0.94 
+"63955"," "," ","OXLY",263,1 
+"63956"," "," ","PATTERSON",861,1 
+"63957"," "," ","PIEDMONT",5520,1 
+"63960"," "," ","PUXICO",3092,0.98 
+"63960","16020","Cape Girardeau, MO-IL","PUXICO",64,0.02 
+"63961","38740","Poplar Bluff, MO","QULIN",1647,1 
+"63963"," "," ","SHOOK",125,1 
+"63964"," "," ","SILVA",1098,1 
+"63965"," "," ","VAN BUREN",2584,1 
+"63966"," "," ","WAPPAPELLO",1899,0.779 
+"63966","38740","Poplar Bluff, MO","WAPPAPELLO",538,0.221 
+"63967"," "," ","WILLIAMSVILLE",1184,0.71 
+"63967","38740","Poplar Bluff, MO","WILLIAMSVILLE",484,0.29 
+"64001","28140","Kansas City, MO-KS","ALMA",652,1 
+"64011","28140","Kansas City, MO-KS","BATES CITY",3214,0.891 
+"64011","47660","Warrensburg, MO","BATES CITY",392,0.109 
+"64012","28140","Kansas City, MO-KS","BELTON",25498,1 
+"64014","28140","Kansas City, MO-KS","BLUE SPRINGS",22841,1 
+"64015","28140","Kansas City, MO-KS","LAKE TAPAWINGO",28878,1 
+"64016","28140","Kansas City, MO-KS","BUCKNER",4077,1 
+"64017","28140","Kansas City, MO-KS","CAMDEN",487,1 
+"64018","28140","Kansas City, MO-KS","CAMDEN POINT",913,1 
+"64019","47660","Warrensburg, MO","CENTERVIEW",2220,1 
+"64020","28140","Kansas City, MO-KS","CONCORDIA",3293,0.931 
+"64020","32180","Marshall, MO","CONCORDIA",16,0.005 
+"64020","47660","Warrensburg, MO","CONCORDIA",227,0.064 
+"64021","28140","Kansas City, MO-KS","CORDER",785,1 
+"64022","28140","Kansas City, MO-KS","DOVER",145,1 
+"64024","28140","Kansas City, MO-KS","EXCELSIOR SPRING",16144,1 
+"64029","28140","Kansas City, MO-KS","GRAIN VALLEY",8305,1 
+"64030","28140","Kansas City, MO-KS","GRANDVIEW",24874,1 
+"64034","28140","Kansas City, MO-KS","LAKE WINNEBAGO",5928,1 
+"64035"," "," ","HARDIN",30,0.028 
+"64035","28140","Kansas City, MO-KS","HARDIN",1036,0.972 
+"64036","28140","Kansas City, MO-KS","HENRIETTA",474,1 
+"64037","28140","Kansas City, MO-KS","HIGGINSVILLE",6087,0.998 
+"64037","47660","Warrensburg, MO","HIGGINSVILLE",11,0.002 
+"64040","47660","Warrensburg, MO","HOLDEN",6050,1 
+"64048","28140","Kansas City, MO-KS","HOLT",4006,1 
+"64050","28140","Kansas City, MO-KS","INDEPENDENCE",23436,1 
+"64052","28140","Kansas City, MO-KS","INDEPENDENCE",21017,1 
+"64053","28140","Kansas City, MO-KS","INDEPENDENCE",5762,1 
+"64054","28140","Kansas City, MO-KS","SUGAR CREEK",4153,1 
+"64055","28140","Kansas City, MO-KS","INDEPENDENCE",34006,1 
+"64056","28140","Kansas City, MO-KS","INDEPENDENCE",15357,1 
+"64057","28140","Kansas City, MO-KS","INDEPENDENCE",11050,1 
+"64058","28140","Kansas City, MO-KS","INDEPENDENCE",6018,1 
+"64060","28140","Kansas City, MO-KS","KEARNEY",9645,1 
+"64061","28140","Kansas City, MO-KS","KINGSVILLE",129,0.048 
+"64061","47660","Warrensburg, MO","KINGSVILLE",2536,0.952 
+"64062","28140","Kansas City, MO-KS","LAWSON",5788,1 
+"64063","28140","Kansas City, MO-KS","LAKE LOTAWANA",20186,1 
+"64064","28140","Kansas City, MO-KS","LEES SUMMIT",11265,1 
+"64066","28140","Kansas City, MO-KS","LEVASY",87,1 
+"64067","28140","Kansas City, MO-KS","LEXINGTON",5780,1 
+"64068","28140","Kansas City, MO-KS","PLEASANT VALLEY",33068,1 
+"64070","28140","Kansas City, MO-KS","LONE JACK",2224,0.923 
+"64070","47660","Warrensburg, MO","LONE JACK",186,0.077 
+"64071","28140","Kansas City, MO-KS","MAYVIEW",745,1 
+"64072","28140","Kansas City, MO-KS","MISSOURI CITY",133,1 
+"64074","28140","Kansas City, MO-KS","NAPOLEON",569,1 
+"64075","28140","Kansas City, MO-KS","OAK GROVE",9108,1 
+"64076","28140","Kansas City, MO-KS","ODESSA",8468,0.959 
+"64076","47660","Warrensburg, MO","ODESSA",363,0.041 
+"64077","28140","Kansas City, MO-KS","ORRICK",1978,1 
+"64078","28140","Kansas City, MO-KS","PECULIAR",6929,1 
+"64079","28140","Kansas City, MO-KS","PLATTE CITY",8284,1 
+"64080","28140","Kansas City, MO-KS","PLEASANT HILL",9896,1 
+"64081","28140","Kansas City, MO-KS","LEES SUMMIT",18042,1 
+"64082","28140","Kansas City, MO-KS","LEES SUMMIT",5651,1 
+"64083","28140","Kansas City, MO-KS","RAYMORE",12785,1 
+"64084","28140","Kansas City, MO-KS","RAYVILLE",1447,1 
+"64085","28140","Kansas City, MO-KS","RICHMOND",8840,1 
+"64086","28140","Kansas City, MO-KS","LEES SUMMIT",19727,1 
+"64088","28140","Kansas City, MO-KS","SIBLEY",1443,1 
+"64089","28140","Kansas City, MO-KS","SMITHVILLE",7928,1 
+"64090","28140","Kansas City, MO-KS","STRASBURG",112,1 
+"64093","47660","Warrensburg, MO","WARRENSBURG",24252,1 
+"64096","28140","Kansas City, MO-KS","WAVERLY",1132,0.98 
+"64096","32180","Marshall, MO","WAVERLY",23,0.02 
+"64097","28140","Kansas City, MO-KS","WELLINGTON",1515,1 
+"64098","28140","Kansas City, MO-KS","WESTON",2943,1 
+"64101","28140","Kansas City, MO-KS","KANSAS CITY",335,1 
+"64105","28140","Kansas City, MO-KS","KANSAS CITY",2719,1 
+"64106","28140","Kansas City, MO-KS","KANSAS CITY",6142,1 
+"64108","28140","Kansas City, MO-KS","KANSAS CITY",6785,1 
+"64109","28140","Kansas City, MO-KS","KANSAS CITY",12252,1 
+"64110","28140","Kansas City, MO-KS","KANSAS CITY",17842,1 
+"64111","28140","Kansas City, MO-KS","KANSAS CITY",17745,1 
+"64112","28140","Kansas City, MO-KS","KANSAS CITY",8567,1 
+"64113","28140","Kansas City, MO-KS","KANSAS CITY",11371,1 
+"64114","28140","Kansas City, MO-KS","KANSAS CITY",23639,1 
+"64116","28140","Kansas City, MO-KS","NORTH KANSAS CIT",15846,1 
+"64117","28140","Kansas City, MO-KS","RANDOLPH",13445,1 
+"64118","28140","Kansas City, MO-KS","GLADSTONE",38908,1 
+"64119","28140","Kansas City, MO-KS","KANSAS CITY",25702,1 
+"64120","28140","Kansas City, MO-KS","KANSAS CITY",481,1 
+"64123","28140","Kansas City, MO-KS","KANSAS CITY",10757,1 
+"64124","28140","Kansas City, MO-KS","KANSAS CITY",13343,1 
+"64125","28140","Kansas City, MO-KS","KANSAS CITY",2370,1 
+"64126","28140","Kansas City, MO-KS","KANSAS CITY",6800,1 
+"64127","28140","Kansas City, MO-KS","KANSAS CITY",20831,1 
+"64128","28140","Kansas City, MO-KS","KANSAS CITY",14774,1 
+"64129","28140","Kansas City, MO-KS","KANSAS CITY",10293,1 
+"64130","28140","Kansas City, MO-KS","KANSAS CITY",25743,1 
+"64131","28140","Kansas City, MO-KS","KANSAS CITY",23193,1 
+"64132","28140","Kansas City, MO-KS","KANSAS CITY",15956,1 
+"64133","28140","Kansas City, MO-KS","RAYTOWN",34025,1 
+"64134","28140","Kansas City, MO-KS","KANSAS CITY",23471,1 
+"64136","28140","Kansas City, MO-KS","KANSAS CITY",1088,1 
+"64137","28140","Kansas City, MO-KS","KANSAS CITY",10061,1 
+"64138","28140","Kansas City, MO-KS","RAYTOWN",24940,1 
+"64139","28140","Kansas City, MO-KS","KANSAS CITY",1113,1 
+"64145","28140","Kansas City, MO-KS","KANSAS CITY",4792,1 
+"64146","28140","Kansas City, MO-KS","KANSAS CITY",1327,1 
+"64147","28140","Kansas City, MO-KS","MARTIN CITY",743,1 
+"64149","28140","Kansas City, MO-KS","KANSAS CITY",384,1 
+"64150","28140","Kansas City, MO-KS","KANSAS CITY",2891,1 
+"64151","28140","Kansas City, MO-KS","LAKE WAUKOMIS",22563,1 
+"64152","28140","Kansas City, MO-KS","PARKVILLE",23371,1 
+"64153","28140","Kansas City, MO-KS","KANSAS CITY",3574,1 
+"64154","28140","Kansas City, MO-KS","KANSAS CITY",4636,1 
+"64155","28140","Kansas City, MO-KS","KANSAS CITY",16884,1 
+"64156","28140","Kansas City, MO-KS","KANSAS CITY",1054,1 
+"64157","28140","Kansas City, MO-KS","KANSAS CITY",3199,1 
+"64158","28140","Kansas City, MO-KS","KANSAS CITY",2405,1 
+"64161","28140","Kansas City, MO-KS","RANDOLPH",427,1 
+"64163","28140","Kansas City, MO-KS","FERRELVIEW",725,1 
+"64164","28140","Kansas City, MO-KS","KANSAS CITY",239,1 
+"64165","28140","Kansas City, MO-KS","KANSAS CITY",61,1 
+"64166","28140","Kansas City, MO-KS","KANSAS CITY",248,1 
+"64167","28140","Kansas City, MO-KS","KANSAS CITY",409,1 
+"64192","28140","Kansas City, MO-KS","KANSAS CITY",19,1 
+"64401","41140","St. Joseph, MO-KS","AGENCY",1426,1 
+"64402"," "," ","ALBANY",2564,1 
+"64421","41140","St. Joseph, MO-KS","AMAZONIA",869,1 
+"64422","41140","St. Joseph, MO-KS","AMITY",420,1 
+"64423","32340","Maryville, MO","BARNARD",776,0.986 
+"64423","41140","St. Joseph, MO-KS","BARNARD",11,0.014 
+"64424"," "," ","BETHANY",4165,1 
+"64426"," "," ","BLYTHEDALE",419,1 
+"64427","32340","Maryville, MO","BOLCKOW",61,0.101 
+"64427","41140","St. Joseph, MO-KS","BOLCKOW",543,0.899 
+"64428"," "," ","BURLINGTON JUNCT",18,0.017 
+"64428","32340","Maryville, MO","BURLINGTON JUNCT",1041,0.983 
+"64429"," "," ","CAMERON",77,0.007 
+"64429","28140","Kansas City, MO-KS","CAMERON",6079,0.552 
+"64429","41140","St. Joseph, MO-KS","CAMERON",4860,0.441 
+"64430","41140","St. Joseph, MO-KS","CLARKSDALE",800,1 
+"64431","32340","Maryville, MO","CLEARMONT",392,1 
+"64432","32340","Maryville, MO","CLYDE",123,1 
+"64433","32340","Maryville, MO","CONCEPTION",190,1 
+"64434","32340","Maryville, MO","CONCEPTION JUNCT",489,1 
+"64436","41140","St. Joseph, MO-KS","COSBY",811,1 
+"64437"," "," ","BIGELOW",975,1 
+"64438"," "," ","DARLINGTON",283,1 
+"64439","28140","Kansas City, MO-KS","DEARBORN",1078,0.723 
+"64439","41140","St. Joseph, MO-KS","DEARBORN",412,0.277 
+"64440","28140","Kansas City, MO-KS","DE KALB",13,0.017 
+"64440","41140","St. Joseph, MO-KS","DE KALB",731,0.983 
+"64441"," "," ","DENVER",171,1 
+"64442"," "," ","EAGLEVILLE",799,1 
+"64443","41140","St. Joseph, MO-KS","EASTON",1075,1 
+"64444","28140","Kansas City, MO-KS","EDGERTON",1386,0.967 
+"64444","41140","St. Joseph, MO-KS","EDGERTON",47,0.033 
+"64445","32340","Maryville, MO","ELMO",365,1 
+"64446"," "," ","FAIRFAX",1171,1 
+"64448","41140","St. Joseph, MO-KS","FAUCETT",1133,1 
+"64449","41140","St. Joseph, MO-KS","FILLMORE",461,1 
+"64451"," "," ","FOREST CITY",515,1 
+"64453"," "," ","GENTRY",246,1 
+"64454","28140","Kansas City, MO-KS","GOWER",1951,0.808 
+"64454","41140","St. Joseph, MO-KS","GOWER",465,0.192 
+"64455","32340","Maryville, MO","GRAHAM",432,0.941 
+"64455","41140","St. Joseph, MO-KS","GRAHAM",27,0.059 
+"64456"," "," ","GRANT CITY",1642,1 
+"64457","32340","Maryville, MO","GUILFORD",303,0.938 
+"64457","41140","St. Joseph, MO-KS","GUILFORD",20,0.062 
+"64458"," "," ","HATFIELD",229,1 
+"64459","41140","St. Joseph, MO-KS","HELENA",553,1 
+"64461","32340","Maryville, MO","HOPKINS",1013,1 
+"64463"," "," ","KING CITY",1437,0.882 
+"64463","41140","St. Joseph, MO-KS","KING CITY",193,0.118 
+"64465","28140","Kansas City, MO-KS","LATHROP",4002,1 
+"64466"," "," ","MAITLAND",560,1 
+"64467"," "," ","MARTINSVILLE",179,1 
+"64468","32340","Maryville, MO","MARYVILLE",14107,1 
+"64469","41140","St. Joseph, MO-KS","MAYSVILLE",2177,1 
+"64470"," "," ","MOUND CITY",1650,1 
+"64471"," "," ","NEW HAMPTON",559,1 
+"64473"," "," ","OREGON",1584,1 
+"64474","28140","Kansas City, MO-KS","OSBORN",218,0.243 
+"64474","41140","St. Joseph, MO-KS","OSBORN",679,0.757 
+"64475"," "," ","PARNELL",107,0.219 
+"64475","32340","Maryville, MO","PARNELL",382,0.781 
+"64476","32340","Maryville, MO","PICKERING",415,1 
+"64477","28140","Kansas City, MO-KS","PLATTSBURG",3306,1 
+"64479"," "," ","RAVENWOOD",39,0.044 
+"64479","32340","Maryville, MO","RAVENWOOD",844,0.956 
+"64480","41140","St. Joseph, MO-KS","REA",407,1 
+"64481"," "," ","RIDGEWAY",1166,1 
+"64482"," "," ","ROCK PORT",2216,1 
+"64483","41140","St. Joseph, MO-KS","ROSENDALE",682,1 
+"64484","28140","Kansas City, MO-KS","RUSHVILLE",183,0.152 
+"64484","41140","St. Joseph, MO-KS","RUSHVILLE",1020,0.848 
+"64485","41140","St. Joseph, MO-KS","SAVANNAH",7637,1 
+"64486"," "," ","SHERIDAN",342,0.794 
+"64486","32340","Maryville, MO","SHERIDAN",89,0.206 
+"64487"," "," ","SKIDMORE",97,0.117 
+"64487","32340","Maryville, MO","SKIDMORE",735,0.883 
+"64489"," "," ","STANBERRY",1865,0.923 
+"64489","32340","Maryville, MO","STANBERRY",155,0.077 
+"64490","28140","Kansas City, MO-KS","HEMPLE",656,0.308 
+"64490","41140","St. Joseph, MO-KS","HEMPLE",1476,0.692 
+"64491"," "," ","TARKIO",2350,1 
+"64492","28140","Kansas City, MO-KS","TRIMBLE",1150,1 
+"64493","28140","Kansas City, MO-KS","TURNEY",530,1 
+"64494","41140","St. Joseph, MO-KS","UNION STAR",989,1 
+"64496"," "," ","WATSON",186,1 
+"64497"," "," ","WEATHERBY",106,0.198 
+"64497","41140","St. Joseph, MO-KS","WEATHERBY",429,0.802 
+"64498"," "," ","WESTBORO",407,1 
+"64499"," "," ","WORTH",183,1 
+"64501","41140","St. Joseph, MO-KS","SAINT JOSEPH",12034,1 
+"64503","41140","St. Joseph, MO-KS","SAINT JOSEPH",12330,1 
+"64504","41140","St. Joseph, MO-KS","SAINT JOSEPH",10926,1 
+"64505","41140","St. Joseph, MO-KS","SAINT JOSEPH",12587,1 
+"64506","41140","St. Joseph, MO-KS","SAINT JOSEPH",21773,1 
+"64507","41140","St. Joseph, MO-KS","SAINT JOSEPH",14001,1 
+"64601"," "," ","CHILLICOTHE",11762,1 
+"64620"," "," ","ALTAMONT",461,1 
+"64622"," "," ","BOGARD",719,1 
+"64623"," "," ","BOSWORTH",770,1 
+"64624"," "," ","BRAYMER",185,0.106 
+"64624","28140","Kansas City, MO-KS","BRAYMER",1556,0.894 
+"64625"," "," ","BRECKENRIDGE",97,0.129 
+"64625","28140","Kansas City, MO-KS","BRECKENRIDGE",654,0.871 
+"64628"," "," ","BROOKFIELD",6283,1 
+"64630"," "," ","BROWNING",719,1 
+"64631"," "," ","BUCKLIN",1019,1 
+"64632"," "," ","CAINSVILLE",784,1 
+"64633"," "," ","CARROLLTON",5610,1 
+"64635"," "," ","CHULA",529,1 
+"64636"," "," ","COFFEY",281,1 
+"64637","28140","Kansas City, MO-KS","COWGILL",644,1 
+"64638"," "," ","DAWN",640,1 
+"64639"," "," ","DE WITT",249,1 
+"64640"," "," ","GALLATIN",3185,1 
+"64641"," "," ","GALT",696,1 
+"64642"," "," ","GILMAN CITY",845,1 
+"64643"," "," ","HALE",1079,1 
+"64644"," "," ","HAMILTON",130,0.044 
+"64644","28140","Kansas City, MO-KS","HAMILTON",2805,0.956 
+"64645"," "," ","HARRIS",289,1 
+"64646"," "," ","HUMPHREYS",385,1 
+"64647"," "," ","JAMESON",339,1 
+"64648"," "," ","JAMESPORT",2019,1 
+"64649"," "," ","KIDDER",191,0.249 
+"64649","28140","Kansas City, MO-KS","KIDDER",575,0.751 
+"64650","28140","Kansas City, MO-KS","KINGSTON",630,1 
+"64651"," "," ","LACLEDE",687,1 
+"64652"," "," ","LAREDO",475,1 
+"64653"," "," ","LINNEUS",780,1 
+"64655"," "," ","LUCERNE",307,1 
+"64656"," "," ","LUDLOW",379,1 
+"64657"," "," ","MC FALL",442,1 
+"64658"," "," ","MARCELINE",3629,1 
+"64659"," "," ","MEADVILLE",932,1 
+"64660"," "," ","MENDON",558,1 
+"64661"," "," ","MERCER",1015,1 
+"64664"," "," ","MOORESVILLE",271,1 
+"64667"," "," ","NEWTOWN",484,1 
+"64668"," "," ","NORBORNE",1384,0.873 
+"64668","28140","Kansas City, MO-KS","NORBORNE",202,0.127 
+"64670"," "," ","PATTONSBURG",908,0.916 
+"64670","41140","St. Joseph, MO-KS","PATTONSBURG",83,0.084 
+"64671","28140","Kansas City, MO-KS","POLO",1780,1 
+"64672"," "," ","POWERSVILLE",254,1 
+"64673"," "," ","PRINCETON",2286,1 
+"64674"," "," ","PURDIN",502,1 
+"64676"," "," ","ROTHVILLE",272,1 
+"64679"," "," ","SPICKARD",787,1 
+"64681"," "," ","SUMNER",246,1 
+"64682"," "," ","TINA",357,1 
+"64683"," "," ","TRENTON",8323,1 
+"64686"," "," ","UTICA",299,1 
+"64688"," "," ","WHEELING",530,1 
+"64689"," "," ","WINSTON",558,1 
+"64701","28140","Kansas City, MO-KS","HARRISONVILLE",13351,1 
+"64720","28140","Kansas City, MO-KS","ADRIAN",3618,1 
+"64722","28140","Kansas City, MO-KS","AMORET",518,1 
+"64723","28140","Kansas City, MO-KS","AMSTERDAM",786,1 
+"64724"," "," ","APPLETON CITY",1931,0.888 
+"64724","28140","Kansas City, MO-KS","APPLETON CITY",243,0.112 
+"64725","28140","Kansas City, MO-KS","ARCHIE",1785,1 
+"64726"," "," ","BLAIRSTOWN",507,0.925 
+"64726","47660","Warrensburg, MO","BLAIRSTOWN",41,0.075 
+"64728"," "," ","BRONAUGH",586,1 
+"64730","28140","Kansas City, MO-KS","BUTLER",7174,1 
+"64733"," "," ","CHILHOWEE",227,0.204 
+"64733","47660","Warrensburg, MO","CHILHOWEE",884,0.796 
+"64734","28140","Kansas City, MO-KS","CLEVELAND",1858,1 
+"64735"," "," ","TIGHTWAD",12910,1 
+"64738"," "," ","COLLINS",1204,1 
+"64739"," "," ","CREIGHTON",167,0.185 
+"64739","28140","Kansas City, MO-KS","CREIGHTON",737,0.815 
+"64740"," "," ","DEEPWATER",1965,1 
+"64741"," "," ","DEERFIELD",367,1 
+"64742","28140","Kansas City, MO-KS","DREXEL",2140,1 
+"64743","28140","Kansas City, MO-KS","EAST LYNNE",308,1 
+"64744"," "," ","EL DORADO SPRING",7985,1 
+"64745","28140","Kansas City, MO-KS","FOSTER",51,1 
+"64746","28140","Kansas City, MO-KS","FREEMAN",1534,1 
+"64747","28140","Kansas City, MO-KS","GARDEN CITY",3552,0.938 
+"64747","47660","Warrensburg, MO","GARDEN CITY",233,0.062 
+"64748"," "," ","GOLDEN CITY",1547,0.927 
+"64748","27900","Joplin, MO","GOLDEN CITY",122,0.073 
+"64750"," "," ","HARWOOD",422,1 
+"64751"," "," ","HORTON",265,1 
+"64752"," "," ","STOTESBURY",192,0.238 
+"64752","28140","Kansas City, MO-KS","STOTESBURY",614,0.762 
+"64755"," "," ","JASPER",416,0.155 
+"64755","27900","Joplin, MO","JASPER",2273,0.845 
+"64756"," "," ","JERICO SPRINGS",777,1 
+"64759"," "," ","IANTHA",8151,1 
+"64761"," "," ","LEETON",112,0.075 
+"64761","47660","Warrensburg, MO","LEETON",1373,0.925 
+"64762"," "," ","LIBERAL",1632,1 
+"64763"," "," ","LOWRY CITY",1450,1 
+"64767"," "," ","MILO",730,1 
+"64769"," "," ","MINDENMINES",678,1 
+"64770"," "," ","MONTROSE",949,0.91 
+"64770","28140","Kansas City, MO-KS","MONTROSE",94,0.09 
+"64771"," "," ","MOUNDVILLE",537,1 
+"64772"," "," ","NEVADA",13289,1 
+"64776"," "," ","OSCEOLA",3509,1 
+"64778"," "," ","RICHARDS",331,1 
+"64779"," "," ","RICH HILL",373,0.135 
+"64779","28140","Kansas City, MO-KS","RICH HILL",2397,0.865 
+"64780"," "," ","ROCKVILLE",223,0.356 
+"64780","28140","Kansas City, MO-KS","ROCKVILLE",404,0.644 
+"64781"," "," ","ROSCOE",84,1 
+"64783"," "," ","SCHELL CITY",835,1 
+"64784"," "," ","SHELDON",1347,1 
+"64788"," "," ","URICH",1135,0.889 
+"64788","28140","Kansas City, MO-KS","URICH",141,0.111 
+"64790"," "," ","WALKER",853,1 
+"64801","27900","Joplin, MO","JOPLIN",32628,1 
+"64804","27900","Joplin, MO","JOPLIN",34586,1 
+"64830","27900","Joplin, MO","ALBA",652,1 
+"64831","22220","Fayetteville-Springdale-Rogers, AR-MO","ANDERSON",5933,1 
+"64832"," "," ","ASBURY",139,0.192 
+"64832","27900","Joplin, MO","ASBURY",585,0.808 
+"64833","27900","Joplin, MO","AVILLA",109,1 
+"64834","27900","Joplin, MO","CARL JUNCTION",7175,1 
+"64835","27900","Joplin, MO","CARTERVILLE",1830,1 
+"64836","27900","Joplin, MO","CARTHAGE",21978,1 
+"64840","27900","Joplin, MO","DIAMOND",2411,1 
+"64841","27900","Joplin, MO","DUENWEG",415,1 
+"64842"," "," ","FAIRVIEW",38,0.044 
+"64842","27900","Joplin, MO","FAIRVIEW",827,0.956 
+"64843","22220","Fayetteville-Springdale-Rogers, AR-MO","GOODMAN",2733,0.871 
+"64843","27900","Joplin, MO","GOODMAN",403,0.129 
+"64844","27900","Joplin, MO","GRANBY",4523,1 
+"64847","22220","Fayetteville-Springdale-Rogers, AR-MO","LANAGAN",426,1 
+"64848"," "," ","LA RUSSELL",554,0.782 
+"64848","27900","Joplin, MO","LA RUSSELL",154,0.218 
+"64849","27900","Joplin, MO","NECK CITY",105,1 
+"64850","22220","Fayetteville-Springdale-Rogers, AR-MO","NEOSHO",53,0.003 
+"64850","27900","Joplin, MO","NEOSHO",20879,0.997 
+"64854","22220","Fayetteville-Springdale-Rogers, AR-MO","NOEL",4052,1 
+"64855"," "," ","ORONOGO",95,0.053 
+"64855","27900","Joplin, MO","ORONOGO",1692,0.947 
+"64856","22220","Fayetteville-Springdale-Rogers, AR-MO","JANE",3734,1 
+"64857","27900","Joplin, MO","PURCELL",341,1 
+"64858","27900","Joplin, MO","RACINE",157,1 
+"64859","27900","Joplin, MO","REEDS",1151,1 
+"64861","22220","Fayetteville-Springdale-Rogers, AR-MO","ROCKY COMFORT",1005,0.955 
+"64861","27900","Joplin, MO","ROCKY COMFORT",47,0.045 
+"64862"," "," ","SARCOXIE",140,0.045 
+"64862","27900","Joplin, MO","SARCOXIE",2951,0.955 
+"64863","22220","Fayetteville-Springdale-Rogers, AR-MO","SOUTH WEST CITY",1672,1 
+"64865","22220","Fayetteville-Springdale-Rogers, AR-MO","SENECA",532,0.095 
+"64865","27900","Joplin, MO","SENECA",5082,0.905 
+"64866","27900","Joplin, MO","STARK CITY",1326,1 
+"64867","22220","Fayetteville-Springdale-Rogers, AR-MO","STELLA",777,0.556 
+"64867","27900","Joplin, MO","STELLA",620,0.444 
+"64870","27900","Joplin, MO","WEBB CITY",11365,1 
+"64873"," "," ","WENTWORTH",513,0.55 
+"64873","27900","Joplin, MO","WENTWORTH",420,0.45 
+"64874"," "," ","WHEATON",897,1 
+"65001"," "," ","ARGYLE",106,0.23 
+"65001","27620","Jefferson City, MO","ARGYLE",355,0.77 
+"65010","17860","Columbia, MO","ASHLAND",4040,1 
+"65011"," "," ","BARNETT",2016,0.95 
+"65011","27620","Jefferson City, MO","BARNETT",107,0.05 
+"65013"," "," ","BELLE",2464,0.766 
+"65013","27620","Jefferson City, MO","BELLE",754,0.234 
+"65014"," "," ","BLAND",1969,0.839 
+"65014","27620","Jefferson City, MO","BLAND",379,0.161 
+"65016","27620","Jefferson City, MO","BONNOTS MILL",1265,1 
+"65017"," "," ","BRUMLEY",1472,1 
+"65018"," "," ","CALIFORNIA",77,0.01 
+"65018","27620","Jefferson City, MO","CALIFORNIA",7420,0.99 
+"65020"," "," ","CAMDENTON",12165,1 
+"65023","27620","Jefferson City, MO","CENTERTOWN",1520,1 
+"65024","27620","Jefferson City, MO","CHAMOIS",1200,1 
+"65025"," "," ","CLARKSBURG",199,0.244 
+"65025","27620","Jefferson City, MO","CLARKSBURG",618,0.756 
+"65026"," "," ","ELDON",12126,1 
+"65032"," "," ","EUGENE",671,0.47 
+"65032","27620","Jefferson City, MO","EUGENE",756,0.53 
+"65034"," "," ","FORTUNA",282,0.483 
+"65034","27620","Jefferson City, MO","FORTUNA",302,0.517 
+"65035","27620","Jefferson City, MO","FREEBURG",1599,1 
+"65036"," "," ","GASCONADE",252,1 
+"65037"," "," ","GRAVOIS MILLS",4666,1 
+"65039","17860","Columbia, MO","HARTSBURG",2081,0.965 
+"65039","27620","Jefferson City, MO","HARTSBURG",75,0.035 
+"65040"," "," ","HENLEY",266,0.21 
+"65040","27620","Jefferson City, MO","HENLEY",999,0.79 
+"65041"," "," ","BAY",5690,0.974 
+"65041","41180","St. Louis, MO-IL","BAY",152,0.026 
+"65043","27620","Jefferson City, MO","HOLTS SUMMIT",8948,1 
+"65046","27620","Jefferson City, MO","JAMESTOWN",1142,1 
+"65047"," "," ","KAISER",1271,1 
+"65048","27620","Jefferson City, MO","KOELTZTOWN",144,1 
+"65049"," "," ","FOUR SEASONS",4858,1 
+"65050","27620","Jefferson City, MO","LATHAM",567,1 
+"65051"," "," ","LINN",5,0.001 
+"65051","27620","Jefferson City, MO","LINN",4688,0.999 
+"65052"," "," ","LINN CREEK",3146,1 
+"65053","27620","Jefferson City, MO","LOHMAN",1169,1 
+"65054","27620","Jefferson City, MO","LOOSE CREEK",554,1 
+"65058"," "," ","META",730,0.693 
+"65058","27620","Jefferson City, MO","META",324,0.307 
+"65059","27620","Jefferson City, MO","MOKANE",786,1 
+"65061"," "," ","MORRISON",415,0.676 
+"65061","27620","Jefferson City, MO","MORRISON",199,0.324 
+"65062","27620","Jefferson City, MO","MOUNT STERLING",8,1 
+"65063","27620","Jefferson City, MO","NEW BLOOMFIELD",2837,1 
+"65064"," "," ","OLEAN",627,1 
+"65065"," "," ","OSAGE BEACH",4909,1 
+"65066"," "," ","OWENSVILLE",6520,1 
+"65067","27620","Jefferson City, MO","PORTLAND",412,1 
+"65068"," "," ","PRAIRIE HOME",625,1 
+"65069"," "," ","RHINELAND",674,0.902 
+"65069","27620","Jefferson City, MO","RHINELAND",73,0.098 
+"65072"," "," ","ROCKY MOUNT",1609,1 
+"65074"," "," ","RUSSELLVILLE",6,0.002 
+"65074","27620","Jefferson City, MO","RUSSELLVILLE",2821,0.998 
+"65075"," "," ","SAINT ELIZABETH",790,1 
+"65076","27620","Jefferson City, MO","SAINT THOMAS",891,1 
+"65077","27620","Jefferson City, MO","STEEDMAN",554,1 
+"65078"," "," ","STOVER",3427,0.994 
+"65078","42740","Sedalia, MO","STOVER",20,0.006 
+"65079"," "," ","SUNRISE BEACH",4602,1 
+"65080","27620","Jefferson City, MO","TEBBETTS",762,1 
+"65081"," "," ","TIPTON",614,0.144 
+"65081","27620","Jefferson City, MO","TIPTON",3656,0.856 
+"65082"," "," ","TUSCUMBIA",1171,1 
+"65083"," "," ","ULMAN",292,1 
+"65084"," "," ","VERSAILLES",6370,0.994 
+"65084","27620","Jefferson City, MO","VERSAILLES",40,0.006 
+"65085","27620","Jefferson City, MO","WESTPHALIA",1061,1 
+"65101","27620","Jefferson City, MO","JEFFERSON CITY",28216,1 
+"65109","27620","Jefferson City, MO","JEFFERSON CITY",36467,1 
+"65201","17860","Columbia, MO","COLUMBIA",34474,0.998 
+"65201","27620","Jefferson City, MO","COLUMBIA",73,0.002 
+"65202","17860","Columbia, MO","COLUMBIA",35354,0.987 
+"65202","27620","Jefferson City, MO","COLUMBIA",480,0.013 
+"65203","17860","Columbia, MO","COLUMBIA",45379,1 
+"65230","17860","Columbia, MO","ARMSTRONG",671,0.909 
+"65230","33620","Moberly, MO","ARMSTRONG",67,0.091 
+"65231","27620","Jefferson City, MO","AUXVASSE",3035,0.987 
+"65231","33020","Mexico, MO","AUXVASSE",41,0.013 
+"65232","33020","Mexico, MO","BENTON CITY",220,1 
+"65233"," "," ","BOONVILLE",11138,1 
+"65236"," "," ","BRUNSWICK",1460,1 
+"65237"," "," ","BUNCETON",915,1 
+"65239","33620","Moberly, MO","CAIRO",1223,1 
+"65240"," "," ","CENTRALIA",18,0.003 
+"65240","17860","Columbia, MO","CENTRALIA",5808,0.823 
+"65240","27620","Jefferson City, MO","CENTRALIA",107,0.015 
+"65240","33020","Mexico, MO","CENTRALIA",1124,0.159 
+"65243"," "," ","CLARK",63,0.026 
+"65243","17860","Columbia, MO","CLARK",622,0.254 
+"65243","33020","Mexico, MO","CLARK",771,0.315 
+"65243","33620","Moberly, MO","CLARK",995,0.406 
+"65244"," "," ","CLIFTON HILL",37,0.084 
+"65244","33620","Moberly, MO","CLIFTON HILL",405,0.916 
+"65246"," "," ","DALTON",141,1 
+"65247"," "," ","EXCELLO",567,1 
+"65248","17860","Columbia, MO","FAYETTE",4596,1 
+"65250","17860","Columbia, MO","FRANKLIN",650,1 
+"65251","27620","Jefferson City, MO","FULTON",21045,1 
+"65254"," "," ","GLASGOW",236,0.116 
+"65254","17860","Columbia, MO","GLASGOW",1794,0.884 
+"65255","17860","Columbia, MO","HALLSVILLE",2926,1 
+"65256","17860","Columbia, MO","HARRISBURG",1518,1 
+"65257","17860","Columbia, MO","HIGBEE",272,0.174 
+"65257","33620","Moberly, MO","HIGBEE",1289,0.826 
+"65258"," "," ","HOLLIDAY",520,1 
+"65259","33620","Moberly, MO","HUNTSVILLE",2714,1 
+"65260"," "," ","JACKSONVILLE",64,0.115 
+"65260","33620","Moberly, MO","JACKSONVILLE",492,0.885 
+"65261"," "," ","KEYTESVILLE",1055,1 
+"65262","27620","Jefferson City, MO","KINGDOM CITY",502,1 
+"65263"," "," ","MADISON",1889,0.985 
+"65263","33620","Moberly, MO","MADISON",28,0.015 
+"65264"," "," ","MARTINSBURG",28,0.032 
+"65264","27620","Jefferson City, MO","MARTINSBURG",131,0.148 
+"65264","33020","Mexico, MO","MARTINSBURG",724,0.82 
+"65265"," "," ","MEXICO",106,0.007 
+"65265","33020","Mexico, MO","MEXICO",15531,0.993 
+"65270"," "," ","MOBERLY",57,0.003 
+"65270","33620","Moberly, MO","MOBERLY",17242,0.997 
+"65274","17860","Columbia, MO","NEW FRANKLIN",1757,1 
+"65275"," "," ","PARIS",2772,1 
+"65276"," "," ","PILOT GROVE",1505,1 
+"65278","33620","Moberly, MO","RENICK",182,1 
+"65279","17860","Columbia, MO","ROCHEPORT",1471,1 
+"65280","33020","Mexico, MO","RUSH HILL",193,1 
+"65281"," "," ","SALISBURY",3218,0.996 
+"65281","17860","Columbia, MO","SALISBURY",10,0.003 
+"65281","33620","Moberly, MO","SALISBURY",2,0.001 
+"65282"," "," ","SANTA FE",153,1 
+"65283"," "," ","STOUTSVILLE",443,1 
+"65284","17860","Columbia, MO","STURGEON",2243,0.973 
+"65284","33020","Mexico, MO","STURGEON",62,0.027 
+"65285","33020","Mexico, MO","THOMPSON",738,1 
+"65286"," "," ","TRIPLETT",198,1 
+"65287"," "," ","WOOLDRIDGE",276,0.809 
+"65287","27620","Jefferson City, MO","WOOLDRIDGE",65,0.191 
+"65301","42740","Sedalia, MO","SEDALIA",31839,1 
+"65305","47660","Warrensburg, MO","WHITEMAN AFB",3819,1 
+"65320","32180","Marshall, MO","ARROW ROCK",91,1 
+"65321","28140","Kansas City, MO-KS","BLACKBURN",77,0.162 
+"65321","32180","Marshall, MO","BLACKBURN",398,0.838 
+"65322"," "," ","BLACKWATER",671,1 
+"65323"," "," ","CALHOUN",932,1 
+"65324"," "," ","CLIMAX SPRINGS",1461,1 
+"65325"," "," ","COLE CAMP",2880,0.998 
+"65325","42740","Sedalia, MO","COLE CAMP",5,0.002 
+"65326"," "," ","EDWARDS",1873,1 
+"65327","28140","Kansas City, MO-KS","EMMA",123,0.444 
+"65327","32180","Marshall, MO","EMMA",154,0.556 
+"65329"," "," ","FLORENCE",363,1 
+"65330","32180","Marshall, MO","GILLIAM",554,1 
+"65332","42740","Sedalia, MO","GREEN RIDGE",1419,0.985 
+"65332","47660","Warrensburg, MO","GREEN RIDGE",21,0.015 
+"65333","32180","Marshall, MO","HOUSTONIA",125,0.147 
+"65333","42740","Sedalia, MO","HOUSTONIA",728,0.853 
+"65334","42740","Sedalia, MO","HUGHESVILLE",767,1 
+"65335"," "," ","IONIA",182,0.641 
+"65335","42740","Sedalia, MO","IONIA",102,0.359 
+"65336","42740","Sedalia, MO","KNOB NOSTER",99,0.018 
+"65336","47660","Warrensburg, MO","KNOB NOSTER",5346,0.982 
+"65337","42740","Sedalia, MO","LA MONTE",1941,1 
+"65338"," "," ","LINCOLN",2866,1 
+"65339","32180","Marshall, MO","GRAND PASS",833,1 
+"65340","32180","Marshall, MO","NAPTON",15478,0.993 
+"65340","42740","Sedalia, MO","NAPTON",102,0.007 
+"65344","32180","Marshall, MO","MIAMI",321,1 
+"65345"," "," ","MORA",260,0.536 
+"65345","42740","Sedalia, MO","MORA",225,0.464 
+"65347"," "," ","NELSON",42,0.058 
+"65347","32180","Marshall, MO","NELSON",581,0.805 
+"65347","42740","Sedalia, MO","NELSON",99,0.137 
+"65348"," "," ","OTTERVILLE",1393,0.99 
+"65348","42740","Sedalia, MO","OTTERVILLE",14,0.01 
+"65349","32180","Marshall, MO","SLATER",2737,1 
+"65350"," "," ","SMITHTON",108,0.072 
+"65350","42740","Sedalia, MO","SMITHTON",1382,0.928 
+"65351","32180","Marshall, MO","SWEET SPRINGS",2445,0.935 
+"65351","42740","Sedalia, MO","SWEET SPRINGS",160,0.061 
+"65351","47660","Warrensburg, MO","SWEET SPRINGS",9,0.003 
+"65354"," "," ","SYRACUSE",262,1 
+"65355"," "," ","WARSAW",9140,1 
+"65360"," "," ","WINDSOR",3926,0.831 
+"65360","42740","Sedalia, MO","WINDSOR",501,0.106 
+"65360","47660","Warrensburg, MO","WINDSOR",295,0.062 
+"65401"," "," ","ROLLA",324,0.012 
+"65401","40620","Rolla, MO","ROLLA",27301,0.988 
+"65436","40620","Rolla, MO","BEULAH",108,1 
+"65438"," "," ","BIRCH TREE",2968,1 
+"65439"," "," ","BIXBY",310,1 
+"65440"," "," ","BOSS",634,1 
+"65441"," "," ","BOURBON",4370,0.965 
+"65441","41180","St. Louis, MO-IL","BOURBON",159,0.035 
+"65443"," "," ","BRINKTOWN",134,1 
+"65444"," "," ","BUCYRUS",1054,1 
+"65446"," "," ","CHERRYVILLE",376,1 
+"65449"," "," ","COOK STATION",369,0.816 
+"65449","40620","Rolla, MO","COOK STATION",83,0.184 
+"65452"," "," ","CROCKER",135,0.046 
+"65452","22780","Fort Leonard Wood, MO","CROCKER",2779,0.954 
+"65453"," "," ","CUBA",7962,1 
+"65456"," "," ","DAVISVILLE",619,1 
+"65457","22780","Fort Leonard Wood, MO","DEVILS ELBOW",163,1 
+"65459"," "," ","DIXON",1882,0.241 
+"65459","22780","Fort Leonard Wood, MO","DIXON",5802,0.745 
+"65459","40620","Rolla, MO","DIXON",109,0.014 
+"65461","22780","Fort Leonard Wood, MO","DUKE",45,0.542 
+"65461","40620","Rolla, MO","DUKE",38,0.458 
+"65462"," "," ","EDGAR SPRINGS",137,0.103 
+"65462","40620","Rolla, MO","EDGAR SPRINGS",1188,0.897 
+"65463","30060","Lebanon, MO","ELDRIDGE",947,0.986 
+"65463","44180","Springfield, MO","ELDRIDGE",13,0.014 
+"65464"," "," ","ELK CREEK",412,1 
+"65466"," "," ","EMINENCE",1621,1 
+"65468"," "," ","EUNICE",35,1 
+"65470"," "," ","FALCON",126,0.127 
+"65470","30060","Lebanon, MO","FALCON",870,0.873 
+"65473","22780","Fort Leonard Wood, MO","FORT LEONARD WOO",13666,1 
+"65479"," "," ","HARTSHORN",342,1 
+"65483"," "," ","HOUSTON",4636,1 
+"65484"," "," ","HUGGINS",182,1 
+"65486"," "," ","IBERIA",3049,1 
+"65501"," "," ","JADWIN",197,1 
+"65529","40620","Rolla, MO","JEROME",240,1 
+"65532"," "," ","LAKE SPRING",54,1 
+"65534","22780","Fort Leonard Wood, MO","LAQUEY",656,0.907 
+"65534","30060","Lebanon, MO","LAQUEY",67,0.093 
+"65535"," "," ","LEASBURG",1564,1 
+"65536"," "," ","LEBANON",55,0.002 
+"65536","30060","Lebanon, MO","LEBANON",26215,0.991 
+"65536","44180","Springfield, MO","LEBANON",180,0.007 
+"65540"," "," ","ANUTT",379,1 
+"65541"," "," ","LENOX",233,1 
+"65542"," "," ","LICKING",4646,0.999 
+"65542","40620","Rolla, MO","LICKING",4,0.001 
+"65543"," "," ","LYNCHBURG",88,0.315 
+"65543","30060","Lebanon, MO","LYNCHBURG",191,0.685 
+"65548"," "," ","MOUNTAIN VIEW",561,0.102 
+"65548","48460","West Plains, MO","MOUNTAIN VIEW",4946,0.898 
+"65550","22780","Fort Leonard Wood, MO","NEWBURG",366,0.115 
+"65550","40620","Rolla, MO","NEWBURG",2809,0.885 
+"65552"," "," ","PLATO",1278,0.894 
+"65552","22780","Fort Leonard Wood, MO","PLATO",115,0.08 
+"65552","30060","Lebanon, MO","PLATO",37,0.026 
+"65555"," "," ","RAYMONDVILLE",1095,1 
+"65556"," "," ","RICHLAND",896,0.177 
+"65556","22780","Fort Leonard Wood, MO","RICHLAND",3528,0.697 
+"65556","30060","Lebanon, MO","RICHLAND",641,0.127 
+"65557"," "," ","ROBY",166,1 
+"65559"," "," ","SAINT JAMES",659,0.077 
+"65559","40620","Rolla, MO","SAINT JAMES",7862,0.923 
+"65560"," "," ","SALEM",13338,0.994 
+"65560","40620","Rolla, MO","SALEM",83,0.006 
+"65564"," "," ","SOLO",175,1 
+"65565"," "," ","BERRYMAN",5214,0.987 
+"65565","41180","St. Louis, MO-IL","BERRYMAN",66,0.012 
+"65566"," "," ","VIBURNUM",915,1 
+"65567"," "," ","STOUTLAND",1045,0.814 
+"65567","30060","Lebanon, MO","STOUTLAND",239,0.186 
+"65570"," "," ","SUCCESS",525,1 
+"65571"," "," ","SUMMERSVILLE",2242,1 
+"65580"," "," ","VICHY",801,1 
+"65582"," "," ","VIENNA",2241,1 
+"65583","22780","Fort Leonard Wood, MO","SAINT ROBERT",14045,1 
+"65588"," "," ","WINONA",2552,1 
+"65589"," "," ","YUKON",272,1 
+"65590","44180","Springfield, MO","LONG LANE",1565,1 
+"65591"," "," ","MONTREAL",834,1 
+"65601"," "," ","ALDRICH",206,0.264 
+"65601","44180","Springfield, MO","ALDRICH",573,0.736 
+"65603"," "," ","ARCOLA",175,1 
+"65604"," "," ","ASH GROVE",1217,0.326 
+"65604","44180","Springfield, MO","ASH GROVE",2512,0.674 
+"65605"," "," ","JENKINS",11592,0.997 
+"65605","14700","Branson, MO","JENKINS",38,0.003 
+"65606"," "," ","RIVERTON",3140,1 
+"65608"," "," ","AVA",8946,0.987 
+"65608","14700","Branson, MO","AVA",115,0.013 
+"65609"," "," ","BAKERSFIELD",612,0.814 
+"65609","48460","West Plains, MO","BAKERSFIELD",140,0.186 
+"65610"," "," ","BILLINGS",65,0.015 
+"65610","14700","Branson, MO","BILLINGS",563,0.129 
+"65610","44180","Springfield, MO","BILLINGS",3735,0.856 
+"65611","14700","Branson, MO","BLUE EYE",1956,1 
+"65612"," "," ","BOIS D ARC",67,0.053 
+"65612","44180","Springfield, MO","BOIS D ARC",1197,0.947 
+"65613","44180","Springfield, MO","BOLIVAR",15120,1 
+"65614","14700","Branson, MO","BRADLEYVILLE",454,0.899 
+"65614","44180","Springfield, MO","BRADLEYVILLE",51,0.101 
+"65616","14700","Branson, MO","MARVEL CAVE PARK",17339,1 
+"65617","44180","Springfield, MO","BRIGHTON",1377,1 
+"65618"," "," ","BRIXEY",158,1 
+"65619","44180","Springfield, MO","BROOKLINE STATIO",4213,1 
+"65620"," "," ","BRUNER",13,0.034 
+"65620","44180","Springfield, MO","BRUNER",366,0.966 
+"65622","44180","Springfield, MO","BUFFALO",7893,1 
+"65623"," "," ","BUTTERFIELD",39,1 
+"65624","14700","Branson, MO","CAPE FAIR",395,1 
+"65625"," "," ","CASSVILLE",7655,1 
+"65626"," "," ","CAULFIELD",754,0.449 
+"65626","48460","West Plains, MO","CAULFIELD",924,0.551 
+"65627","14700","Branson, MO","CEDARCREEK",507,1 
+"65629","44180","Springfield, MO","CHADWICK",781,1 
+"65630","44180","Springfield, MO","CHESTNUTRIDGE",159,1 
+"65631","14700","Branson, MO","CLEVER",451,0.179 
+"65631","44180","Springfield, MO","CLEVER",2070,0.821 
+"65632","30060","Lebanon, MO","CONWAY",1686,0.609 
+"65632","44180","Springfield, MO","CONWAY",1084,0.391 
+"65633"," "," ","CRANE",426,0.118 
+"65633","14700","Branson, MO","CRANE",3179,0.882 
+"65634"," "," ","CROSS TIMBERS",713,1 
+"65635"," "," ","DADEVILLE",571,1 
+"65637"," "," ","DORA",908,0.781 
+"65637","48460","West Plains, MO","DORA",254,0.219 
+"65638"," "," ","DRURY",462,1 
+"65640"," "," ","DUNNEGAN",124,0.163 
+"65640","44180","Springfield, MO","DUNNEGAN",639,0.837 
+"65641"," "," ","EAGLE ROCK",1378,1 
+"65644","44180","Springfield, MO","ELKLAND",2509,1 
+"65646"," "," ","EVERTON",1881,1 
+"65647"," "," ","EXETER",2186,0.983 
+"65647","22220","Fayetteville-Springdale-Rogers, AR-MO","EXETER",37,0.017 
+"65648","44180","Springfield, MO","FAIR GROVE",4469,1 
+"65649"," "," ","FAIR PLAY",432,0.31 
+"65649","44180","Springfield, MO","FAIR PLAY",961,0.69 
+"65650"," "," ","FLEMINGTON",612,0.531 
+"65650","44180","Springfield, MO","FLEMINGTON",541,0.469 
+"65652"," "," ","FORDLAND",49,0.013 
+"65652","44180","Springfield, MO","FORDLAND",3641,0.987 
+"65653","14700","Branson, MO","FORSYTH",4678,0.988 
+"65653","44180","Springfield, MO","FORSYTH",57,0.012 
+"65655"," "," ","GAINESVILLE",2955,1 
+"65656"," "," ","GALENA",201,0.035 
+"65656","14700","Branson, MO","GALENA",5508,0.965 
+"65657","44180","Springfield, MO","GARRISON",135,1 
+"65658"," "," ","GOLDEN",1019,1 
+"65659","44180","Springfield, MO","GOODSON",357,1 
+"65660"," "," ","GRAFF",215,1 
+"65661"," "," ","GREENFIELD",2728,1 
+"65662"," "," ","GROVESPRING",980,0.833 
+"65662","30060","Lebanon, MO","GROVESPRING",196,0.167 
+"65663","44180","Springfield, MO","HALF WAY",1906,1 
+"65664"," "," ","HALLTOWN",39,1 
+"65667"," "," ","HARTVILLE",3146,1 
+"65668"," "," ","HERMITAGE",1628,1 
+"65669","14700","Branson, MO","HIGHLANDVILLE",197,0.121 
+"65669","44180","Springfield, MO","HIGHLANDVILLE",1437,0.879 
+"65672","14700","Branson, MO","HOLLISTER",7803,1 
+"65674"," "," ","HUMANSVILLE",820,0.331 
+"65674","44180","Springfield, MO","HUMANSVILLE",1659,0.669 
+"65675","14700","Branson, MO","HURLEY",106,1 
+"65676"," "," ","ISABELLA",549,1 
+"65679","14700","Branson, MO","KIRBYVILLE",2393,1 
+"65680","14700","Branson, MO","KISSEE MILLS",960,1 
+"65681","14700","Branson, MO","LAMPE",2261,1 
+"65682"," "," ","LOCKWOOD",2002,1 
+"65685","44180","Springfield, MO","LOUISBURG",967,1 
+"65686","14700","Branson, MO","KIMBERLING CITY",4356,1 
+"65689"," "," ","CABOOL",4732,0.995 
+"65689","48460","West Plains, MO","CABOOL",23,0.005 
+"65690"," "," ","COUCH",494,1 
+"65692"," "," ","KOSHKONONG",859,0.728 
+"65692","48460","West Plains, MO","KOSHKONONG",321,0.272 
+"65701","14700","Branson, MO","MC CLURG",25,1 
+"65702"," "," ","MACOMB",470,1 
+"65704"," "," ","MANSFIELD",3739,1 
+"65705"," "," ","MARIONVILLE",3405,0.912 
+"65705","14700","Branson, MO","MARIONVILLE",328,0.088 
+"65706","44180","Springfield, MO","MARSHFIELD",12907,1 
+"65707"," "," ","MILLER",2117,1 
+"65708"," "," ","MONETT",11325,1 
+"65710","44180","Springfield, MO","MORRISVILLE",1129,1 
+"65711"," "," ","MOUNTAIN GROVE",9463,1 
+"65712"," "," ","MOUNT VERNON",7114,1 
+"65713"," "," ","NIANGUA",266,0.111 
+"65713","44180","Springfield, MO","NIANGUA",2137,0.889 
+"65714","14700","Branson, MO","NIXA",377,0.018 
+"65714","44180","Springfield, MO","NIXA",20633,0.982 
+"65715"," "," ","NOBLE",146,1 
+"65717"," "," ","NORWOOD",2374,1 
+"65720"," "," ","OLDFIELD",193,0.417 
+"65720","44180","Springfield, MO","OLDFIELD",270,0.583 
+"65721","44180","Springfield, MO","OZARK",19117,1 
+"65722","30060","Lebanon, MO","PHILLIPSBURG",1424,0.947 
+"65722","44180","Springfield, MO","PHILLIPSBURG",80,0.053 
+"65723"," "," ","PIERCE CITY",3148,0.86 
+"65723","27900","Joplin, MO","PIERCE CITY",514,0.14 
+"65724"," "," ","PITTSBURG",1330,0.972 
+"65724","44180","Springfield, MO","PITTSBURG",39,0.028 
+"65725","44180","Springfield, MO","PLEASANT HOPE",2316,1 
+"65727"," "," ","POLK",7,0.045 
+"65727","44180","Springfield, MO","POLK",150,0.955 
+"65728","14700","Branson, MO","PONCE DE LEON",89,0.817 
+"65728","44180","Springfield, MO","PONCE DE LEON",20,0.183 
+"65729"," "," ","PONTIAC",223,1 
+"65730","22220","Fayetteville-Springdale-Rogers, AR-MO","POWELL",158,1 
+"65731","14700","Branson, MO","POWERSITE",346,1 
+"65732"," "," ","PRESTON",815,1 
+"65733","14700","Branson, MO","PROTEM",308,1 
+"65734"," "," ","PURDY",3220,1 
+"65734","27900","Joplin, MO","PURDY",1,0 
+"65735"," "," ","QUINCY",191,1 
+"65737","14700","Branson, MO","BRANSON WEST",6315,0.998 
+"65737","44180","Springfield, MO","BRANSON WEST",15,0.002 
+"65738"," "," ","REPUBLIC",33,0.003 
+"65738","44180","Springfield, MO","REPUBLIC",11226,0.997 
+"65739","14700","Branson, MO","RIDGEDALE",1072,1 
+"65740","14700","Branson, MO","ROCKAWAY BEACH",2649,1 
+"65742","44180","Springfield, MO","ROGERSVILLE",8740,1 
+"65744","14700","Branson, MO","RUETER",144,1 
+"65745"," "," ","SELIGMAN",2360,1 
+"65746"," "," ","SEYMOUR",513,0.074 
+"65746","44180","Springfield, MO","SEYMOUR",6452,0.926 
+"65747"," "," ","SHELL KNOB",2286,0.638 
+"65747","14700","Branson, MO","SHELL KNOB",1299,0.362 
+"65752"," "," ","SOUTH GREENFIELD",478,1 
+"65753"," "," ","SPARTA",17,0.004 
+"65753","44180","Springfield, MO","SPARTA",3897,0.996 
+"65754","44180","Springfield, MO","SPOKANE",737,1 
+"65755"," "," ","SQUIRES",467,1 
+"65756"," "," ","STOTTS CITY",790,1 
+"65757","44180","Springfield, MO","STRAFFORD",5862,1 
+"65759","14700","Branson, MO","TANEYVILLE",1164,1 
+"65760"," "," ","TECUMSEH",624,1 
+"65761"," "," ","DUGGINSVILLE",1076,0.933 
+"65761","14700","Branson, MO","DUGGINSVILLE",77,0.067 
+"65762"," "," ","NOTTINGHILL",453,1 
+"65764","44180","Springfield, MO","TUNAS",1265,1 
+"65766"," "," ","UDALL",148,1 
+"65767"," "," ","URBANA",670,0.347 
+"65767","44180","Springfield, MO","URBANA",1261,0.653 
+"65768"," "," ","VANZANT",383,1 
+"65769"," "," ","VERONA",3121,1 
+"65770"," "," ","WALNUT GROVE",116,0.042 
+"65770","44180","Springfield, MO","WALNUT GROVE",2637,0.958 
+"65771","14700","Branson, MO","WALNUT SHADE",896,1 
+"65772"," "," ","WASHBURN",1746,0.754 
+"65772","22220","Fayetteville-Springdale-Rogers, AR-MO","WASHBURN",569,0.246 
+"65773"," "," ","SOUDER",778,1 
+"65774"," "," ","WEAUBLEAU",1097,1 
+"65775"," "," ","WEST PLAINS",480,0.021 
+"65775","48460","West Plains, MO","WEST PLAINS",22328,0.979 
+"65777","48460","West Plains, MO","MOODY",337,1 
+"65778"," "," ","MYRTLE",551,1 
+"65779"," "," ","WHEATLAND",1913,1 
+"65781","44180","Springfield, MO","WILLARD",6300,1 
+"65783","44180","Springfield, MO","WINDYVILLE",153,1 
+"65784"," "," ","ZANONI",34,1 
+"65785"," "," ","STOCKTON",5062,1 
+"65786"," "," ","MACKS CREEK",2017,0.977 
+"65786","44180","Springfield, MO","MACKS CREEK",47,0.023 
+"65787"," "," ","ROACH",1104,1 
+"65788"," "," ","PEACE VALLEY",20,0.045 
+"65788","48460","West Plains, MO","PEACE VALLEY",427,0.955 
+"65789","48460","West Plains, MO","POMONA",1889,1 
+"65790"," "," ","POTTERSVILLE",102,0.158 
+"65790","48460","West Plains, MO","POTTERSVILLE",544,0.842 
+"65791"," "," ","THAYER",4267,1 
+"65793"," "," ","WILLOW SPRINGS",914,0.152 
+"65793","48460","West Plains, MO","WILLOW SPRINGS",5105,0.848 
+"65802","44180","Springfield, MO","SPRINGFIELD",39272,1 
+"65803","44180","Springfield, MO","SPRINGFIELD",38453,1 
+"65804","44180","Springfield, MO","SPRINGFIELD",35482,1 
+"65806","44180","Springfield, MO","SPRINGFIELD",11073,1 
+"65807","44180","Springfield, MO","SPRINGFIELD",49132,1 
+"65809","44180","Springfield, MO","SPRINGFIELD",9501,1 
+"65810","44180","Springfield, MO","SPRINGFIELD",15904,1 
+"72644","14700","Branson, MO","LEAD HILL",13,1 
