@@ -26,7 +26,21 @@ library(rgeos, quietly = TRUE)
 
 ```{r import}
 zip_map <- readOGR("shape", "stl-zcta-map", verbose = FALSE)
+zip_map_fort <- fortify(zip_map, region = "zcta")
+muni_map <- readOGR("shape", "Muny_Bdy", verbose = FALSE)
+colnames(muni_map@data) <- tolower(colnames(muni_map@data))
+muni_map <- spTransform(muni_map, CRS = CRS(proj4string(zip_map)))
+ferg_map <- muni_map[muni_map@data$name == "FERGUSON", ]
+ferg_map_fort <- fortify(ferg_map, region = "code")
 load("data/cbp.RData")
+
+ggplot() + 
+  geom_polygon(aes(long, lat, group = id), data = zip_map_fort, fill = "grey") + 
+  geom_polygon(aes(long, lat, group = id), data = ferg_map_fort, fill = NA, colour = "black") + 
+  coord_equal() + 
+  #scale_x_continuous(limits = bbox(ferg_map)[1, ]) + 
+  #scale_y_continuous(limits = bbox(ferg_map)[2, ]) +
+  theme_bw()
 ```
 
 County Business Patterns
@@ -34,9 +48,8 @@ County Business Patterns
 Blah, blah, blah.
 
 ```{r}
-p_dat <- fortify(zip_map, region = "zcta")
 p_dat <- merge(
-  p_dat, 
+  zip_map_fort, 
   cbp[cbp$year == 2000 | cbp$year == 2012, ], 
   by.x = "id", by.y = "zip"
   )
@@ -55,7 +68,7 @@ ggplot(p_dat, aes(long, lat, group = group, fill = emp)) +
 ```{r}
 # Employment: Missing Data
 zip_full <- ddply(
-  cbp[cbp$year == 2000 | cbp$year == 2012, ], 
+  cbp[cbp$year == 1994 | cbp$year == 2012, ], 
   c("zip"), 
   summarize, 
   obs = sum(as.integer(emp > 0))
@@ -64,7 +77,53 @@ zip_full <- zip_full[zip_full$obs == 2, 1]
 
 # Employment Change 
 cbp_chg <- ddply(
-  cbp[cbp$zip %in% zip_full & (cbp$year == 2000 | cbp$year == 2012), ], 
+  cbp[cbp$zip %in% zip_full & (cbp$year == 1994 | cbp$year == 2012), ], 
+  c("zip"), 
+  summarize,
+  total_change = emp[2] - emp[1], 
+  percent_change = (emp[2] / emp[1]) - 1
+  )
+
+cbp_chg <- transform(cbp_chg, zip = as.character(zip))
+```
+
+```{r}
+p_dat <- fortify(zip_map, region = "zcta")
+p_dat <- merge(p_dat, cbp_chg, by.x = "id", by.y = "zip")
+p_dat <- p_dat[order(p_dat$order), ]
+p_dat <- p_dat[!is.na(p_dat$total_change), ]
+
+ggplot(p_dat, aes(long, lat, group = group, fill = total_change)) + 
+  geom_polygon() + 
+  geom_path(colour = "grey", lwd = 0.1) + 
+  coord_equal() + 
+  scale_fill_gradient2()
+
+ggplot(p_dat, aes(long, lat, group = group, fill = percent_change)) + 
+  geom_polygon() + 
+  geom_path(colour = "grey", lwd = 0.1) + 
+  coord_equal()
+```
+
+Ferguson Focus
+-------------------------------------------------------
+Blah, blah, blah.
+
+```{r ferguson-map}
+zip_ferg <- c(63121, 63134, 63135, 63136, 63033, 63140, 63145)
+
+# Employment: Missing Data
+zip_full <- ddply(
+  cbp[(cbp$year == 1994 | cbp$year == 2012) & cbp$zip %in% zip_ferg, ], 
+  c("zip"), 
+  summarize, 
+  obs = sum(as.integer(emp > 0))
+  )
+zip_full <- zip_full[zip_full$obs == 2, 1]
+
+# Employment Change 
+cbp_chg <- ddply(
+  cbp[cbp$zip %in% zip_full & (cbp$year == 1994 | cbp$year == 2012), ], 
   c("zip"), 
   summarize,
   total_change = emp[2] - emp[1], 

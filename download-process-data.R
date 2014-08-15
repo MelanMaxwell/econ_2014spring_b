@@ -3,7 +3,7 @@ library(plyr)
 library(rgdal)
 
 # Years
-years <- c(2000:2012)
+years <- c(1994:2012)
 
 # Zip Codes
 zip_codes <- read.csv("data/geocorr2k.csv", colClasses = "character")
